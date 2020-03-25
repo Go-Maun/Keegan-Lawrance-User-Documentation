@@ -18,3 +18,11 @@ This writing will also need to be changed
 {:toc}
 
 ---
+
+## heading 1
+
+random text
+
+## heading 2
+
+more random text
