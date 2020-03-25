@@ -26,3 +26,7 @@ random text
 ## heading 2
 
 more random text
+
+## Test image od cute dog
+
+![Cute dog test](https://github.com/Go-Maun/Keegan-Lawrance-User-Documentation/blob/gh-pages/assets/images/doggo-test.png?raw=true "This dog is cute alt text")
