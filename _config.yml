@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Testing Just The Docs
 description: This will change when we work on it!
-baseurl: "/Keegan-Lawrance-User_Documentation" # the subpath of your site, e.g. /blog
+baseurl: "/Keegan-Lawrance-User-Documentation" # the subpath of your site, e.g. /blog
 url: "https://go-maun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
