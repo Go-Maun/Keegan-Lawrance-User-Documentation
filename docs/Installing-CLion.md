@@ -71,7 +71,7 @@ clion 5
 
 2nd Image
 
-![IDE SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694992667947434014/unknown.png "IDE Second Page")
+![IDE SecondPage](https://cdn.discordapp.com/attachments/498622698050813962/695054760893612083/unknown.png "IDE Second Page")
 
 
 3rd Image
