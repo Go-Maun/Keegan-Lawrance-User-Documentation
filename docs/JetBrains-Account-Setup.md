@@ -40,5 +40,8 @@ some other other other other text
 
 Make sure to double check these two boxes before signing up.
 ![CLion box checks](https://cdn.discordapp.com/attachments/694977588405469265/694990889902145596/unknown.png "CLion checkboxes")
+
+After filling in your information, click the Submit button at the bottom of the screen. This should redirect you to another page and display this window for you. This means that you have successfully made your JetBrains account!
+![CLion Successful Account](https://cdn.discordapp.com/attachments/498622698050813962/695025702109446246/unknown.png "CLion account")
 ____
 
