@@ -30,7 +30,7 @@ https://cygwin.com/install.html
 
 ![Cygwin FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984235353768079/unknown.png "Setup 5")
 
-@@@@@@
+
 https://cygwin.com/mirrors.html
 ![Cygwin SixthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984840172404806/unknown.png "Setup 6")
 
