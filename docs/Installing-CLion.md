@@ -83,3 +83,34 @@ clion 5
 
 ![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
 
+
+5th image
+
+![IDE 5thPage](https://cdn.discordapp.com/attachments/498622698050813962/695049719889657896/unknown.png "IDE 5th page")
+
+
+6th image
+
+![IDE 6thPage](https://cdn.discordapp.com/attachments/694977588405469265/694995496720269363/unknown.png "IDE 6th page")
+
+
+## Creating Your First C Program!
+
+HelloWorld 1
+
+![HelloWorld](https://cdn.discordapp.com/attachments/498622698050813962/695050703609135114/unknown.png "helloworld 1")
+
+
+HelloWorld 2
+
+![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
+
+
+HelloWorld 3
+
+![HelloWorld3](https://cdn.discordapp.com/attachments/498622698050813962/695052272958439435/unknown.png "helloworld 3")
+
+
+!HelloWorld 4
+
+![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
