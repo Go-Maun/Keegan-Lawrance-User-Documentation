@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Installing CLion
+title: Installing Cygwin
 nav_order: 10
 ---
