@@ -43,7 +43,7 @@ signup 3
 
 signup 4
 
-![CLion Account Setup](https://cdn.discordapp.com/attachments/498622698050813962/695024057992609792/unknown.png "CLion Accountpage alt text")
+![CLion Account Setup](https://cdn.discordapp.com/attachments/498622698050813962/695048750149795850/unknown.png "CLion Accountpage alt text")
 
 
 signup 5
