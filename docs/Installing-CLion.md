@@ -76,12 +76,12 @@ clion 5
 
 2.1st Image
 
-![IDE 2.1Page](https://cdn.discordapp.com/attachments/498622698050813962/695055067027341342/unknown.png.png "IDE 21")
+![IDE 21Page](https://cdn.discordapp.com/attachments/498622698050813962/695055067027341342/unknown.png.png "IDE 21")
 
 
 2.2nd Image
 
-![IDE 2.2Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
+![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
 
 
 3rd Image
