@@ -25,3 +25,4 @@ This writing will also need to be changed
 ## Creating Your JetBrains Account
 
 ![CLion Home Page](https://cdn.discordapp.com/attachments/498622698050813962/695022168819499038/unknown.png "CLion HomePage alt text")
+![CLion SignUp Page](https://cdn.discordapp.com/attachments/498622698050813962/695022993683775498/unknown.png "CLion SignUp alt text")
