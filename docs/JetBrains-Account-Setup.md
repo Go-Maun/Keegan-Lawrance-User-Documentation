@@ -21,8 +21,7 @@ This writing will also need to be changed
 
 ## Navigating To The Sign-Up Page
 
-random text
 
 ## Creating Your JetBrains Account
 
-![Cute dog test](https://github.com/Go-Maun/Keegan-Lawrance-User-Documentation/blob/gh-pages/assets/images/doggo-test.png?raw=true "This dog is cute alt text")
+![Cute dog test](https://cdn.discordapp.com/attachments/694977588405469265/694988509718511706/unknown.png "This dog is cute alt text")
