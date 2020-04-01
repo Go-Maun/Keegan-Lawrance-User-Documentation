@@ -18,7 +18,7 @@ https://cygwin.com/install.html
 ![Cygwin thirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694983315295305878/unknown.png "Setup 3")
 
 ![Cygwin fourthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984033549156403/unknown.png "Setup 4")
-![Cygwin fourthPageAddition(https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
+![Cygwin fourthPageAddition](https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
 
 ![Cygwin FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984235353768079/unknown.png "Setup 5")
 
