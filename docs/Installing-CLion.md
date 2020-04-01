@@ -74,12 +74,12 @@ clion 5
 ![IDE SecondPage](https://imgur.com/a/8Jz5iOa "IDE Second Page")
 
 
-2.1st Image
+21st Image
 
 ![IDE 21Page](https://cdn.discordapp.com/attachments/498622698050813962/695055067027341342/unknown.png.png "IDE 21")
 
 
-2.2nd Image
+22nd Image
 
 ![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
 
