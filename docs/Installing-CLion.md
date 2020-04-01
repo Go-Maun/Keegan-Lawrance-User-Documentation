@@ -21,7 +21,7 @@ This writing will also need to be changed
 
 ## heading 1
 
-random text
+![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
 
 ## heading 2
 
