@@ -27,10 +27,22 @@ This writing will also need to be changed
 
 ![CLion RunningDotExe](https://cdn.discordapp.com/attachments/498622698050813962/695028299470209064/unknown.png ".exe")
 
-## heading 2
+## Running the Setup file
 
-more random text
+![CLion FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694991483794751650/unknown.png "First Page")
+![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
+![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
+![CLion ForthPage](https://cdn.discordapp.com/attachments/694977588405469265/694991892710162462/unknown.png "Forth Page")
+![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 
-## Test image od cute dog
+## Running CLion For The First Time
 
-![Cute dog test](https://github.com/Go-Maun/Keegan-Lawrance-User-Documentation/blob/gh-pages/assets/images/doggo-test.png?raw=true "This dog is cute alt text")
+![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
+![IDE SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694992667947434014/unknown.png "IDE Second Page")
+![IDE ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694994779032911872/unknown.png "IDE Third Page")
+![IDE ForthPage](https://cdn.discordapp.com/attachments/694977588405469265/694994907525415033/unknown.png "IDE Forth Page")
+![IDE FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694995125629353984/unknown.png "IDE Fifth Page")
+![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Sixth Page")
+
+
+
