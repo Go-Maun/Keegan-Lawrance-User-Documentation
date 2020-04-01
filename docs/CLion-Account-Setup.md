@@ -4,7 +4,7 @@ title: Creating a CLion Account
 nav_order: 10
 ---
 
-# Task 2
+# Creating a Clion Account
 {: .no_toc }
 
 
