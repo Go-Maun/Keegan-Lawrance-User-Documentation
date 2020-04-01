@@ -36,13 +36,17 @@ This writing will also need to be changed
 ![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 
 ## Running CLion For The First Time
-
+1st Image
 ![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
+
+2nd Image
 ![IDE SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694992667947434014/unknown.png "IDE Second Page")
-![IDE ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694994779032911872/unknown.png "IDE Third Page")
-![IDE ForthPage](https://cdn.discordapp.com/attachments/694977588405469265/694994907525415033/unknown.png "IDE Forth Page")
-![IDE FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694995125629353984/unknown.png "IDE Fifth Page")
-![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Sixth Page")
+
+3rd Image
+![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
+
+4th Image
+![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
 
 
 
