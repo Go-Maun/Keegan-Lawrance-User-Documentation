@@ -39,6 +39,8 @@ https://cygwin.com/mirrors.html
 # Selecting Packages
 ![Cygwin Package1](https://cdn.discordapp.com/attachments/498622698050813962/695039018433511434/unknown.png "Package 1")
 
+![Cygwin Package1.5](https://cdn.discordapp.com/attachments/498622698050813962/695042959472590908/unknown.png "Package 1.5")
+
 ![Cygwin Package2](https://cdn.discordapp.com/attachments/498622698050813962/695039874658467940/unknown.png "Package 2")
 
 ![Cygwin Package3](https://cdn.discordapp.com/attachments/498622698050813962/695040472485330984/unknown.png "Package 3")
