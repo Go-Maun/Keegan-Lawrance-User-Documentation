@@ -26,10 +26,12 @@ setup 1
 
 
 setup 2
+
 ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
 
 
 setup 3
+
 ![CLion RunningDotExe](https://cdn.discordapp.com/attachments/498622698050813962/695028299470209064/unknown.png ".exe")
 
 
