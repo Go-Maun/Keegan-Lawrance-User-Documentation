@@ -19,14 +19,10 @@ This writing will also need to be changed
 
 ---
 
-## heading 1
+## Navigating To The Sign-Up Page
 
 random text
 
-## heading 2
-
-more random text
-
-## Test image of cute dog
+## Creating Your JetBrains Account
 
 ![Cute dog test](https://github.com/Go-Maun/Keegan-Lawrance-User-Documentation/blob/gh-pages/assets/images/doggo-test.png?raw=true "This dog is cute alt text")
