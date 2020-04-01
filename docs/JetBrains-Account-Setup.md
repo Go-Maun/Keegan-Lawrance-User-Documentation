@@ -24,4 +24,4 @@ This writing will also need to be changed
 
 ## Creating Your JetBrains Account
 
-![Cute dog test](https://cdn.discordapp.com/attachments/694977588405469265/694988509718511706/unknown.png "This dog is cute alt text")
+![CLion Home Page](https://cdn.discordapp.com/attachments/498622698050813962/695022168819499038/unknown.png "CLion HomePage alt text")
