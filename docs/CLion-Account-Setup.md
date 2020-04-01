@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 2
+title: Creating a CLion Account
 nav_order: 10
 ---
 
