@@ -80,6 +80,7 @@ clion 5
 
 
 2.2nd Image
+
 ![IDE 2.2Page(https://cdn.discordapp.com/attachments/498622698050813962/695055526572195920/unknown.png "IDE 2.2")
 
 
