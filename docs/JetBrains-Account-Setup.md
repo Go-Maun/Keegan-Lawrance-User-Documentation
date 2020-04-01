@@ -23,6 +23,22 @@ This writing will also need to be changed
 
 
 ## Creating Your JetBrains Account
-
+some text
 ![CLion Home Page](https://cdn.discordapp.com/attachments/498622698050813962/695022168819499038/unknown.png "CLion HomePage alt text")
+____
+some other text
 ![CLion SignUp Page](https://cdn.discordapp.com/attachments/498622698050813962/695022993683775498/unknown.png "CLion SignUp alt text")
+____
+some other other text
+![CLion Successful SignUp Page](https://cdn.discordapp.com/attachments/619382734984577042/695023479334109264/unknown.png "CLion Confirmation Signup alt text")
+____
+some other other o ther text
+![CLion Email](https://cdn.discordapp.com/attachments/694977588405469265/694990599753039973/unknown.png "Clion email alt text")
+____
+some other other other other text
+![CLion Account Setup](https://cdn.discordapp.com/attachments/498622698050813962/695024057992609792/unknown.png "CLion Accountpage alt text")
+
+Make sure to double check these two boxes before signing up.
+![CLion box checks](https://cdn.discordapp.com/attachments/694977588405469265/694990889902145596/unknown.png "CLion checkboxes")
+____
+
