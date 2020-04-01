@@ -37,6 +37,8 @@ https://cygwin.com/mirrors.html
 ![Cygwin SixthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984840172404806/unknown.png "Setup 6")
 
 # Selecting Packages
+
+## Selecting gcc-g++
 ![Cygwin Package1](https://cdn.discordapp.com/attachments/498622698050813962/695039018433511434/unknown.png "Package 1")
 
 ![Cygwin Package1.5](https://cdn.discordapp.com/attachments/498622698050813962/695042959472590908/unknown.png "Package 1.5")
@@ -48,3 +50,18 @@ https://cygwin.com/mirrors.html
 ![Cygwin Package4](https://cdn.discordapp.com/attachments/498622698050813962/695041017744851014/unknown.png "Package 4")
 
 ![Cygwin Package5](https://cdn.discordapp.com/attachments/498622698050813962/695041637331501126/unknown.png "Package 5")
+
+## Selecting gdb
+![Cygwin gdb](https://cdn.discordapp.com/attachments/498622698050813962/695043794910838894/unknown.png "gdb 1")
+
+## Selecting make
+![Cygwin make](https://cdn.discordapp.com/attachments/498622698050813962/695044666927743026/unknown.png "make")
+
+# Downloading the Packages
+![Cygwin package download](https://cdn.discordapp.com/attachments/498622698050813962/695045219090956368/unknown.png "package download")
+
+![Cygwin package download2](https://cdn.discordapp.com/attachments/694977588405469265/694987045621202995/unknown.png "package download 2")
+
+![Cygwin package download3](https://cdn.discordapp.com/attachments/694977588405469265/694987084036833341/unknown.png "package download 3")
+
+![Cygwin package download4](https://cdn.discordapp.com/attachments/694977588405469265/694987469409615952/unknown.png "package download 4")
