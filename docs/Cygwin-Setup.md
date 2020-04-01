@@ -12,7 +12,7 @@ nav_order: 10
 
 ---
 
-# Installing The Cygwin Setup
+## Installing The Cygwin Setup
 cygwin installer 1
 
 https://cygwin.com/install.html
@@ -25,7 +25,7 @@ cygwin installer 2
 
 
 
-# Running the Cygwin Setup
+## Running the Cygwin Setup
 setup 1
 
 ![Cygwin firstPage](https://cdn.discordapp.com/attachments/694977588405469265/694983080238252053/unknown.png "Setup 1")
@@ -66,10 +66,10 @@ https://cygwin.com/mirrors.html
 
 
 
-# Selecting Packages
+## Selecting Packages
 some text to follow conventions
 
-## Selecting gcc-g++
+### Selecting gcc-g++
 gcc 1
 
 ![Cygwin Package1](https://cdn.discordapp.com/attachments/498622698050813962/695039018433511434/unknown.png "Package 1")
@@ -99,20 +99,20 @@ gcc 6
 ![Cygwin Package5](https://cdn.discordapp.com/attachments/498622698050813962/695041637331501126/unknown.png "Package 5")
 
 
-## Selecting gdb
+### Selecting gdb
 gdb 1
 
 ![Cygwin gdb](https://cdn.discordapp.com/attachments/498622698050813962/695043794910838894/unknown.png "gdb 1")
 
 
-## Selecting make
+### Selecting make
 make 1
 
 ![Cygwin make](https://cdn.discordapp.com/attachments/498622698050813962/695044666927743026/unknown.png "make")
 
 
 
-# Downloading the Packages
+## Downloading the Packages
 pdownload 1
 
 ![Cygwin package download](https://cdn.discordapp.com/attachments/498622698050813962/695045219090956368/unknown.png "package download")
