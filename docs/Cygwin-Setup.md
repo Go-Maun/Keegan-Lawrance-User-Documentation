@@ -32,6 +32,8 @@ https://cygwin.com/install.html
 
 
 https://cygwin.com/mirrors.html
+
+
 ![Cygwin SixthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984840172404806/unknown.png "Setup 6")
 
 # Selecting Packages
