@@ -13,20 +13,27 @@ nav_order: 10
 ---
 
 ## Installing The Cygwin Setup
-cygwin installer 1
+### **1.** Go to [Cygwin's Website](https://cygwin.com/install.html)
+{: .no_toc }
 
-https://cygwin.com/install.html
+
+Depending on your computer, you will want to either download the 64-bit Version, or the 32-bit Version. If you are not certain of which version is compatible with your computer, it is safer to download the 32-bit Version.
+
 ![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 
 
-cygwin installer 2
+### **2.** Run _setup-x86.exe_
+{: .no_toc }
 
 ![Cygwin Download Link](https://cdn.discordapp.com/attachments/498622698050813962/695036150854713416/unknown.png "Download2")
 
 
 
 ## Running the Cygwin Setup
-setup 1
+### **1.** Initial Setup Window
+{: .no_toc }
+
+If you get a security warning then it is safe to ignore it and run the program. Click on ``Next``
 
 ![Cygwin firstPage](https://cdn.discordapp.com/attachments/694977588405469265/694983080238252053/unknown.png "Setup 1")
 
