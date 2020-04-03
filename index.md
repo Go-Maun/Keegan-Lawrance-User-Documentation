@@ -6,13 +6,19 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Testing Markdown, remembering to use parralel headings
-{: .fs-9 }
+# Introduction
+//{: .fs-9 }
+The instructions inside this document will guide you to installing, setting up, and using CLion through the use of Cygwin. This will tell you everything that you need to start coding in a C program!
+//{: .fs-6 .fw-300 }
 
-this is something that ive been changing.
-{: .fs-6 .fw-300 }
+CLion is a Integrated Development Environment (IDE) program created by [JetBrains](https://www.jetbrains.com/). This IDE is specific for coding in the language C. JetBrains offers the use of CLions with a 30-day free trial, and a $199.99 fee for the first year of purchase, so make use of your free trial while it lasts!
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+To use CLion, you will need to install another program called [Cygwin](https://www.cygwin.com/). Cygwin contains large collections of open source tools that will allow you to effectively code in the CLion IDE. For the use of CLion, we will be using Cygwin to download and use:
+1. gcc-g++ (EDITORS NOTE: Add link for definition)
+2. gdb (EDITORS NOTE: Add link for definition)
+3. make (EDITORS NOTE: Add link for definition)
+
+//[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
