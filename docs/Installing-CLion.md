@@ -94,7 +94,7 @@ You can leave this as default and click Next.
 <br/><br/>
 You will need to restart your computer to finish the installation of CLion.
 <br/>
-<span style="color:red; font-size:7em;">WARNING: </span>Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the "I want to manually reboot later" option before clicking finish. 
+<span style="color:red";>WARNING: </span>Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the "I want to manually reboot later" option before clicking finish. 
 
 ![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 
