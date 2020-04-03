@@ -21,7 +21,8 @@ To use CLion, you will need to install another program called [Cygwin](https://w
 2. [gdb] (EDITORS NOTE: Add link for definition)
 3. [make] (EDITORS NOTE: Add link for definition)
 
-####Prerequisite
+#### Prerequisite
+
   Windows Operating System
 
 <!--[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }-->
