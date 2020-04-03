@@ -27,7 +27,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 ### **1.** Go to the CLion website
 {: .no_toc }
 Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/).
-<br/>
+<br/><br/>
 Click on the download button displayed on the top right to go to the download page.
 
 ![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
@@ -37,7 +37,7 @@ Click on the download button displayed on the top right to go to the download pa
 ### **2.** Download the Setup
 {: .no_toc }
 Click on the Download button on the middle of the screen. 
-<br/>
+<br/><br/>
 On the right side of that button, you have an option to download a .exe or a .zip file. For the sake of simplicity and these instructions, you will be using the .exe to install CLion.
 
 ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
@@ -47,7 +47,7 @@ On the right side of that button, you have an option to download a .exe or a .zi
 ### **3.** Open the Setup
 {: .no_toc }
 After clicking on the download button, you will be redirected to the page displayed below, and you will start downloading the CLion setup.
-<br/>
+<br/><br/>
 When the setup is done, run the program by clicking on the downloaded file.
 
 ![CLion RunningDotExe](https://cdn.discordapp.com/attachments/498622698050813962/695028299470209064/unknown.png ".exe")
@@ -66,9 +66,9 @@ When you open the setup file, this window below will show up. Click ``Next >``
 ### **2.** Run the Setup pt.2
 {: .no_toc }
 The next page displays the location of where CLion will be downloaded on your computer. 
-<br/>
+<br/><br/>
 If you wish to change the destination of where you wish to download the files, click on the Browse button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
-<br/>
+<br/><br/>
 Click ``Next >``
 
 ![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
