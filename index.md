@@ -9,8 +9,9 @@ permalink: /
 # Introduction
 {: .fs-9 }
 This will tell you everything that you need to start coding in a C program!
-<hr>
 {: .fs-6 .fw-300 }
+
+<hr>
 
 The instructions inside this document will guide you to installing, setting up, and using Cygwin to program in the CLion Integrated Development Environment (IDE). This manual is for any users, beginner or experienced, who wish to begin coding using the C language
 
