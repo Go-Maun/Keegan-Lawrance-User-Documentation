@@ -19,7 +19,8 @@ This writing will also need to be changed
 
 ---
 ## Creating Your JetBrains Account
-### **1.** Visit the JetBrains [CLion homepage here](https://www.jetbrains.com/clion/). You should be greeted with a page displayed below.
+### **1.** Go to the JetBrains Site
+Visit the JetBrains [CLion homepage here](https://www.jetbrains.com/clion/). You should be greeted with a page displayed below.
 {: .no_toc }
 Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695542876016476160/unknown.png" alt="drawing" width="25"/> icon at the top right of the website to redirect to the sign-up page.
 
