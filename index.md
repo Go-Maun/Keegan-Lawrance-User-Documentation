@@ -7,9 +7,11 @@ permalink: /
 ---
 
 # Introduction
-<!--{: .fs-9 }-->
-The instructions inside this document will guide you to installing, setting up, and using CLion through the use of Cygwin. This will tell you everything that you need to start coding in a C program!
-<!--{: .fs-6 .fw-300 }-->
+{: .fs-9 }
+The instructions inside this document will guide you to installing, setting up, and using Cygwin through the use of CLion. This will tell you everything that you need to start coding in a C program!
+{: .fs-6 .fw-300 }
+
+This manual is for any users, biginner or experienced, who wish to begin coding using the C language
 
 CLion is a Integrated Development Environment (IDE) program created by [JetBrains](https://www.jetbrains.com/). This IDE is specific for coding in the language C. JetBrains offers the use of CLions with a 30-day free trial, and a $199.99 fee for the first year of purchase, so make use of your free trial while it lasts!
 
