@@ -105,14 +105,15 @@ You will need to restart your computer to finish the installation of CLion.
 <br/>
 
 ## Run CLion For The First Time
-**1.** Open the CLion program
-<br/><br/>
+### **1.** Open the CLion program
+{: .no_toc }
 You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.
 As a new user, you will not have any settings to import, so click the "Do not import settings" option and click OK.
 
 ![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
 
 <br/>
+
 ### **2.** Set up your customization
 {: .no_toc }
 This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose "Darkula". If you want a light-themed IDE, choose "Light". 
@@ -157,7 +158,7 @@ Click on "Start using CLion" on the bottom right on the window.
 
 ![IDE 5thPage](https://cdn.discordapp.com/attachments/498622698050813962/695049719889657896/unknown.png "IDE 5th page")
 
-</br>
+<br/>
 
 ### **7.** Welcome to CLion!
 {: .no_toc }
@@ -169,6 +170,8 @@ You now have access to CLion and it's features!
 <br/>
 
 ## Creating Your First C Program!
+You have succesfully downloaded CLion! 
+This part of the section will show you how to compile and run the default "Hello, World!" file.
 
 ### **1.** Create Your First Program
 {: .no_toc }
