@@ -69,11 +69,11 @@ Click next.
 <br/><br/>
 The next window will display a number of boxes to be checked.
 The boxes to be checked are:
-[x] 64-bit launcher
-[x] Add launchers dir to the PATH
-[x] Add "Open Folder as Project"
-[x] .c
-[x] .h
+- [x] 64-bit launcher
+- [x] Add launchers dir to the PATH
+- [x] Add "Open Folder as Project"
+- [x] .c
+- [x] .h
 
 After you have checked these boxes, click Next.
  
@@ -94,7 +94,7 @@ You can leave this as default and click Next.
 <br/><br/>
 You will need to restart your computer to finish the installation of CLion.
 <br/>
-<img src="https://cdn.discordapp.com/attachments/498622698050813962/695552535246798868/53_warning-512_1.webp alt="warningIcon" width="25"/> Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the "I want to manually reboot later" option before clicking finish. 
+<img src="https://cdn.discordapp.com/attachments/498622698050813962/695562170213072896/alert_attention_danger_error_warning-512.png alt="warningIcon" width="25"/> Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the "I want to manually reboot later" option before clicking finish. 
 
 ![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 
