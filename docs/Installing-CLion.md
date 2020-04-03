@@ -53,7 +53,7 @@ When the setup is done, run the program by clicking on the downloaded file.
 ## Running the Setup file
 ### **1.** Run the Setup pt.1
 {: .no_toc }
-When you open the setup file, this window below will show up. Click next.
+When you open the setup file, this window below will show up. Click ``Next >``
 
 ![CLion FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694991483794751650/unknown.png "First Page")
 
@@ -63,7 +63,7 @@ When you open the setup file, this window below will show up. Click next.
 {: .no_toc }
 The next page displays the location of where CLion will be downloaded on your computer. 
 If you wish to change the destination of where you wish to download the files, click on the Browse button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
-Click next.
+Click ``Next >``
 
 ![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
 
@@ -79,7 +79,7 @@ The boxes to be checked are:
 - [x] .c
 - [x] .h
 
-After you have checked these boxes, click Next.
+After you have checked these boxes, click ``Next >``
  
 ![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
 
@@ -88,7 +88,7 @@ After you have checked these boxes, click Next.
 ### **4.** Run the Setup pt.4
 {: .no_toc }
 This next window allows you to choose a start menu folder for the program's shortcuts.
-You can leave this as default and click Next.
+You can leave this as default and click ``Next >``
 
 ![CLion ForthPage](https://cdn.discordapp.com/attachments/498622698050813962/695551842888712201/unknown.png "Forth Page")
 
@@ -98,17 +98,19 @@ You can leave this as default and click Next.
 {: .no_toc }
 You will need to restart your computer to finish the installation of CLion.
 <br/>
-<p style='color:red'>WARNING </p>Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the "I want to manually reboot later" option before clicking finish. 
+<p style='color:red'>WARNING </p>Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the ``I want to manually reboot later`` option before clicking finish. 
 
 ![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 
 <br/>
 
 ## Run CLion For The First Time
+This section of the page will help you set up your CLion IDE.
+
 ### **1.** Open the CLion program
 {: .no_toc }
 You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.
-As a new user, you will not have any settings to import, so click the "Do not import settings" option and click OK.
+As a new user, you will not have any settings to import, so click the "Do not import settings" option and click ``OK``
 
 ![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
 
@@ -116,8 +118,8 @@ As a new user, you will not have any settings to import, so click the "Do not im
 
 ### **2.** Set up your customization
 {: .no_toc }
-This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose "Darkula". If you want a light-themed IDE, choose "Light". 
-Afterwards, click on the "Skip Remaining and Set Defaults" button on the bottom left side of the window. 
+This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose ``Darkula``. If you want a light-themed IDE, choose ``Light``. 
+Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window. 
 
 ![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
 
@@ -125,7 +127,7 @@ Afterwards, click on the "Skip Remaining and Set Defaults" button on the bottom 
 
 ### **3.** Activate Your Free Trial Account pt.1
 {: .no_toc }
-To activate your free trial account, click on the "Evaluate for free" button on the top of the window.
+To activate your free trial account, click on the ``Evaluate for free`` button on the top of the window.
 
 ![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
 
@@ -134,7 +136,7 @@ To activate your free trial account, click on the "Evaluate for free" button on 
 ### **4.** Activate Your Free Trial Account pt.2
 {: .no_toc }
 Check mark the two boxes displayed on the window and enter your email address.
-The "Evaluate" button should highlight and indicate you to click it. After clicking the "Evaluate" button, click Continue. 
+The ``Evaluate`` button should highlight and indicate you to click it. After clicking the button, click ``Continue`` 
 
 ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
 
@@ -143,7 +145,7 @@ The "Evaluate" button should highlight and indicate you to click it. After click
 ### **5.** Sign Into Your JetBrains Account
 {: .no_toc }
 You should be redirected to this window. Enter in your email and password to sign in. 
-Once you have entered in your information, click Continue on the bottom right of the window.
+Once you have entered in your information, click ``Continue`` on the bottom right of the window.
 
 ![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
 
@@ -153,7 +155,7 @@ Once you have entered in your information, click Continue on the bottom right of
 {: .no_toc }
 CLion should automatically detect your Cygwin and connect to it.
 You can tell that you have Cygwin connected if the *Debugger* section shows "*Cygwin GDB*".
-If it does not, click the triple dot *(...)* button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.
+If it does not, click the triple dot ``...`` button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.
 Click on "Start using CLion" on the bottom right on the window.
 
 ![IDE 5thPage](https://cdn.discordapp.com/attachments/498622698050813962/695049719889657896/unknown.png "IDE 5th page")
@@ -170,14 +172,14 @@ You now have access to CLion and it's features!
 <br/>
 
 ## Creating Your First C Program!
-You have succesfully downloaded CLion! 
+You have succesfully set up your CLion IDE!
 This part of the section will show you how to compile and run the default "Hello, World!" file.
 
 ### **1.** Create Your First Program
 {: .no_toc }
-Click on the "New Project" button on the front page, and this window will pop up.
-Navigate to the "C Executable" Section on the left side of the window and change language standard to *C99*.
-Click on the "Create" button on the bottom right.
+Click on the ``New Project`` button on the front page, and this window will pop up.
+Navigate to the ``C Executable`` Section on the left side of the window and change language standard to *C99*.
+Click on the ``Create`` button on the bottom right.
 
 ![HelloWorld](https://cdn.discordapp.com/attachments/498622698050813962/695050703609135114/unknown.png "helloworld 1")
 
@@ -186,7 +188,7 @@ Click on the "Create" button on the bottom right.
 ### **2.** Execute and Run a Code pt.1
 {: .no_toc }
 This is what you will see after creating your file C file. 
-A *Tip of the Day* will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click "Close".
+A *Tip of the Day* will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.
 
 ![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
 
