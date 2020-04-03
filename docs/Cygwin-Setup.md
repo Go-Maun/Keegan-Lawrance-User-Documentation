@@ -13,6 +13,9 @@ nav_order: 10
 ---
 
 ## Installing The Cygwin Setup
+
+
+First, you will be setting up the directory and download source 
 ### **1.** Go to [Cygwin's Website](https://cygwin.com/install.html)
 {: .no_toc }
 
@@ -33,7 +36,7 @@ Depending on your computer, you will want to either download the 64-bit Version,
 ### **1.** Setup Cygwin pt.1
 {: .no_toc }
 
-If you get a security warning then it is safe to ignore it and run the program. Click on ``Next >``
+If you get a security warning, it is safe to ignore it and run the program. Click on ``Next >``
 
 ![Cygwin firstPage](https://cdn.discordapp.com/attachments/694977588405469265/694983080238252053/unknown.png "Setup 1")
 <br/>
