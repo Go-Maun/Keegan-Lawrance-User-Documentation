@@ -30,7 +30,7 @@ Click on the download button displayed on the top right to go to the download pa
 <br/><br/>
 
 **2.** Download the Setup
-<br/>
+<br/><br/>
 Click on the Download button on the middle of the screen. On the right side of that button, you have an option to download a .exe or a .zip file. For the sake of simplicity and these instructions, you will be using the .exe to install CLion.
 
 ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
