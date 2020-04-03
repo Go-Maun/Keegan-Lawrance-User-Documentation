@@ -51,7 +51,7 @@ When the setup is done, run the program by clicking on the downloaded file.
 <br/>
 
 ## Running the Setup file
-### **1.** Running the Setup pt.1
+### **1.** Run the Setup pt.1
 {: .no_toc }
 When you open the setup file, this window below will show up. Click next.
 
@@ -59,7 +59,7 @@ When you open the setup file, this window below will show up. Click next.
 
 <br/>
 
-### **2.** Running the Setup pt.2
+### **2.** Run the Setup pt.2
 {: .no_toc }
 The next page displays the location of where CLion will be downloaded on your computer. 
 If you wish to change the destination of where you wish to download the files, click on the Browse button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
@@ -69,7 +69,7 @@ Click next.
 
 <br/>
 
-### **3.** Running the Setup pt.3
+### **3.** Run the Setup pt.3
 {: .no_toc }
 The next window will display a number of boxes to be checked.
 The boxes to be checked are:
@@ -85,7 +85,7 @@ After you have checked these boxes, click Next.
 
 <br/>
 
-### **4.** Running the Setup pt.4
+### **4.** Run the Setup pt.4
 {: .no_toc }
 This next window allows you to choose a start menu folder for the program's shortcuts.
 You can leave this as default and click Next.
@@ -94,7 +94,7 @@ You can leave this as default and click Next.
 
 <br/>
 
-### **5.** Running the Setup pt.4
+### **5.** Run the Setup pt.4
 {: .no_toc }
 You will need to restart your computer to finish the installation of CLion.
 <br/>
@@ -104,7 +104,7 @@ You will need to restart your computer to finish the installation of CLion.
 
 <br/>
 
-## Running CLion For The First Time
+## Run CLion For The First Time
 **1.** Open the CLion program
 <br/><br/>
 You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.
@@ -180,7 +180,7 @@ Click on the "Create" button on the bottom right.
 
 <br/>
 
-### **2.** Running the Code pt.1
+### **2.** Execute and Run a Code pt.1
 {: .no_toc }
 This is what you will see after creating your file C file. 
 A *Tip of the Day* will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click "Close".
@@ -189,7 +189,7 @@ A *Tip of the Day* will show up. If you wish to read about what the IDE has to o
 
 <br/>
 
-### **3.** Running the Code pt.2
+### **3.** Execute and Run a Code pt.2
 {: .no_toc }
 Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE. 
 
@@ -197,7 +197,7 @@ Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962
 
 <br/>
 
-### **4.** Running the Code pt.3
+### **4.** Execute and Run the Code pt.3
 {: .no_toc }
 A box should show up on the bottom of the IDE. If it shows: ```Hello, World!```, then your program works!
 
