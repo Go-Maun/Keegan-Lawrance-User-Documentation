@@ -8,7 +8,7 @@ nav_order: 11
 {: .no_toc }
 
 
-This writing will also need to be changed
+This section of the document will guide you on how to create a JetBrains account to use the CLion IDE.
 {: .fs-6 .fw-300 }
 
 ---
