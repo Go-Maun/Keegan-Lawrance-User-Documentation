@@ -21,7 +21,7 @@ This writing will also need to be changed
 
 ## Downloading the Setup .exe file
 **1.** Go to the CLion website
-<br/>
+<br/><br/>
 Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/).
 Click on the download button displayed on the top right to go to the download page.
 
@@ -38,7 +38,7 @@ Click on the Download button on the middle of the screen. On the right side of t
 <br/><br/>
 
 ####**3.** Open the Setup
-<br/>
+<br/><br/>
 After clicking on the download button, you will be redirected to the page displayed below, and you will start downloading the CLion setup.
 When the setup is done, run the program by clicking on the downloaded file.
 
@@ -92,7 +92,7 @@ You can leave this as default and click Next.
 
 ## Running CLion For The First Time
 **1.** Open the CLion program
-<br/>
+<br/><br/>
 You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.
 As a new user, you will not have any settings to import, so click the "Do not import settings" option and click OK.
 
@@ -101,7 +101,7 @@ As a new user, you will not have any settings to import, so click the "Do not im
 <br/><br/>
 
 **2.** Set up your customization
-<br/>
+<br/><br/>
 This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose "Darkula". If you want a light-themed IDE, choose "Light". 
 Afterwards, click on the "Skip Remaining and Set Defaults" button on the bottom left side of the window. 
 
@@ -110,7 +110,7 @@ Afterwards, click on the "Skip Remaining and Set Defaults" button on the bottom 
 <br/><br/>
 
 **3.** Activate Your Free Trial Account pt.1
-<br/>
+<br/><br/>
 To activate your free trial account, click on the "Evaluate for free" button on the top of the window.
 
 ![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
@@ -118,7 +118,7 @@ To activate your free trial account, click on the "Evaluate for free" button on 
 <br/><br/>
 
 **4.** Activate Your Free Trial Account pt.2
-<br/>
+<br/><br/>
 Check mark the two boxes displayed on the window and enter your email address.
 The "Evaluate" button should highlight and indicate you to click it. After clicking the "Evaluate" button, click Continue. 
 
@@ -127,7 +127,7 @@ The "Evaluate" button should highlight and indicate you to click it. After click
 <br/><br/>
 
 **5.** Sign Into Your JetBrains Account
-<br/>
+<br/><br/>
 You should be redirected to this window. Enter in your email and password to sign in. 
 Once you have entered in your information, click Continue on the bottom right of the window.
 
@@ -136,7 +136,7 @@ Once you have entered in your information, click Continue on the bottom right of
 <br/><br/>
 
 **6.** Import Cygwin Into The IDE
-<br/>
+<br/><br/>
 CLion should automatically detect your Cygwin and connect to it.
 You can tell that you have Cygwin connected if the *Debugger* section shows "*Cygwin GDB*".
 If it does not, click the triple dot *(...)* button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.
@@ -147,7 +147,7 @@ Click on "Start using CLion" on the bottom right on the window.
 </br><br/>
 
 **7.** Welcome to CLion!
-<br/>
+<br/><br/>
 After you finish setting up your CLion, you should see this window.
 You now have access to CLion and it's features!
 
@@ -158,7 +158,7 @@ You now have access to CLion and it's features!
 ## Creating Your First C Program!
 
 **1.** Create Your First Program
-<br/>
+<br/><br/>
 Click on the "New Project" button on the front page, and this window will pop up.
 Navigate to the "C Executable" Section on the left side of the window and change language standard to *C99*.
 Click on the "Create" button on the bottom right.
@@ -168,7 +168,7 @@ Click on the "Create" button on the bottom right.
 <br/><br/>
 
 **2.** Running the Code pt.1
-<br/>
+<br/><br/>
 This is what you will see after creating your file C file. 
 A *Tip of the Day* will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click "Close".
 
@@ -177,7 +177,7 @@ A *Tip of the Day* will show up. If you wish to read about what the IDE has to o
 <br/><br/>
 
 **3.** Running the Code pt.2
-<br/>
+<br/><br/>
 Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE. 
 
 ![HelloWorld3](https://cdn.discordapp.com/attachments/498622698050813962/695052272958439435/unknown.png "helloworld 3")
@@ -185,7 +185,7 @@ Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962
 <br/><br/>
 
 **4.** Running the Code pt.3
-<br/>
+<br/><br/>
 A box should show up on the bottom of the IDE. If it shows: ```Hello, World!```, then your program works!
 
 ![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
