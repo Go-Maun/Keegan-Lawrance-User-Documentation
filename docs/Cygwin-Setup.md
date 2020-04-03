@@ -16,7 +16,7 @@ nav_order: 10
 cygwin installer 1
 
 https://cygwin.com/install.html
-![Cygwin Download Page](https://cdn.discordapp.com/attachments/694977588405469265/695755803755282432/unknown.png "Download")
+![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 
 
 cygwin installer 2
