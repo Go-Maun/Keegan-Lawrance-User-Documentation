@@ -11,12 +11,6 @@ nav_order: 11
 This writing will also need to be changed
 {: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 ## Creating Your JetBrains Account
 ### **1.** Go to the JetBrains Site
