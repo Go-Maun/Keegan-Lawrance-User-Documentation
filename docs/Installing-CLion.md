@@ -37,7 +37,7 @@ Click on the Download button on the middle of the screen. On the right side of t
 
 <br/><br/>
 
-####**3.** Open the Setup
+**3.** Open the Setup
 <br/><br/>
 After clicking on the download button, you will be redirected to the page displayed below, and you will start downloading the CLion setup.
 When the setup is done, run the program by clicking on the downloaded file.
@@ -47,13 +47,17 @@ When the setup is done, run the program by clicking on the downloaded file.
 <br/><br/>
 
 ## Running the Setup file
-**1.** When you open the setup file, this window below will show up. Click next.
+**1.** Running the Setup pt.1
+<br/><br/>
+When you open the setup file, this window below will show up. Click next.
 
 ![CLion FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694991483794751650/unknown.png "First Page")
 
 <br/><br/>
 
-**2.** The next page displays the location of where CLion will be downloaded on your computer. 
+**2.** Running the Setup pt.2
+<br/><br/>
+The next page displays the location of where CLion will be downloaded on your computer. 
 If you wish to change the destination of where you wish to download the files, click on the Browse button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
 Click next.
 
@@ -61,7 +65,9 @@ Click next.
 
 <br/><br/>
 
-**3.** The next window will display a number of boxes to be checked.
+**3.** Running the Setup pt.3
+<br/><br/>
+The next window will display a number of boxes to be checked.
 The boxes to be checked are:
 [x] 64-bit launcher
 [x] Add launchers dir to the PATH
@@ -75,14 +81,18 @@ After you have checked these boxes, click Next.
 
 <br/><br/>
 
-**4.** This next window allows you to choose a start menu folder for the program's shortcuts.
+**4.** Running the Setup pt.4
+<br/><br/>
+This next window allows you to choose a start menu folder for the program's shortcuts.
 You can leave this as default and click Next.
 
 ![CLion ForthPage](https://cdn.discordapp.com/attachments/498622698050813962/695551842888712201/unknown.png "Forth Page")
 
 <br/><br/>
 
-**5.** You will need to restart your computer to finish the installation of CLion.
+**5.** Running the Setup pt.4
+<br/><br/>
+You will need to restart your computer to finish the installation of CLion.
 <br/>
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/695552535246798868/53_warning-512_1.webp alt="warningIcon" width="25"/> Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the "I want to manually reboot later" option before clicking finish. 
 
