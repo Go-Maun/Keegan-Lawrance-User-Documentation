@@ -27,6 +27,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 ### **1.** Go to the CLion website
 {: .no_toc }
 Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/).
+
 Click on the download button displayed on the top right to go to the download page.
 
 ![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
@@ -35,7 +36,9 @@ Click on the download button displayed on the top right to go to the download pa
 
 ### **2.** Download the Setup
 {: .no_toc }
-Click on the Download button on the middle of the screen. On the right side of that button, you have an option to download a .exe or a .zip file. For the sake of simplicity and these instructions, you will be using the .exe to install CLion.
+Click on the Download button on the middle of the screen. 
+
+On the right side of that button, you have an option to download a .exe or a .zip file. For the sake of simplicity and these instructions, you will be using the .exe to install CLion.
 
 ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
 
@@ -44,6 +47,7 @@ Click on the Download button on the middle of the screen. On the right side of t
 ### **3.** Open the Setup
 {: .no_toc }
 After clicking on the download button, you will be redirected to the page displayed below, and you will start downloading the CLion setup.
+
 When the setup is done, run the program by clicking on the downloaded file.
 
 ![CLion RunningDotExe](https://cdn.discordapp.com/attachments/498622698050813962/695028299470209064/unknown.png ".exe")
@@ -62,7 +66,9 @@ When you open the setup file, this window below will show up. Click ``Next >``
 ### **2.** Run the Setup pt.2
 {: .no_toc }
 The next page displays the location of where CLion will be downloaded on your computer. 
+
 If you wish to change the destination of where you wish to download the files, click on the Browse button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
+
 Click ``Next >``
 
 ![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
@@ -154,9 +160,9 @@ Once you have entered in your information, click ``Continue`` on the bottom righ
 ### **6.** Import Cygwin Into The IDE
 {: .no_toc }
 CLion should automatically detect your Cygwin and connect to it.
-You can tell that you have Cygwin connected if the *Debugger* section shows "*Cygwin GDB*".
+You can tell that you have Cygwin connected if the ``Debugger`` section shows ``Cygwin GDB``.
 If it does not, click the triple dot ``...`` button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.
-Click on "Start using CLion" on the bottom right on the window.
+Click on ``Start using CLion`` on the bottom right on the window.
 
 ![IDE 5thPage](https://cdn.discordapp.com/attachments/498622698050813962/695049719889657896/unknown.png "IDE 5th page")
 
@@ -173,6 +179,7 @@ You now have access to CLion and it's features!
 
 ## Creating Your First C Program!
 You have succesfully set up your CLion IDE!
+
 This part of the section will show you how to compile and run the default "Hello, World!" file.
 
 ### **1.** Create Your First Program
