@@ -20,7 +20,7 @@ This writing will also need to be changed
 ---
 
 ## Navigating To The Sign-Up Page
-frontpage1
+**1.** Visit the JetBrains [CLion homepage here](https://www.jetbrains.com/clion/). You should be greeted with a page displayed below. Click on the ![Icon](https://cdn.discordapp.com/attachments/498622698050813962/695542876016476160/unknown.png "Icon") at the top right of the website to redirect to the sign-up page.
 
 ![CLion Home Page](https://cdn.discordapp.com/attachments/498622698050813962/695022168819499038/unknown.png "CLion HomePage alt text")
 
