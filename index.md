@@ -8,7 +8,9 @@ permalink: /
 
 # Introduction
 {: .fs-9 }
-The instructions inside this document will guide you to installing, setting up, and using Cygwin through the use of CLion. This will tell you everything that you need to start coding in a C program!
+The instructions inside this document will guide you to installing, setting up, and using Cygwin through the use of CLion. 
+
+This will tell you everything that you need to start coding in a C program!
 {: .fs-6 .fw-300 }
 
 This manual is for any users, biginner or experienced, who wish to begin coding using the C language
