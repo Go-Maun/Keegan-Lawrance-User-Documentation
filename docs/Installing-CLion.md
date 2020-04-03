@@ -78,7 +78,7 @@ Click ``Next >``
 ### **3.** Run the Setup pt.3
 {: .no_toc }
 The next window will display a number of boxes to be checked.
-<br/>
+<br/><br/>
 The boxes to be checked are:
 - [x] 64-bit launcher _(32-bit, depending on downloaded version)_
 - [x] Add launchers dir to the PATH
@@ -95,7 +95,7 @@ After you have checked these boxes, click ``Next >``
 ### **4.** Run the Setup pt.4
 {: .no_toc }
 This next window allows you to choose a start menu folder for the program's shortcuts.
-<br/>
+<br/><br/>
 You can leave this as default and click ``Next >``
 
 ![CLion ForthPage](https://cdn.discordapp.com/attachments/498622698050813962/695551842888712201/unknown.png "Forth Page")
@@ -118,7 +118,7 @@ This section of the page will help you set up your CLion IDE.
 ### **1.** Open the CLion program
 {: .no_toc }
 You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.
-<br/>
+<br/><br/>
 As a new user, you will not have any settings to import, so click the "Do not import settings" option and click ``OK``
 
 ![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
@@ -128,9 +128,9 @@ As a new user, you will not have any settings to import, so click the "Do not im
 ### **2.** Set up your customization
 {: .no_toc }
 This window will pop-up afterwards. This is for your personal customization. 
-<br/>
+<br/><br/>
 If you want a dark-themed IDE, choose ``Darkula``. If you want a light-themed IDE, choose ``Light``. 
-<br/>
+<br/><br/>
 Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window. 
 
 ![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
@@ -148,7 +148,7 @@ To activate your free trial account, click on the ``Evaluate for free`` button o
 ### **4.** Activate Your Free Trial Account pt.2
 {: .no_toc }
 Check mark the two boxes displayed on the window and enter your email address.
-<br/>
+<br/><br/>
 The ``Evaluate`` button should highlight and indicate you to click it. After clicking the button, click ``Continue`` 
 
 ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
@@ -158,7 +158,7 @@ The ``Evaluate`` button should highlight and indicate you to click it. After cli
 ### **5.** Sign Into Your JetBrains Account
 {: .no_toc }
 You should be redirected to this window. Enter in your email and password to sign in. 
-<br/>
+<br/><br/>
 Once you have entered in your information, click ``Continue`` on the bottom right of the window.
 
 ![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
@@ -168,11 +168,11 @@ Once you have entered in your information, click ``Continue`` on the bottom righ
 ### **6.** Import Cygwin Into The IDE
 {: .no_toc }
 CLion should automatically detect your Cygwin and connect to it.
-<br/>
+<br/><br/>
 You can tell that you have Cygwin connected if the ``Debugger`` section shows ``Cygwin GDB``.
-<br/>
+<br/><br/>
 If it does not, click the triple dot ``...`` button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.
-<br/>
+<br/><br/>
 Click on ``Start using CLion`` on the bottom right on the window.
 
 ![IDE 5thPage](https://cdn.discordapp.com/attachments/498622698050813962/695049719889657896/unknown.png "IDE 5th page")
@@ -182,7 +182,7 @@ Click on ``Start using CLion`` on the bottom right on the window.
 ### **7.** Welcome to CLion!
 {: .no_toc }
 After you finish setting up your CLion, you should see this window.
-<br/>
+<br/><br/>
 You now have access to CLion and it's features!
 
 ![IDE 6thPage](https://cdn.discordapp.com/attachments/694977588405469265/694995496720269363/unknown.png "IDE 6th page")
@@ -197,9 +197,9 @@ This part of the section will show you how to compile and run the default "Hello
 ### **1.** Create Your First Program
 {: .no_toc }
 Click on the ``New Project`` button on the front page, and this window will pop up.
-<br/>
+<br/><br/>
 Navigate to the ``C Executable`` Section on the left side of the window and change language standard to *C99*.
-<br/>
+<br/><br/>
 Click on the ``Create`` button on the bottom right.
 
 ![HelloWorld](https://cdn.discordapp.com/attachments/498622698050813962/695050703609135114/unknown.png "helloworld 1")
@@ -209,7 +209,7 @@ Click on the ``Create`` button on the bottom right.
 ### **2.** Execute and Run a Code pt.1
 {: .no_toc }
 This is what you will see after creating your file C file. 
-<br/>
+<br/><br/>
 A *Tip of the Day* will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.
 
 ![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
