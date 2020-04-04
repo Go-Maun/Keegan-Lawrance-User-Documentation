@@ -4,7 +4,7 @@ title: Setting Up CLion
 nav_order: 12
 ---
 
-# Installing CLion
+# Setting Up CLion
 {: .no_toc }
 
 CLion is the IDE that Cygwin will be using to compile the C language. We are using CLion due to the amount of useful features for the time limit that it is available for free to the user.
