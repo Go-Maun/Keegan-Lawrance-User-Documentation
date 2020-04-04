@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: C Setup and Installation 
 description: Install and Setup Cliom, and Cygwin
-baseurl: "/Keegan-Lawrance-User-Documentation" # the subpath of your site, e.g. /blog
+baseurl: "/Guide_To_Installing_CLion"
+# baseurl: "/Keegan-Lawrance-User-Documentation" # the subpath of your site, e.g. /blog
 url: "https://go-maun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
