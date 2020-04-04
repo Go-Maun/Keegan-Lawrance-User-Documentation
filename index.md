@@ -21,14 +21,14 @@ This manual is for any users, beginner or experienced, who wish to begin coding 
 
 ---
 
-## What is CLion?
+## What are CLion and Cygwin?
 
-CLion is an IDE program created by [JetBrains](https://www.jetbrains.com/). CLion allows users to code in both C and C++ computer languages, for this document we will guide you towards using this IDE to code in C. JetBrains offers the use of CLions with a 30-day free trial, and a $199.99 fee for the first year of purchase, so make use of your free trial while it lasts!
+CLion is an IDE program created by [JetBrains](https://www.jetbrains.com/). CLion allows users to code in both C and C++ computer languages, for this document we will guide you towards using this IDE to code in C. JetBrains offers the use of CLions with a 30-day free trial.
 
 To use CLion, you will need to install another program called [Cygwin](https://www.cygwin.com/). Cygwin contains large collections of open source tools that will allow you to effectively code in the CLion IDE. For the use of CLion, we will be using Cygwin to download and use:
-- gcc-g++
-- gdb
-- make
+- _gcc-g++_
+- _gdb_
+- _make_
 <hr>
 
 ## Prerequisites
@@ -60,3 +60,16 @@ This includes:
 - and much more!
 <br/>
 All of these will help improve any coder, regardless of experience. And with a 30-day free trial, it would be a waste to not make use of this IDE!
+<hr>
+
+## Typographic Conventions
+This document will use the following typographic conventions.
+
+| Convention | Typeface | Examples |
+| ---------- | -------- | -------- |
+| Intractable Field | ``Message Blocks`` | ``Submit``, ``Next >`` |
+| Executable File | _Italics_ | _gcc-g++_, _gdb_, _make_ |
+
+<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/> **Note:** This is the note icon to indicate to be aware of the following instruction.
+<br/><br/>
+<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/> **Warning:** This is the warning icon to indicate to be cautious of the following instruction.
