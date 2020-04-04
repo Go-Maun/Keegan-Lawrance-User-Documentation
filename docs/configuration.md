@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Installing Cygwin
+nav_order: 3
+---
 
 # Configuration
 {: .no_toc }
