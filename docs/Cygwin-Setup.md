@@ -39,14 +39,17 @@ First, you will be setting up the directory and download source
   If you get a security warning, it is safe to ignore it and run the program. Click on ``Next >``<br/>  
   ![Cygwin firstPage](https://cdn.discordapp.com/attachments/694977588405469265/694983080238252053/unknown.png "Setup 1")
   <br/>
+  
 2. Setup Cygwin pt.2<br/>  
   Select the ``Install from Internet`` download source, and click on ``Next >``<br/>  
   ![Cygwin secondPage](https://cdn.discordapp.com/attachments/498622698050813962/695036893087137902/unknown.png "Setup 2")
   <br/>
+  
 3. Setup Cygwin pt.3  
   Keep all selected defaults and click on ``Next >``<br/>  
   ![Cygwin thirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694983315295305878/unknown.png "Setup 3")
   <br/>
+  
 4. Setup Cygwin pt.4  
   Change the _Local Package Directory_ to ``C:\cygwin64\downloads`` if it is not already set to that as default and click on ``Next >``<br/>  
   ![Cygwin fourthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984033549156403/unknown.png "Setup 4")  
@@ -54,13 +57,16 @@ First, you will be setting up the directory and download source
   **NOTE:** If an error message pops up, it is safe to create the new directory by clicking ``Yes``<br/>  
   ![Cygwin fourthPageAddition](https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
   <br/>
+  
 5. Setup Cygwin pt.5<br/>  
   Select ``Direct Connection`` and click on ``Next >``<br/>  
   ![Cygwin FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984235353768079/unknown.png "Setup 5")
   <br/>
+  
 6. Setup Cygwin pt.6<br/>  
   Search for the closest [Mirror Site](https://cygwin.com/mirrors.html) and select it in the scroll window. When your preferred download source is found, click on ``Next >``<br/>  
 ![Cygwin SixthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984840172404806/unknown.png "Setup 6")
+<br/>
 
 ## Selecting Packages
 These proceeding steps will cover what packages to choose, and how to choose them.
