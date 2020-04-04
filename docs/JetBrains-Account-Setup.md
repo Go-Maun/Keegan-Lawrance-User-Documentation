@@ -68,7 +68,7 @@ Make sure to double check these two boxes at the bottom before signing up.
 <br/>
 ### **7.** Complete Your Account Setup pt.2
 {: .no_toc }
-After filling in your information, click the Submit button at the bottom of the screen. 
+After filling in your information, click the ``Submit`` button at the bottom of the screen. 
 <br/><br/>
 You will be redirected to another page. This means that you have successfully set-up your JetBrains account!
 
