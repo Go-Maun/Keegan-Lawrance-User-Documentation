@@ -17,7 +17,7 @@ This section will answer possible questions and issues that may pop up during th
 
 ---
 
-## How do I check if I'm using a 64-bit or a 32-bit version of Windows?
+### How do I check if I'm using a 64-bit or a 32-bit version of Windows?
 To find what version of Windows you are using:
 1. Press the Windows key on your keyboard
 <br/><br/>
@@ -32,7 +32,7 @@ To find what version of Windows you are using:
 ![SystemType](https://cdn.discordapp.com/attachments/498622698050813962/695873602377220116/Untitled.png "SystemType")
 <br/><br/>
 
-## I cannot locate my CLion application!
+### I cannot locate my CLion application!
 If your CLion shortcut is not displayed on your Desktop, there are ways to manually create one.
 1. Press the Windows key on your keyboard
 <br/><br/>
@@ -48,7 +48,7 @@ If your CLion shortcut is not displayed on your Desktop, there are ways to manua
 6. Once you have accessed the folder, right click on any black space in the folder and click ``Paste``
 <br/><br/>
 
-## I do not have access to the free trial to CLion!
+### I do not have access to the free trial to CLion!
 Not having access to CLion could mean two things.
 1. You have used up your 30-day free trial of CLion
      - In that case, the only solution is to purchase the program from the site itself for $199.00USD a month.
@@ -58,12 +58,12 @@ Not having access to CLion could mean two things.
      - If this does not solve your issue, we recommend sending JetBrains a support ticket for more help.
 <br/><br/>
 
-## My CLion IDE is not detecting Cygwin!
+### My CLion IDE is not detecting Cygwin!
 If CLion cannot locate your Cygwin, then it could mean that the installation of gdb, gcc-g++, and make was not successful.
 - We suggest reviewing the [Installing Cygwin section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/) of the document to make sure you downloaded the correct packages for CLion to work.
 - If the issue persists, go back to the [Installing Cygwin section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/) to look at the **6th step of Running CLion For The First Time** and manually locate each Cygwin package. They should be the same as the diagram.
 
-## I keep getting a popup saying "Windows Defender might be impacting your build performance." Is it safe to allow the IDE to automatically fix this issue?
+### I keep getting a popup saying "Windows Defender might be impacting your build performance." Is it safe to allow the IDE to automatically fix this issue?
 The problem should look something like this.
 <br/>![WarningAlert](https://cdn.discordapp.com/attachments/498622698050813962/695924569088983101/unknown.png "WarningAlert")
 <br/><br/>
