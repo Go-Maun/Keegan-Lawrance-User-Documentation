@@ -8,6 +8,7 @@ nav_order: 17
 {: .no_toc }
 This section will answer possible questions and issues that may pop up during the installation of Cygwin and CLion.
 
+---
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -53,5 +54,19 @@ Not having access to CLion could mean two things.
      - In that case, the only solution is to purchase the program from the site itself for $199.00USD a month.
 <br/><br/>
 2. You have not properly set up and activated your JetBrains account.
-     - To solve this, we recommend [going over our "Create a CLion account" section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/JetBrains-Account-Setup/) to make sure you didn't forget a step.
+     - To solve this, we recommend going over our [Create a CLion account section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/JetBrains-Account-Setup/) to make sure you didn't forget a step.
      - If this does not solve your issue, we recommend sending JetBrains a support ticket for more help.
+<br/><br/>
+
+## My CLion IDE is not detecting Cygwin!
+If CLion cannot locate your Cygwin, then it could mean that the installation of gdb, gcc-g++, and make was not successful.
+- We suggest reviewing the [Installing Cygwin section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/) of the document to make sure you downloaded the correct packages for CLion to work.
+- If the issue persists, go back to the [Installing Cygwin section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/) to look at the **6th step of Running CLion For The First Time** and manually locate each Cygwin package. They should be the same as the diagram.
+
+## I keep getting a popup saying "Windows Defender might be impacting your build performance." Is it safe to allow the IDE to automatically fix this issue?
+The problem should look something like this.
+<br/>![WarningAlert](https://cdn.discordapp.com/attachments/498622698050813962/695924569088983101/unknown.png "WarningAlert")
+<br/><br/>
+It is safe to allow the IDE to fix the issue. Not fixing it should not cause any major complications with the IDE, so it is also fine to leave it alone.
+<br/><br/>
+If you wish to know more about the reasoning behind this message, [read the support article about it here.](https://cdn.discordapp.com/attachments/498622698050813962/695924569088983101/unknown.png)
