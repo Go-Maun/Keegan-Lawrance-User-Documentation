@@ -21,9 +21,36 @@ To use CLion, you will need to install another program called [Cygwin](https://w
 - gcc-g++
 - gdb
 - make
+<hr>
+
+## Prerequisites
+To start following the instructions in this document, you will need: 
+
+**Note:** This guide was not made specifically for Mac users, as both the creators of this document are Windows users.
+
+- access to a computer
+- any version of Windows (preferrably version 10)
+- an internet connection to download the setups, and
+- that's all!
+<hr>
+
+## Is This Guide For You?
+This document was made for any user who wishes to code in C, both experienced and inexperienced.
+<br/><br/>
+If you are interested in coding, and wish to start off by downloading the right programming IDE, then this document is for you!
+<hr>
+
+## Why Use CLion Over Other Programming IDES?
+CLion offers an abundance of helpful features and tips that will help you become a strong coding developer.
+<br/><br/>
+This includes:
+- a debugger
+- an error detector
+- a code editor to help refactor and refine your code
+- automatic code generator
+- personal customizations
+- and much more!
+<br/><br/>
+All of these will help improve any coder, regardless of experience. And with a 30-day free trial, it would be a waste to not make use of this IDE!
 
 <hr>
-## Prerequisites
-
-- Windows Operating System
-- That's about it!
