@@ -41,7 +41,7 @@ If your CLion shortcut is not displayed on your Desktop, there are ways to manua
 ## I do not have access to the free trial to CLion!
 Not having access to CLion could mean two things.
 1. You have used up your 30-day free trial of CLion
-- In that case, the only solution is to purchase the program from the site itself for $199.00USD a month.
+     - In that case, the only solution is to purchase the program from the site itself for $199.00USD a month.
 2. You have not properly set up and activated your JetBrains account.
-- To solve this, we recommend [going over our "Create a CLion account" section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/JetBrains-Account-Setup/) to make sure you didn't forget a step.
-- If this does not solve your issue, we recommend sending JetBrains a support ticket for more help.
+     - To solve this, we recommend [going over our "Create a CLion account" section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/JetBrains-Account-Setup/) to make sure you didn't forget a step.
+     - If this does not solve your issue, we recommend sending JetBrains a support ticket for more help.
