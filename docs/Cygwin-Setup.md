@@ -60,8 +60,8 @@ First, you will be setting up the directory and download source
   <br/>
 6. Setup Cygwin pt.6<br/>  
   Search for the closest [Mirror Site](https://cygwin.com/mirrors.html) and select it in the scroll window. When your preferred download source is found, click on ``Next >``<br/>  
-  ![Cygwin SixthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984840172404806/unknown.png "Setup 6")
-  <br/>
+![Cygwin SixthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984840172404806/unknown.png "Setup 6")
+<br/>
 ## Selecting Packages
 These proceeding steps will cover what packages to choose, and how to choose them.
 ### Selecting ``gcc-g++``
