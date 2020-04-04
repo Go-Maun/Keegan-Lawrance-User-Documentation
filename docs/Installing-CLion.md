@@ -36,7 +36,7 @@ Click on the ``Download`` button displayed on the top right to go to the downloa
 {: .no_toc }
 Click on the ``Download`` button on the middle of the screen. 
 <br/><br/>
-On the right side of that button, you have an option to download a ``.exe`` or a ``.zip`` file. For the sake of simplicity and these instructions, you will be using the ``.exe`` to install CLion.
+On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.
 
 ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
 
@@ -169,7 +169,7 @@ Once you have entered in your information, click ``Continue`` on the bottom righ
 {: .no_toc }
 CLion should automatically detect your Cygwin and connect to it.
 <br/><br/>
-You can tell that you have Cygwin connected if the ``Debugger`` section shows ``Cygwin GDB``.
+You can tell that you have Cygwin connected if the Debugger section shows _Cygwin GDB_.
 <br/><br/>
 If it does not, click the triple dot ``...`` button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.
 <br/><br/>
@@ -192,13 +192,13 @@ You now have access to CLion and it's features!
 ## Creating Your First C Program!
 You have succesfully set up your CLion IDE!
 
-This part of the section will show you how to compile and run the default ``Hello, World!`` file.
+This part of the section will show you how to compile and run the default "Hello, World!" file.
 
 ### **1.** Create Your First Program
 {: .no_toc }
 Click on the ``New Project`` button on the front page, and this window will pop up.
 <br/><br/>
-Navigate to the ``C Executable`` Section on the left side of the window and change language standard to ``C99``.
+Navigate to the ``C Executable`` section on the left side of the window and change language standard to ``C99``.
 <br/><br/>
 Click on the ``Create`` button on the bottom right.
 
@@ -210,7 +210,7 @@ Click on the ``Create`` button on the bottom right.
 {: .no_toc }
 This is what you will see after creating your file C file. 
 <br/><br/>
-A ``Tip of the Day`` will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.
+A "Tip of the Day" will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.
 
 ![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
 
@@ -226,6 +226,6 @@ Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962
 
 ### **4.** Execute and Run the Code pt.3
 {: .no_toc }
-A box should show up on the bottom of the IDE. If it shows: ```Hello, World!```, then your program works!
+A box should show up on the bottom of the IDE. If it shows: "Hello, World!", then your program works!
 
 ![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
