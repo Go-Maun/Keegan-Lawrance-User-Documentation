@@ -60,6 +60,5 @@ This includes:
 - and much more!
 
 <br/><br/>
-
 All of these will help improve any coder, regardless of experience. And with a 30-day free trial, it would be a waste to not make use of this IDE!
 
