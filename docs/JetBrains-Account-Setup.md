@@ -4,7 +4,7 @@ title: Creating a CLion Account
 nav_order: 11
 ---
 
-# Creating a Clion Account
+# Creating a CLion Account
 
 To use the CLion IDE, you must first create an account on the JetBrains website. 
 
