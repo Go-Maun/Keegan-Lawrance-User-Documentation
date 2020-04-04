@@ -11,6 +11,8 @@ To effectively use CLion, you will need to download some components supplied by 
 <br/><br/>
 This section will help you download Cygwin to install three specific packages for CLion.
 
+<hr>
+
 ## Table of contents
 {: .no_toc .text-delta }
 
