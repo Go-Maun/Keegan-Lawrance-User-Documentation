@@ -99,7 +99,7 @@ Search for the closest [Mirror Site](https://cygwin.com/mirrors.html) and select
 
 ## Selecting Packages
 These proceeding steps will cover what packages to choose, and how to choose them.
-### Selecting gcc-g++
+### Selecting ``gcc-g++``
 ``gcc-g++`` includes a collection of compilers, including C.
 ## **1.** Selecting ``gcc-g++`` pt.1
 {: .no_toc }
