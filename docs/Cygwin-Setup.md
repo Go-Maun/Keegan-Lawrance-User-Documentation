@@ -25,13 +25,13 @@ This section will help you download Cygwin to install three specific packages fo
 
 
 First, you will be setting up the directory and download source 
-1. Go to [Cygwin's Website](https://cygwin.com/install.html)<br/>  
-  Depending on your computer, you will want to either download the 64-bit version, or the 32-bit version.<br/>  
+**1.** Go to [Cygwin's Website](https://cygwin.com/install.html)<br/>  
+  Depending on your computer, you will want to either download the 1. - 64-bit version, or the 2. - 32-bit version.<br/>  
   **NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 <br/>
 
-2. Run _setup-x86.exe_<br/>  
+**2.** Run _setup-x86.exe_<br/>  
   ![Cygwin Download Link](https://cdn.discordapp.com/attachments/498622698050813962/695036150854713416/unknown.png "Download2")
 
 ## Running the Cygwin Setup
@@ -45,14 +45,14 @@ First, you will be setting up the directory and download source
   ![Cygwin secondPage](https://cdn.discordapp.com/attachments/498622698050813962/695036893087137902/unknown.png "Setup 2")
   <br/>
   
-3. Setup Cygwin pt.3  
+3. Setup Cygwin pt.3<br/>  
   Keep all selected defaults and click on ``Next >``<br/>  
   ![Cygwin thirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694983315295305878/unknown.png "Setup 3")
   <br/>
   
-4. Setup Cygwin pt.4  
+4. Setup Cygwin pt.4<br/>  
   Change the _Local Package Directory_ to ``C:\cygwin64\downloads`` if it is not already set to that as default and click on ``Next >``<br/>  
-  ![Cygwin fourthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984033549156403/unknown.png "Setup 4")  
+  ![Cygwin fourthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984033549156403/unknown.png "Setup 4") 
   <br/>
   **NOTE:** If an error message pops up, it is safe to create the new directory by clicking ``Yes``<br/>  
   ![Cygwin fourthPageAddition](https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
@@ -71,54 +71,35 @@ First, you will be setting up the directory and download source
 ## Selecting Packages
 These proceeding steps will cover what packages to choose, and how to choose them.
 ### Selecting ``gcc-g++``
-``gcc-g++`` includes a collection of compilers, including C.
-1. Selecting ``gcc-g++`` pt.1
-
-  Change the drop-down _View_ tab to ``Category`` if it already isn't selected
-
+1. Selecting ``gcc-g++`` pt.1<br/>  
+  Change the drop-down _View_ tab to ``Category`` if it already isn't selected<br/>  
   ![Cygwin Package1](https://cdn.discordapp.com/attachments/694977588405469265/696111097790595113/category.png "Package 1")
   <br/>
 
-2. Selecting ``gcc-g++`` pt.2
-
-
-  In the _Search_ field, search for ``gcc-g++``
-
+2. Selecting ``gcc-g++`` pt.2<br/>  
+  In the _Search_ field, search for ``gcc-g++``<br/>  
   ![Cygwin Package1.5](https://cdn.discordapp.com/attachments/498622698050813962/695042959472590908/unknown.png "Package 1.5")
   <br/>
 
-3. Selecting ``gcc-g++`` pt.3
-
-
-  Expand the _Devel_ level in the window.
-
+3. Selecting ``gcc-g++`` pt.3<br/>  
+  Expand the _Devel_ level in the window.<br/>  
   ![Cygwin Package2](https://cdn.discordapp.com/attachments/498622698050813962/695039874658467940/unknown.png "Package 2")
   <br/>
 
-
-4. Selecting ``gcc-g++`` pt.4
-
-
-  Search the _Devel_ drop-down list for an item that **EXACTLY** matches ``gcc-g++``. Click on the small arrow under the _New_ collumn.
-
+4. Selecting ``gcc-g++`` pt.4<br/>  
+  Search the _Devel_ drop-down list for an item that **EXACTLY** matches ``gcc-g++``. Click on the small arrow under the _New_ collumn.<br/>  
   ![Cygwin Package3](https://cdn.discordapp.com/attachments/498622698050813962/695040472485330984/unknown.png "Package 3")
   <br/>
 
-5. Selecting ``gcc-g++`` pt.5
-
-
-  On the drop-down menu, select the highest numbered version.
-
+5. Selecting ``gcc-g++`` pt.5<br/>  
+  On the drop-down menu, select the highest numbered version.<br/>  
   ![Cygwin Package4](https://cdn.discordapp.com/attachments/498622698050813962/695041017744851014/unknown.png "Package 4")
+  <br/>
 
-
-6. Selecting ``gcc-g++`` pt.6
-
-
-  Check the - [x] Src? check box
-
+6. Selecting ``gcc-g++`` pt.6<br/>  
+  Check the Src? check box<br/>  
   ![Cygwin Package5](https://cdn.discordapp.com/attachments/498622698050813962/695041637331501126/unknown.png "Package 5")
-
+  <br/>
 
 ### Selecting ``gdb``
 Follow along with the same steps from [gcc-g++](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/#selecting-gcc-g), searching instead for ``gdb``
