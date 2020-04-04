@@ -26,7 +26,7 @@ Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962
 {: .no_toc }
 On the bottom-right of the page, you will see a section to create your JetBrains account.
 <br/><br/>
-Put in your email and click the Sign-Up button.
+Put in your email and click the ``Sign Up`` button.
 
 ![CLion SignUp Page](https://cdn.discordapp.com/attachments/498622698050813962/695022993683775498/unknown.png "CLion SignUp alt text")
 
@@ -45,6 +45,8 @@ This means that you have successfully created your account.
 Check the email that you signed up with. 
 <br/><br/>
 Click on the confirmation email sent by JetBrains to activate your account.
+<br/><br/>
+Once the email has finished loading, click the ``Confirm your account`` hyperlink to verify your email.
 
 ![CLion Email](https://cdn.discordapp.com/attachments/694977588405469265/694990599753039973/unknown.png "Clion email alt text")
 
