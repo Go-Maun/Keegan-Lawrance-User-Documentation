@@ -7,8 +7,6 @@ nav_order: 12
 # Installing CLion
 {: .no_toc }
 
-<hr>
-
 CLion is the IDE that Cygwin will be using to compile the C language. We are using CLion due to the amount of useful features for the time limit that it is available for free to the user.
 
 <hr>
@@ -28,7 +26,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 {: .no_toc }
 Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/).
 <br/><br/>
-Click on the download button displayed on the top right to go to the download page.
+Click on the ``Download`` button displayed on the top right to go to the download page.
 
 ![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
 
@@ -36,9 +34,9 @@ Click on the download button displayed on the top right to go to the download pa
 
 ### **2.** Download the Setup
 {: .no_toc }
-Click on the Download button on the middle of the screen. 
+Click on the ``Download`` button on the middle of the screen. 
 <br/><br/>
-On the right side of that button, you have an option to download a .exe or a .zip file. For the sake of simplicity and these instructions, you will be using the .exe to install CLion.
+On the right side of that button, you have an option to download a ``.exe`` or a ``.zip`` file. For the sake of simplicity and these instructions, you will be using the ``.exe`` to install CLion.
 
 ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
 
@@ -67,7 +65,7 @@ When you open the setup file, this window below will show up. Click ``Next >``
 {: .no_toc }
 The next page displays the location of where CLion will be downloaded on your computer. 
 <br/><br/>
-If you wish to change the destination of where you wish to download the files, click on the Browse button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
+If you wish to change the destination of where you wish to download the files, click on the ``Browse`` button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
 <br/><br/>
 Click ``Next >``
 
@@ -106,7 +104,9 @@ You can leave this as default and click ``Next >``
 {: .no_toc }
 You will need to restart your computer to finish the installation of CLion.
 <br/>
-<p style='color:red'>WARNING </p>Clicking finish will forcibly restart your computer. If you do not wish to restart yet, click the ``I want to manually reboot later`` option before clicking finish. 
+<p style='color:red'><b>WARNING</b> </p>Clicking finish will forcibly restart your computer.
+<br/><br/>
+If you do not wish to restart yet, click the ``I want to manually reboot later`` option before clicking finish. 
 
 ![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 
@@ -119,7 +119,7 @@ This section of the page will help you set up your CLion IDE.
 {: .no_toc }
 You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.
 <br/><br/>
-As a new user, you will not have any settings to import, so click the "Do not import settings" option and click ``OK``
+As a new user, you will not have any settings to import, so click the ``Do not import settings`` option and click ``OK``
 
 ![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
 
@@ -149,7 +149,7 @@ To activate your free trial account, click on the ``Evaluate for free`` button o
 {: .no_toc }
 Check mark the two boxes displayed on the window and enter your email address.
 <br/><br/>
-The ``Evaluate`` button should highlight and indicate you to click it. After clicking the button, click ``Continue`` 
+The ``Evaluate`` button should then highlight and indicate you to click it. After clicking the button, click ``Continue`` 
 
 ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
 
@@ -192,13 +192,13 @@ You now have access to CLion and it's features!
 ## Creating Your First C Program!
 You have succesfully set up your CLion IDE!
 
-This part of the section will show you how to compile and run the default "Hello, World!" file.
+This part of the section will show you how to compile and run the default ``Hello, World!`` file.
 
 ### **1.** Create Your First Program
 {: .no_toc }
 Click on the ``New Project`` button on the front page, and this window will pop up.
 <br/><br/>
-Navigate to the ``C Executable`` Section on the left side of the window and change language standard to *C99*.
+Navigate to the ``C Executable`` Section on the left side of the window and change language standard to ``C99``.
 <br/><br/>
 Click on the ``Create`` button on the bottom right.
 
@@ -210,7 +210,7 @@ Click on the ``Create`` button on the bottom right.
 {: .no_toc }
 This is what you will see after creating your file C file. 
 <br/><br/>
-A *Tip of the Day* will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.
+A ``Tip of the Day`` will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.
 
 ![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
 
