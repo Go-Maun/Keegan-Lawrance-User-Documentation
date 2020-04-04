@@ -4,8 +4,9 @@ title: Troubleshooting
 nav_order: 17
 ---
 
-# Search
+# Troubleshooting
 {: .no_toc }
+This section will answer possible questions and issues that may pop up during the installation of Cygwin and CLion.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,71 +16,32 @@ nav_order: 17
 
 ---
 
-Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points:
+## How do I check if I'm using a 64-bit or a 32-bit version of Windows?
+To find what version of Windows you are using:
+1. Press the Windows key on your keyboard
+2. Search for ``System Information``
+<br/>This program should show up when you search it up.
+<br/>![SystemInformation](https://cdn.discordapp.com/attachments/498622698050813962/695913254781976598/unknown.png "SystemInformation")
+3. Open the ``System Information`` program.
+4. A window similar to the image below should show up. The section you are looking for is displayed in the image below.
+<br/>This will tell you which version of Windows you are using.
+![SystemType](https://cdn.discordapp.com/attachments/498622698050813962/695873602377220116/Untitled.png "SystemType")
 
-- Page title
-- Page content
-- Page URL
+## I cannot locate my CLion application!
+If your CLion shortcut is not displayed on your Desktop, there are ways to manually create one.
+1. Press the Windows key on your keyboard
+2. Search for ``CLion``
+<br/>The CLion application should show up as displayed below.
+<br/>![CLion](https://cdn.discordapp.com/attachments/498622698050813962/695915851731304448/Untitled.png "CLion")
+3. Right click the application, and click on ``Open file location``
+4. A folder will open containing the CLion application that you have downloaded. Right click the application and click on ``Copy``
+5. Locate the folder that you wish to have your shortcut added to. We recommend saving this copy to your Desktop.
+6. Once you have accessed the folder, right click on any black space in the folder and click ``Paste``
 
-## Set up search
-
-### Generate search index
-
-Before you can use search, you must initialize the feature by running this `rake` command that comes with `just-the-docs`:
-
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-
-This command creates the `search-data.json` file that Jekyll uses to create your search index. Alternatively, you can create the file manually in the `assets/js/` directory of your Jekyll site with this content:
-
-```liquid
-{% raw %}---
----
-{
-  {% assign comma = false %}
-  {% for page in site.html_pages %}{% if page.search_exclude != true %}{% if comma == true%},{% endif %}"{{ forloop.index0 }}": {
-    "title": "{{ page.title | replace: '&amp;', '&' }}",
-    "content": "{{ page.content | markdownify | replace: '</h', ' . </h' | replace: '<hr', ' . <hr' | replace: '</p', ' . </p' | replace: '</ul', ' . </ul' | replace: '</tr', ' . </tr' | replace: '</li', ' | </li' | replace: '</td', ' | </td' | strip_html | escape_once | remove: 'Table of contents' | remove: '```'  | remove: '---' | replace: '\', ' ' | replace: ' .  .  . ', ' . ' | replace: ' .  . ', ' . ' | normalize_whitespace }}",
-    "url": "{{ page.url | absolute_url }}",
-    "relUrl": "{{ page.url }}"
-  }{% assign comma = true %}
-  {% endif %}{% endfor %}
-}{% endraw %}
-```
-
-_Note: If you don't run this rake command or create this file manually, search will not work (or it will use the search index data from this docs site, not your site's content)._
-
-### Enable search in configuration
-
-In your site's `_config.yml`, enable search:
-
-```yaml
-# Enable or disable the site search
-search_enabled: true
-```
-
-The default is for hyphens to separate tokens in search terms:
-`gem-based` is equivalent to `gem based`, matching either word.
-To allow search for hyphenated words:
-
-```yaml
-# Set the search token separator
-search_tokenizer_separator: /[\s/]+/
-```
-
-## Hiding pages from search
-
-Sometimes you might have a page that you don't want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the `search_exclude: true` parameter to the page's YAML front matter:
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Page not found
-nav_exclude: true
-search_exclude: true
----
-```
+## I do not have access to the free trial to CLion!
+Not having access to CLion could mean two things.
+1. You have used up your 30-day free trial of CLion
+- In that case, the only solution is to purchase the program from the site itself for $199.00USD a month.
+2. You have not properly set up and activated your JetBrains account.
+- To solve this, we recommend [going over our "Create a CLion account" section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/JetBrains-Account-Setup/) to make sure you didn't forget a step.
+- If this does not solve your issue, we recommend sending JetBrains a support ticket for more help.
