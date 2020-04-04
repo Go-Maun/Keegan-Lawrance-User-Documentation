@@ -28,8 +28,10 @@ First, you will be setting up the directory and download source
 1. Go to [Cygwin's Website](https://cygwin.com/install.html)
 
 
-Depending on your computer, you will want to either download the 64-bit version, or the 32-bit version. 
-**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.
+  Depending on your computer, you will want to either download the 64-bit version, or the 32-bit version. 
+  
+  
+  **NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.
 ![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 <br/>
 2. Run _setup-x86.exe_
