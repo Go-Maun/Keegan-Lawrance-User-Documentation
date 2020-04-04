@@ -1,0 +1,4460 @@
+[33mcommit d03387db5229e192a4b8d03b5b679a5cfccfd754[m[33m ([m[1;36mHEAD -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Go-Maun <gomaun55@gmail.com>
+Date:   Fri Apr 3 20:13:57 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit ae9246faa8d1600b4a420f6c3556eca4d6cc18dc[m
+Author: Go-Maun <gomaun55@gmail.com>
+Date:   Fri Apr 3 20:12:47 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit eb74dbda0559a93b498ed20420084eea882ca9dc[m
+Author: Go-Maun <gomaun55@gmail.com>
+Date:   Fri Apr 3 20:11:31 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit dd421d916bc2ae2e138660eb8658ca836231d128[m
+Author: Go-Maun <gomaun55@gmail.com>
+Date:   Fri Apr 3 20:09:53 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit 1954b5d978e8aabb0e702e54db215191e3875d9c[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 19:00:23 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit 058e006b6b776b82b8c52dacaa511b05fe4f507b[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 18:59:43 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit 98fea54ed794de8ef050da1161a07b2c0c8cdd27[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:50:29 2020 -0700
+
+    Update index.md
+
+[33mcommit 52b71d179439f19b6a54cdabe375301c550e7387[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 18:49:08 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 5a198afed0b4b17ba4146212a2f9900117fb5668[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:43:40 2020 -0700
+
+    Update index.md
+    
+    Updated the introduction
+
+[33mcommit e345abf2ad421644e57ace4ce69c5618b0430cf6[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 18:41:51 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit eee799b68bab4baee264c3109550870f1964aa09[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 18:40:10 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit bad5b311b9264f5390c41383e31ce0f0c701f711[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:26:24 2020 -0700
+
+    Update search.md
+    
+    change nav order
+
+[33mcommit 03563badf8919d3a8b7994a8f45eb44ef626a641[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:23:16 2020 -0700
+
+    Delete color.md
+    
+    delete
+
+[33mcommit 82eeae3368eff5af1178b161e802e3c75139571d[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:22:58 2020 -0700
+
+    Delete layout.md
+    
+    delete
+
+[33mcommit cb9a85336f350b3b1ae527e5922128e8312634cf[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:22:48 2020 -0700
+
+    Delete responsive-modifiers.md
+    
+    delete
+
+[33mcommit def88e45a9f765595bc4ee41fbcb748c54c0be0e[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:22:34 2020 -0700
+
+    Delete typography.md
+    
+    delete
+
+[33mcommit 2781009081aa8b1a6a0625881c1925d9bc481b72[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:22:22 2020 -0700
+
+    Delete utilities.md
+
+[33mcommit 653d0b16d0ed1bfde8889b3135bfdd28f9d08e12[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:21:31 2020 -0700
+
+    Update search.md
+
+[33mcommit c18f1859d3f809ba41051d8511a310663bf13186[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:20:21 2020 -0700
+
+    Delete customization.md
+    
+    deleted
+
+[33mcommit bc481ee92a26f50689e9957d026fec81ae02c417[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:19:50 2020 -0700
+
+    Delete configuration.md
+    
+    delete
+
+[33mcommit e7df3147e280cbc93d389edfd8c2814487256f3d[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 18:18:59 2020 -0700
+
+    Delete navigation-structure.md
+    
+    deleting unneeded files
+
+[33mcommit 325744db491f86b9a4b28a2ddb85c6034acf508f[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 16:27:36 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit 048e0dc8282e1a827d8a2d0e358cdbf368beb938[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 16:26:20 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit 613b822045ed86269cc3b13b38f2b938282ceece[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 16:19:55 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 800529e9faaed49b3b3a96847af1b5db3d211264[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 16:17:11 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit e7e6467ebd5fab47e9abb554b83d08287a119974[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 16:15:03 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 2b96e93679b3e54bc00a70190321d18756b8fe89[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 16:14:32 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    modified setup cygwin
+
+[33mcommit 7e043baa1f12683a5034a296ffc42a3a5e9aedcc[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 16:12:28 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 47bcdcb42aa52e3173bca9583d3193ca1b732b6f[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 16:09:02 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit d8a5abbfc1b149162517b0a19a15cfd8c3bb0415[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:57:34 2020 -0700
+
+    Rename Setting-CLion.md to Installing-CLion.md
+
+[33mcommit e42c35b0fddea4c5737ad3fc87b98a011236ba14[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:55:37 2020 -0700
+
+    Update and rename Installing-CLion.md to Setting-CLion.md
+
+[33mcommit fed1d681f72b989730577342345e9e0b53a717a3[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 15:49:38 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit dc2ba46d21f18f9ba9cb15957db45f08ba14331f[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:49:29 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Parallel titles
+
+[33mcommit bdc814f596bfc72607fb8cbb9ed8dabf3070dd35[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:33:50 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit 051f91c18553c75033c704b15be48cb700300344[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:33:12 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit 409357e3b7a1b605eadd92e1347e4846b07ce475[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:29:44 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    Fixing more 3am mistakes
+
+[33mcommit 831b47169d4e7acadba24914e0cd957cbb464842[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:28:29 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    Fixing more 3am mistakes
+
+[33mcommit 00e18703b1f212eef7509f90a55e3f71f8c9f24d[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:27:54 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    Fixing my 3am mistakes
+
+[33mcommit 327d270a814a798f15ae3b1920b3166abff199cb[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 15:22:48 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit db054f3ef1a201ed5eaa0cb0b1c8d2107ccfb5a9[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 15:18:18 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit a2df360c8239185696a369c39fd0bbcaf3bfd371[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 15:16:50 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 60ba713d92687ffbd11fd2a73f938fedfce4f8ce[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 15:14:25 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 336141c6c5e506a549c6b93d358918a75b91800e[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:06:30 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    editing one of the images
+
+[33mcommit 4244223f7e549b7e4ee418e99ad212e8a9e5892a[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 15:05:45 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    Changing an image
+
+[33mcommit ffd940d905dcb5893085e68aefc8f1c6341847ba[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:56:18 2020 -0700
+
+    Update index.md
+
+[33mcommit 53f2032e38112ea43d866caac66dbab0b9f49a03[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:55:26 2020 -0700
+
+    Update index.md
+
+[33mcommit 5e6fc1b32b07084de9d93e625c2cd2db36e1b147[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:53:11 2020 -0700
+
+    Update index.md
+
+[33mcommit 766b46e013c3e1df455477f001e1d69ae4a633a3[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:52:24 2020 -0700
+
+    Update index.md
+
+[33mcommit 84e386535568776fe88523dff58259c0ca7424df[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:47:36 2020 -0700
+
+    Update index.md
+
+[33mcommit 77608b95c87159deb666792c7f545c0fe3542d8e[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:46:23 2020 -0700
+
+    Update index.md
+
+[33mcommit 73d16cdf0fa175700e1fda34caadb2e85af8cf3b[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:43:07 2020 -0700
+
+    Update index.md
+
+[33mcommit f995e00d51d5a3d4ed0a5cdb64fa82e2741c25a1[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Fri Apr 3 14:41:49 2020 -0700
+
+    Update index.md
+    
+    minor changes
+
+[33mcommit 5be4f03533d20e34129bc981affd5f26be8b936e[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 14:36:48 2020 -0700
+
+    Update _config.yml
+    
+    Dark theme
+
+[33mcommit ecac306a02ccffca4f65b695e7dcfac632cb0df1[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 14:35:04 2020 -0700
+
+    Update _config.yml
+    
+    changing to dark theme for easier readability for night owls
+
+[33mcommit d40da1b14232ba80311b8caac8a3ab2f983612cd[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:22:14 2020 -0700
+
+    Update Installing-CLion.md
+    
+    testing the warning
+
+[33mcommit b5af46d13ff38c86b9e18a3a851506453636dd0b[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:20:25 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 0e7ce033748411129bfa3479f20755b0516d5dac[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:19:26 2020 -0700
+
+    Update Installing-CLion.md
+    
+    fixing the warning sign
+
+[33mcommit 3c8176a1acfc3d9697ab034e46cba17fbfdafccc[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:16:58 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Fixing the checkboxes
+
+[33mcommit 555140440c448940d6d6c391059e210b5597bb69[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:14:39 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Finishing touches on the rough draft
+
+[33mcommit 995de9f7d08ee2166a6e5b5b7e75dcaf6f2ecdfd[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:14:07 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Finishing up white-spacing for the rough draft
+
+[33mcommit aeae9ba59a5b4678d8b6f10f0f4efdd0c03b1794[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:12:19 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Finished rough draft (i'm so sleepy)
+
+[33mcommit 40c10d9a5727880678993cc60bd5197f90a2f90b[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:10:28 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Finished rough draft (for now)
+
+[33mcommit 378d43c5d2683e54483b7e5c8d6e1e1766bc5660[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:09:51 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Fixing minor issues
+
+[33mcommit 56e808bf1f369b3922852ddb28459e68d1728bda[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 02:08:53 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Finished rough draft
+
+[33mcommit c56f87d870b5bcc15029f2142b774d542ef55afa[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:13:33 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    New line characters
+
+[33mcommit 5c005c56f66e6c1424001d47b262fd0f0560ed4d[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:11:50 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    Fixed some minor problems
+
+[33mcommit 8ae51d4edf9e538ceb4587b6de34435a9ff6a8cf[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:09:50 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    Finished rough draft
+
+[33mcommit b77bb84db8ece8f3fc6cb96a22a76beef1344657[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:03:49 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    resizing
+
+[33mcommit 1c4ed3f0dfaf2822d436f4fd388632b39e912ce9[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:03:29 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    playing around with icon resizing
+
+[33mcommit 9e3cf028b539566976a819839a7921a8e0e2ae83[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:01:53 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit d46b27d2a037e0ab96df97321dd4e8c2a22e73ec[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:01:29 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    changing icon size
+
+[33mcommit 16d40a1bfcffd24ed2a5a0f5d3dbe28d69a5cbe1[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 01:00:10 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    Wrote first step to test markdowns
+
+[33mcommit 6f49cf0e35db005475e946dea90662ffeb09d703[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 00:52:12 2020 -0700
+
+    Update index.md
+
+[33mcommit 65efd8f0117c9130b4b4bd1aba12320ad71bf582[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Fri Apr 3 00:51:18 2020 -0700
+
+    Update index.md
+    
+    Added introduction rough draft
+
+[33mcommit b16d2f15ed552fd3c6bca7cc349e15fe81bc40f3[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:52:39 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 93281989ddc08e96d9585176569265e02c7a800c[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:51:42 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit d66c7d92e0d5ff7cdefc7e1d7533ef6f9ac2ea4f[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:50:57 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit b80319eccedda06a55dbf78cf9e4afe667075848[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:50:20 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 15e28b6692f43d8713b7148b515833f510a6618d[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:49:16 2020 -0700
+
+    Update Installing-CLion.md
+    
+    testing commit
+
+[33mcommit ee9daeff80b41c6531939516dba6fd18d18d592b[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:48:55 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 647e94931200f890b2753c4b5db1b6393526d0a3[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:47:41 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 3bd5766a85032f9d7dab58c9f598e5097ff1fc94[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:46:27 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit e83ac9a83aeadfb23c050f999410d2fc64968497[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:45:12 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 6d12aebccd7979bf7864f9b16937ed2eb35f8983[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:44:12 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit d6136440921079fdb3677a7d55512bf60f6205cb[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:43:50 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 902b539e630e249531edb1b6ec732ebff9df3b94[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:43:39 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 1645558cd82cdd497908f269ea0750d8893fbbbc[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:39:41 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit fe1393f105c5f6f9dcbb86af20efbf9956ef60b8[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:31:59 2020 -0700
+
+    Update Installing-CLion.md
+    
+    Finished graphics and labelling
+
+[33mcommit bc113cbec9f57eb7c916c8e59f293ae6c9514d9a[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:15:53 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    fixed some images
+
+[33mcommit 9a5c99c4e7b1db34cf876e3df4e9b9b242fe277d[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:14:26 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    spacing
+
+[33mcommit 48d39f1c9965647e30c5e1f56ea06c3f2dd55f69[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:13:07 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    #hashtags
+
+[33mcommit 63e830b3a93aca8387a2a2a1ef618e74058c3278[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:12:20 2020 -0700
+
+    Update Installing-CLion.md
+    
+    spacing
+
+[33mcommit 8905faba72563ba5b4126b46c5b38264d6b853ba[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:12:00 2020 -0700
+
+    Update Installing-CLion.md
+    
+    spacing
+
+[33mcommit 2f96bfd8930ebdc462f084a25c92602368a6af44[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:09:26 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    spacing for images
+
+[33mcommit 27ee1d3ebcd8b47e32f1c8a08b1e374865f08796[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:07:30 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    finished graphics and labels
+
+[33mcommit b107dc2a8ba9707c278a4a373857b246bbd0269d[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 16:04:25 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    finished graphics
+
+[33mcommit f88a98915413650031c11a1d722414278b3f4079[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 15:52:58 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit fc90d4543e6d5f1decd0f20ba8e2b91367e9846a[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 15:50:19 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit d5d30879a3380ee4cf97f63db009e90f1864d6b8[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 15:49:52 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit 8e70a69e713153731698d96cf706ddb6bbc62c4e[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 15:47:52 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    Adding a lot of graphics..
+
+[33mcommit fec2903d045acc4c14d972bfec43594f81fd34a4[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 15:31:34 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit 7bb48d8d0637f30885c1b12f7cabacb88198b915[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 15:31:08 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit d17912cd1287c6a4f786fb2735c5089445648257[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 15:21:24 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit 41dcc65f174138b3af58ae8b476df130c11a8c17[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 15:07:23 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 59b2c1bc15c3855c666da7c4dd62ec3e5950da2a[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 15:04:25 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 062039c449178263b67e92ca2710608bd2d28f4b[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:54:52 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 058f426cbb474f00001badcee0c5a808cc811f6e[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:46:56 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 56317c76c685d82af283c57726b7b6f0aa84e800[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:45:42 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit add7cce58aa1d99df5fc23abb5d5925cee8fcd54[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:38:56 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    Added images
+
+[33mcommit 6ab83337665e3cbc160f5be0ddd9e6f489cd9c33[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:33:46 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit 1d93ea8a04eb8f740b79f25c1b9bc0c4dd1d4d67[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 14:31:32 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit b42a0a9e48ddc83ff512fe0d8480305818cee3e8[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:30:29 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+
+[33mcommit cdb4dd945f8d9dde7d534bd41efea0d0c69c3b7c[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:23:04 2020 -0700
+
+    Update JetBrains-Account-Setup.md
+    
+    limit testing
+
+[33mcommit 1506ea60e29a0670311a4907d1690116483b4f3f[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:18:41 2020 -0700
+
+    Update and rename CLion-Account-Setup.md to JetBrains-Account-Setup.md
+    
+    Naming Titles
+
+[33mcommit f2ca7111155b93d2be47be22482723bb9c5c3369[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 14:09:43 2020 -0700
+
+    Update Cygwin-Setup.md
+
+[33mcommit 2b6798b0219cee0265fee58f807429892e5436f3[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 14:01:47 2020 -0700
+
+    Update Cygwin-Setup.md
+    
+    added to nav order
+
+[33mcommit 454faa121efcbce1c11feb94cfc62b5ad5821413[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 14:01:24 2020 -0700
+
+    Update Installing-CLion.md
+
+[33mcommit 8a39c52ec47d0770d2f0d4fbd8151c85b3aedfca[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 14:01:10 2020 -0700
+
+    Update CLion-Account-Setup.md
+
+[33mcommit 863945120377b563717a117304dd7077d35443d3[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 13:59:56 2020 -0700
+
+    Create Cygwin-Setup.md
+    
+    created Cygwin-Setup.md
+
+[33mcommit d1d02f7d8988c1f73d14915e4703b834af8c4457[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 13:48:45 2020 -0700
+
+    Update CLion-Account-Setup.md
+
+[33mcommit 82453aabd40c2fd805a716d8e0970eb0b07f90b0[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:43:20 2020 -0700
+
+    Update configuration.md
+
+[33mcommit 1166af886fdce30cc491e267db0fc9fe7913e7da[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:43:02 2020 -0700
+
+    Update CLion-Account-Setup.md
+    
+    Changing Title
+
+[33mcommit b36dd411fd834102e7d0ea6e8557b131981e8e8c[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:41:42 2020 -0700
+
+    Rename CLion-Account-Setup to CLion-Account-Setup.md
+    
+    Oops. forgot the MD
+
+[33mcommit a0b416cae994325f6ee43c55094dd0edd811e798[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:41:19 2020 -0700
+
+    Rename Installing-CLion to Installing-CLion.md
+    
+    Oops
+
+[33mcommit 3edc250abe6e2e44f22fd93868454cc6015a9fdf[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:39:42 2020 -0700
+
+    Update configuration.md
+    
+    Renaming title
+
+[33mcommit 4034db6fa97fd7960783776592a601b61c7734be[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Apr 1 13:35:35 2020 -0700
+
+    Update _config.yml
+    
+    modified the _config.yml
+
+[33mcommit ad74c2aa405e002fdb96d0904485a12ce9dafa39[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:25:00 2020 -0700
+
+    Update Installing-CLion
+    
+    nav order things you know how it be
+
+[33mcommit af7ebcefb443f6074f1aa85c80ccdbb5de4bd645[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:22:35 2020 -0700
+
+    Update CLion-Account-Setup
+    
+    changing nav_order D:
+
+[33mcommit ff9b4846a57ecc593d8bb45759c1dc941a320158[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:21:04 2020 -0700
+
+    Update and rename Task-2.md to Installing-CLion
+    
+    Renaming title and changing nav_order
+
+[33mcommit 40c1339542f6f73cb3f7c4ecc582977bc2b4747b[m
+Author: Lawrance On <54971930+lawranceo1@users.noreply.github.com>
+Date:   Wed Apr 1 13:20:21 2020 -0700
+
+    Create CLion-Account-Setup
+    
+    Creating CLion Account Setup Template Page
+
+[33mcommit eecd13e66ac7a8fee8725c6e22285fa76c415a84[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:46:41 2020 -0700
+
+    Update Task-2.md
+    
+    added image
+
+[33mcommit ed59d473c77901145efc2fea6c401665b700c5c6[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:44:04 2020 -0700
+
+    Add files via upload
+    
+    added test image
+
+[33mcommit 58d3cd8f40e873075dada1743d5e7afcfddd8dc3[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:26:56 2020 -0700
+
+    Update Task-2.md
+    
+    added 2 test headings
+
+[33mcommit 1fa358b58c7fdb771927bd1f6e126b64d5757fa3[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:24:11 2020 -0700
+
+    Update Task-2.md
+    
+    added table of contents
+
+[33mcommit b84be617e9b8d21661cac4bff41dbe51c0b88e89[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:21:31 2020 -0700
+
+    Update Task-2.md
+    
+    added yaml front matter
+
+[33mcommit da033828cf91208bfd934c41d31595ee15d56464[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:20:26 2020 -0700
+
+    Create Task-2.md
+
+[33mcommit 873c0cdd81cba9ce297ff4e848a7ba99ada36230[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:16:37 2020 -0700
+
+    Update index-test.md
+
+[33mcommit 1a04149f94ad67f234c91a1d9932dec11c7a6e54[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:16:05 2020 -0700
+
+    Update search.md
+
+[33mcommit 69f16540857313f61b2d2c8975a7e983b40e4596[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:13:45 2020 -0700
+
+    Update configuration.md
+    
+    changed title to Task 1, should be changed
+
+[33mcommit 7edd77453099a798917b4d169b6127c7b777808b[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 10:11:37 2020 -0700
+
+    Update index.md
+    
+    updated title to introduction
+
+[33mcommit 3171dcaf504c54c9b8209e8572d2d32b5957887e[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 09:58:39 2020 -0700
+
+    Update index-test.md
+    
+    changed title
+
+[33mcommit 3003b2c48a812f91065549eec5a00fffdf1bd4ac[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 09:57:19 2020 -0700
+
+    Update search.md
+    
+    changed title
+
+[33mcommit 7e5c1071cc8704aef204757513d7f5d3116373d5[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 09:54:10 2020 -0700
+
+    changed index
+
+[33mcommit b39cc5b7fb8f2ef3d1e96dcd3a362c4ee3f2823f[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 09:50:28 2020 -0700
+
+    Update _config.yml
+
+[33mcommit c6af0f25fb220614cfc7b8329e28f862ab88651c[m
+Author: Go-Maun <55258990+Go-Maun@users.noreply.github.com>
+Date:   Wed Mar 25 09:48:15 2020 -0700
+
+    modified lines 16-19 inclusive
+    
+    modified the title, description, baseurl ad url
+
+[33mcommit 8bd2da55fe198935aa707de048ddb444418b3feb[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: efe5918 4ca741b
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:53:16 2019 -0400
+
+    Merge pull request #212 from pmarsceill/v0.2.7-release
+    
+    v0.2.7 release
+
+[33mcommit 4ca741b1ce93f48c4865453d68e95e4d3fc6b32a[m[33m ([m[1;33mtag: v0.2.7-r[m[33m)[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:46:05 2019 -0400
+
+    Update just-the-docs.gemspec
+
+[33mcommit e6896e1997a0381b2813d68232d81a9cd04f0c13[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:45:35 2019 -0400
+
+    Update package.json
+
+[33mcommit 492471b15f41d597e457bad57b3743b38083bd92[m[33m ([m[1;33mtag: v0.2.7[m[33m)[m
+Merge: 56e8119 efe5918
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:37:07 2019 -0400
+
+    Merge branch 'master' into v0.2.7-release
+
+[33mcommit efe5918871153c05da7ff8712f95fc31b4856820[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:36:54 2019 -0400
+
+    Update base.scss
+
+[33mcommit 56e8119665a6a91328a6bc6cbf9224e3079f0b52[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:32:43 2019 -0400
+
+    Update _lists.scss
+
+[33mcommit 8dbe7209b93c30edd4ea1efc51093a9967884f24[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:30:00 2019 -0400
+
+    Update _lists.scss
+
+[33mcommit 72741e94983e98c99414383a34b9825191f65427[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:26:46 2019 -0400
+
+    Update _lists.scss
+
+[33mcommit 5391eb0a13414460bd9512997720a9a2951339ec[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:25:26 2019 -0400
+
+    Update _lists.scss
+
+[33mcommit 20c7b97b3e4c0af3351ca73d75f3185525a14bcc[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:19:29 2019 -0400
+
+    Update index.md
+
+[33mcommit 1476259d9ba4624ed19c3182cece71f8e75f4744[m
+Merge: 00c96ac 35da800
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:05:54 2019 -0400
+
+    Merge branch 'master' into v0.2.7-release
+
+[33mcommit 00c96ac2de21ab05c403fb84ee04878ffd404424[m
+Merge: f2ce1b3 1cca7a8
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:05:38 2019 -0400
+
+    Merge pull request #215 from pmarsceill/dependabot/npm_and_yarn/primer/css-12.7.0
+    
+    Bump @primer/css from 12.6.0 to 12.7.0
+
+[33mcommit f2ce1b33c129fe01e78a75272f5bba1c987b39fe[m
+Merge: afbb385 2c73d71
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:05:14 2019 -0400
+
+    Merge pull request #214 from pmarsceill/dependabot/npm_and_yarn/stylelint-config-primer-8.0.0
+    
+    Bump stylelint-config-primer from 7.0.1 to 8.0.0
+
+[33mcommit afbb385042b434dd1417991979bf91c55e60adbe[m
+Merge: 54d9738 722717a
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:04:46 2019 -0400
+
+    Merge pull request #213 from pmarsceill/dependabot/npm_and_yarn/mixin-deep-1.3.2
+    
+    [Security] Bump mixin-deep from 1.3.1 to 1.3.2
+
+[33mcommit 35da800e882afec9fd29e8d33dadb62e23b54e71[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 12:03:51 2019 -0400
+
+    Update index.md
+
+[33mcommit 54d9738dd1e88f05b8bc281214816585a9f65ab5[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 11:39:30 2019 -0400
+
+    Update README.md
+
+[33mcommit c5e53d90c96442f33eb901d5ad5caee48c946d8a[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 11:36:48 2019 -0400
+
+    Update customization.md
+
+[33mcommit 01a3c35c98e749f193ef0bb27f6117cdd6c2e214[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 11:29:10 2019 -0400
+
+    Update search.rake
+
+[33mcommit b49829c784e792f3e016752427d57db4a880136a[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 11:26:14 2019 -0400
+
+    Update search.md
+
+[33mcommit 95bdc51a0a0c6598bb1bdc9204af763891342604[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Sep 10 11:20:26 2019 -0400
+
+    Update dark-mode-preview.js
+
+[33mcommit 1cca7a8e88dde3489e87170adf24bb06bdf3da22[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Tue Sep 10 10:59:08 2019 +0000
+
+    Bump @primer/css from 12.6.0 to 12.7.0
+    
+    Bumps [@primer/css](https://github.com/primer/css) from 12.6.0 to 12.7.0.
+    - [Release notes](https://github.com/primer/css/releases)
+    - [Changelog](https://github.com/primer/css/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/css/compare/v12.6.0...v12.7.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 2c73d71c1bf5ed950651571c6e05c978712c73b8[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Tue Sep 10 10:58:37 2019 +0000
+
+    Bump stylelint-config-primer from 7.0.1 to 8.0.0
+    
+    Bumps [stylelint-config-primer](https://github.com/primer/stylelint-config-primer) from 7.0.1 to 8.0.0.
+    - [Release notes](https://github.com/primer/stylelint-config-primer/releases)
+    - [Changelog](https://github.com/primer/stylelint-config-primer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/stylelint-config-primer/compare/v7.0.1...v8.0.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 722717a0d1d0d51167ffdf933c12fe5993c682c0[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Tue Sep 10 10:57:42 2019 +0000
+
+    [Security] Bump mixin-deep from 1.3.1 to 1.3.2
+    
+    Bumps [mixin-deep](https://github.com/jonschlinkert/mixin-deep) from 1.3.1 to 1.3.2. **This update includes a security fix.**
+    - [Release notes](https://github.com/jonschlinkert/mixin-deep/releases)
+    - [Commits](https://github.com/jonschlinkert/mixin-deep/compare/1.3.1...1.3.2)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 41187ed9b617a755a25e75d743793a7893a05a57[m
+Merge: 423b8c9 3ae06cd
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:33:12 2019 -0400
+
+    Merge pull request #205 from pdmosses/mathjax
+    
+    Fix blank_lines var to blanklines in config.yml
+
+[33mcommit 3ae06cd59b8cac45d04233693c26755c0da6a815[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:32:53 2019 -0400
+
+    Update search.md
+
+[33mcommit 7804642c50c5cb45750d8e186206e5f7efbf1c21[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:32:24 2019 -0400
+
+    Update search.md
+
+[33mcommit b44ebe6cb3d90ba1039b6c6fd1907ac4f9f6eabd[m
+Merge: a7285b9 423b8c9
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:30:59 2019 -0400
+
+    Merge branch 'v0.2.7-release' into mathjax
+
+[33mcommit 423b8c9f4637e8437dbcf896bd1837f70698bdf0[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:29:51 2019 -0400
+
+    Update _config.yml
+
+[33mcommit a7285b9e305d0ba879f1ea753ff4b0a3282df6c0[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Mon Sep 9 22:26:32 2019 +0200
+
+    Replace `blank_lines` by `blanklines`.
+
+[33mcommit 119a0b241ec3089dedbd6a6c6da9e6880f0646a0[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Mon Sep 9 22:22:22 2019 +0200
+
+    Revert "Mathjax support added"
+    
+    This reverts commit 7220197a1f29327479acbbcdd858d1b62e6ec81e.
+
+[33mcommit ff106641b0353f4b92d4fd2dde9444d3f261bb36[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:09:05 2019 -0400
+
+    syntax error
+
+[33mcommit 900639b02c07d4a8dfd6bf8119127c34bf9d673c[m
+Merge: 850a8fe dbac621
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:06:33 2019 -0400
+
+    Merge pull request #153 from jacobherrington/change-theme-button-text
+    
+    Change button copy on theme preview
+
+[33mcommit dbac62127a2e4c070f189054800f993dcc7e68a3[m
+Merge: eabe7b2 850a8fe
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:06:21 2019 -0400
+
+    Merge branch 'v0.2.7-release' into change-theme-button-text
+
+[33mcommit 850a8fe25685ee3877336f55553b6d56d5d80d3b[m
+Merge: 44d689b 9616dcf
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 16:00:11 2019 -0400
+
+    Merge pull request #203 from pdmosses/search-config
+    
+    Search config
+
+[33mcommit 44d689b9948b03d9b220960e7990fe1e90935479[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:55:31 2019 -0400
+
+    Lint
+
+[33mcommit 9616dcf761e947d6dc8939f29ebffe7e59e201f3[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:50:48 2019 -0400
+
+    Update just-the-docs.js
+
+[33mcommit 1564ca4511c9adf8d8894700c1fbaf326b6b2dd9[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Mon Sep 9 21:50:05 2019 +0200
+
+    Update configuration.md
+    
+    Added documentation for `search_tokenizer_separator`.
+
+[33mcommit e124e10914e8711dfcbd43146ba72a77dd377456[m
+Merge: 757be16 7382a9a
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:45:09 2019 -0400
+
+    Merge pull request #200 from pmarsceill/dependabot/npm_and_yarn/mixin-deep-1.3.2
+    
+    [Security] Bump mixin-deep from 1.3.1 to 1.3.2
+
+[33mcommit 757be1631cb0d227a71694c316e23bf7b259f54c[m
+Merge: 3b42ec2 3d0240f
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:43:46 2019 -0400
+
+    Merge pull request #208 from pmarsceill/dependabot/npm_and_yarn/primer/css-12.7.0
+    
+    Bump @primer/css from 12.6.0 to 12.7.0
+
+[33mcommit 3b42ec27629713a480876de061dff795fc470df2[m
+Merge: a98bba7 1aee233
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:35:31 2019 -0400
+
+    Merge pull request #206 from iamcarrico/allow-for-overrides
+    
+    Allow for custom overrides by the user
+
+[33mcommit a98bba778cc5e7104c35671ff03156725388a6e8[m
+Merge: 843233c 3ecdb59
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:32:26 2019 -0400
+
+    Merge pull request #141 from ghabs/patch-1
+    
+    Fix trailing comma bug in search-data.json
+
+[33mcommit 3ecdb59b48ae6bdaef66be25ea7b5261bc01ebe6[m
+Merge: c8a8ce3 843233c
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:32:08 2019 -0400
+
+    Merge branch 'v0.2.7-release' into patch-1
+
+[33mcommit 843233c6b2a434c2eb4acdd7dafb4ca4c95c8547[m
+Merge: d3cbc83 91760ee
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:10:55 2019 -0400
+
+    Merge pull request #187 from SgtSilvio/improvement/site-logo
+    
+    Improvement/site logo
+
+[33mcommit d3cbc8328501e96c3284ae8252f9a81d0957a57c[m
+Merge: f960695 13ef185
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:09:22 2019 -0400
+
+    Merge pull request #188 from pdmosses/master
+    
+    Update nav.html to eliminate generation of undisplayed elements
+
+[33mcommit f960695bb7ffcd4fff625339f271bc1b78845db1[m
+Merge: 34eaf8b fdf4726
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:07:04 2019 -0400
+
+    Merge pull request #183 from SgtSilvio/improvement/heading-anchors
+    
+    Improve heading anchors
+
+[33mcommit 34eaf8b16d54f66b2b6a4db349bba318b0761920[m
+Merge: ea9affe de37d60
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:05:12 2019 -0400
+
+    Merge pull request #181 from m3nu/master
+    
+    Recommend using index.md as parent page for sections
+
+[33mcommit ea9affe25fc3fb5f786c6efe21ddab00fea56a0c[m
+Merge: 418cf1d d3f6e59
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:01:05 2019 -0400
+
+    Merge pull request #98 from stefanoborini/simplify-template
+    
+    Introduces the possibility for a summary in the table of contents
+
+[33mcommit d3f6e5907b5f9e258713ca413d1a7ee8513ba2a1[m
+Merge: 2328407 418cf1d
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Sep 9 15:00:40 2019 -0400
+
+    Merge branch 'master' into simplify-template
+
+[33mcommit 3d0240ff0b467f7ef724d771cf01f0222d003e91[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Sep 6 10:34:12 2019 +0000
+
+    Bump @primer/css from 12.6.0 to 12.7.0
+    
+    Bumps [@primer/css](https://github.com/primer/css) from 12.6.0 to 12.7.0.
+    - [Release notes](https://github.com/primer/css/releases)
+    - [Changelog](https://github.com/primer/css/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/css/compare/v12.6.0...v12.7.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 1aee233e1f363816892b97e09eaed67885b9de0c[m
+Author: Ian Carrico <git@iancarrico.com>
+Date:   Wed Sep 4 09:04:10 2019 -0400
+
+    Add in some docs
+
+[33mcommit 47b7991805acf268c44ca1ca80992baa8768d7e5[m
+Author: Ian Carrico <git@iancarrico.com>
+Date:   Wed Sep 4 08:55:11 2019 -0400
+
+    Allow for custom overrides by the user
+
+[33mcommit 7220197a1f29327479acbbcdd858d1b62e6ec81e[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Sat Aug 31 23:19:03 2019 +0200
+
+    Mathjax support added
+    
+    Mathjax config options added.
+    `compress_html` config option changed,
+    Mathjax script loaded by head when `page.mathjax` is truthy.
+    Documentation and test page added.
+    See also issue #198.
+
+[33mcommit 4e65041849ee1c5638448d4ced1ec78ae41530e7[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Sat Aug 31 16:52:41 2019 +0200
+
+    Revert "Add configuration option search_tokenizer_separator"
+    
+    This reverts commit 50cdf076b4c1859f5677919ccf2006e3ecc65e2e.
+
+[33mcommit 50cdf076b4c1859f5677919ccf2006e3ecc65e2e[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 15:36:13 2019 +0200
+
+    Add configuration option search_tokenizer_separator
+    
+    The default is for hyphens to separate tokens in search terms: `gem-based` is equivalent to `gem based`.
+    
+    This adds `search_tokenizer_separator` as a site configuation option, to support search for hyphenated words.
+
+[33mcommit ed492bf40e5e2d15bc118aa73d6e57e278d013c2[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:45:09 2019 +0200
+
+    Revert "Update .gitignore"
+    
+    This reverts commit 13ef18501089e4c7004fadec83990787502a497d.
+
+[33mcommit 690d0b5e8adc3c4129acc33b1c15c22987f6e871[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:42:47 2019 +0200
+
+    Revert "Update nav.html"
+    
+    This reverts commit 0cfc0f0357a3b98997ddafe05f819537ffcd1980.
+
+[33mcommit 5b74b442303bd09bfde84bb621b8b986317dadc2[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:42:23 2019 +0200
+
+    Revert "Optional delay of grandchildren link display"
+    
+    This reverts commit 8ac545a5eb5da8e2ebe7dda1a8bffa9d94e88cc2.
+
+[33mcommit 8a1e09ec5a78161372c38187b9a6a49ed5751860[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:42:10 2019 +0200
+
+    Revert "Update nav.html"
+    
+    This reverts commit c282e4b0a7b27fc27b6cedc9bb67c992fef89dcf.
+
+[33mcommit cfbc7f41df79f7a6a6261e0d20b4e8e81d5ce1a0[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:41:21 2019 +0200
+
+    Revert "Revert "Update nav.html""
+    
+    This reverts commit 5d58a663016e07e007775dbd3b1b198548f453b3.
+
+[33mcommit 5e72b7db67a8275f3c64a1a03674d70e6ca0d770[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:41:09 2019 +0200
+
+    Revert "Revert "Optional delay of grandchildren link display""
+    
+    This reverts commit 89f79138c3eecbaee272e60f416095db4944cac0.
+
+[33mcommit 3af59176f4bfa6512a38acfad897dddbae916ca2[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:40:38 2019 +0200
+
+    Revert "Update nav.html"
+    
+    This reverts commit 209ac7be7db196dec85c5d0698189bf1f49a4488.
+
+[33mcommit 13ef18501089e4c7004fadec83990787502a497d[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Thu Aug 29 14:32:24 2019 +0200
+
+    Update .gitignore
+
+[33mcommit 7382a9a379baebab17270dee24d5c1525b5cbf3e[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Tue Aug 27 19:28:29 2019 +0000
+
+    [Security] Bump mixin-deep from 1.3.1 to 1.3.2
+    
+    Bumps [mixin-deep](https://github.com/jonschlinkert/mixin-deep) from 1.3.1 to 1.3.2. **This update includes a security fix.**
+    - [Release notes](https://github.com/jonschlinkert/mixin-deep/releases)
+    - [Commits](https://github.com/jonschlinkert/mixin-deep/compare/1.3.1...1.3.2)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 209ac7be7db196dec85c5d0698189bf1f49a4488[m
+Author: Peter Mosses <p.d.mosses@tudelft.nl>
+Date:   Thu Aug 22 21:45:09 2019 +0200
+
+    Update nav.html
+    
+    Restrict navigation to display only direct children.
+
+[33mcommit 89f79138c3eecbaee272e60f416095db4944cac0[m
+Author: Peter Mosses <p.d.mosses@tudelft.nl>
+Date:   Thu Aug 22 21:37:11 2019 +0200
+
+    Revert "Optional delay of grandchildren link display"
+    
+    This reverts commit 8ac545a5eb5da8e2ebe7dda1a8bffa9d94e88cc2.
+
+[33mcommit 5d58a663016e07e007775dbd3b1b198548f453b3[m
+Author: Peter Mosses <p.d.mosses@tudelft.nl>
+Date:   Thu Aug 22 07:58:09 2019 +0200
+
+    Revert "Update nav.html"
+    
+    This reverts commit c282e4b0a7b27fc27b6cedc9bb67c992fef89dcf.
+
+[33mcommit c282e4b0a7b27fc27b6cedc9bb67c992fef89dcf[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Wed Aug 21 13:57:07 2019 +0200
+
+    Update nav.html
+    
+    Separating new PR from #188, since indpendent.
+
+[33mcommit 8ac545a5eb5da8e2ebe7dda1a8bffa9d94e88cc2[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Wed Aug 21 13:49:07 2019 +0200
+
+    Optional delay of grandchildren link display
+    
+    The current default is that when a grandparent is selected, the links to its
+    children *and all its grandchildren* are displayed in the navigation menu.
+    Setting `grandchildren_branch: true` in `_config.yml` delays the display of links
+    to grandchildren until their parent is selected.
+
+[33mcommit 91760ee8c97dcc2fb0b43179e924e9da4ea81fcf[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Sat Aug 17 14:46:28 2019 +0200
+
+    Added documentation for logo variable
+
+[33mcommit 132cecfea3ba2dbdcf37ac519390175d713edd4b[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Sat Aug 17 14:32:25 2019 +0200
+
+    Added logo variable to _config.yml which can be set to a path/url
+    Automatically replaces the title with a logo
+
+[33mcommit 0cfc0f0357a3b98997ddafe05f819537ffcd1980[m
+Author: Peter Mosses <p.d.mosses@me.com>
+Date:   Fri Aug 16 13:32:24 2019 +0200
+
+    Update nav.html
+    
+    A `navigation-list-child-list` is not displayed unless the enclosing `navigation-list-item` is `active`, so it needs to be generated only when `page.url == node.url or page.parent == node.title or page.grand_parent == node.title`.
+
+[33mcommit 6a46a4797e5491d7ce5b85eddf0bd9f0e85a4a06[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Sun Jul 21 00:06:36 2019 +0200
+
+    Improved site header for logo
+    
+    (cherry picked from commit 97d1c663ef566ffe20fb1ec217fd2d8c1a8a2382)
+
+[33mcommit 89a331ee857dd05adc9172dcb7e1cd41937bb97e[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Sun Jul 21 00:04:50 2019 +0200
+
+    Improved site header for logo
+    
+    (cherry picked from commit 468bf8368783309e69fdcaa91f7eb5b1e05d96aa)
+
+[33mcommit d4b79e2eace94d2af7986764b38ba1254e3d3dad[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Sat Jul 20 23:42:27 2019 +0200
+
+    Improved site header for logo
+    
+    (cherry picked from commit 2a5c38907488b998af75e9a1ef2499428b8f1a78)
+
+[33mcommit fdf47263201ef6c1316ad44f010f99236f7c3c8d[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Thu Aug 15 14:18:40 2019 +0200
+
+    Anchor headings are now displayed on hover, not only on heading hover,
+    Deduplicated anchor heading svg,
+    Anchor heading svg is now centered for heading
+
+[33mcommit de37d60720a01bd5044f056ba232c540eb466ab4[m
+Author: Manu <manu@snapdragon.cc>
+Date:   Thu Aug 15 09:36:20 2019 +0800
+
+    Recommend using index.md as parent page for sections
+    
+    Using `index.md` as name for the parent page within a section allows lazy developers
+    to skip defining `permalink`. This is already working and this PR just updates the documentation.
+
+[33mcommit 418cf1d640eea72058efba5a9096c275ba833a3f[m
+Merge: 14a3ff5 1342740
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 17:22:17 2019 -0400
+
+    Merge pull request #175 from pmarsceill/v0.2.6-release
+    
+    v0.2.6 release
+
+[33mcommit 13427409aaa009a367c9a43861d9621ced27ead9[m[33m ([m[1;33mtag: v0.2.6[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 17:01:36 2019 -0400
+
+    Bump version number
+
+[33mcommit 26c16ce57e67082782c955f9a5b546e374e57da9[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 17:01:19 2019 -0400
+
+    Update CI badge to use Actions
+
+[33mcommit d01f0e29db4ea68449ae280a3394a600a51fbbda[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 16:43:59 2019 -0400
+
+    Make search on by default
+
+[33mcommit dfc5d112e5cccee85b030827627e159ec9871c77[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 16:12:31 2019 -0400
+
+    make anchors on by default
+
+[33mcommit c5cb03d0ca460d618d50e1de9e5ac033d4de5d0b[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 14:59:46 2019 -0400
+
+    Fix link cut-off
+
+[33mcommit 61a5a3b334a0d5af4690c946f4fa34c011bd78dd[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 14:42:25 2019 -0400
+
+    Reverting this back
+
+[33mcommit 2b3da2f75c1e2c3ef916a3da6e51df1f71e7b78f[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 14:31:50 2019 -0400
+
+    Update _config.yml
+
+[33mcommit e17ae1fc5462e6e13d4e72ab874817c552543437[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 14:25:14 2019 -0400
+
+    Update default.html
+
+[33mcommit d37387d40847923f12287efa362ff69fe7fe0ae9[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:14:15 2019 -0400
+
+    lh-tight for wrapping titles
+
+[33mcommit 8726625133084991966d992404f93eca0a41db61[m
+Merge: 03a89b7 8e5b0f2
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:10:20 2019 -0400
+
+    Merge pull request #178 from pmarsceill/dependabot/npm_and_yarn/primer/css-12.6.0
+    
+    Bump @primer/css from 12.3.1 to 12.6.0
+
+[33mcommit 03a89b761abd73de44f1e636d8562ce0b5e4d160[m
+Merge: f6a3126 b6bfd43
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:09:48 2019 -0400
+
+    Merge pull request #160 from pmarsceill/dependabot/npm_and_yarn/lodash-4.17.15
+    
+    [Security] Bump lodash from 4.17.11 to 4.17.15
+
+[33mcommit f6a3126543bccb7e4bb88efb14167b46763f81a7[m
+Merge: 2db3f97 f4bd41a
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:09:08 2019 -0400
+
+    Merge pull request #149 from pmarsceill/dependabot/npm_and_yarn/stylelint-config-primer-7.0.1
+    
+    Bump stylelint-config-primer from 7.0.0 to 7.0.1
+
+[33mcommit f4bd41a27dfa26d95417122f450b9bc16fdf0abe[m
+Merge: 9682368 2db3f97
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:07:19 2019 -0400
+
+    Merge branch 'v0.2.6-release' into dependabot/npm_and_yarn/stylelint-config-primer-7.0.1
+
+[33mcommit 2db3f97395d3a3c9888be1c068a2aa915777d8fa[m
+Merge: 385e26a 4821abe
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:06:27 2019 -0400
+
+    Merge pull request #143 from pmarsceill/dependabot/npm_and_yarn/stylelint-10.1.0
+    
+    Bump stylelint from 10.0.1 to 10.1.0
+
+[33mcommit 385e26a2d052f3a4177616624de32b59d794a9f9[m
+Merge: c4586e1 5ad439b
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:05:21 2019 -0400
+
+    Merge pull request #176 from pmarsceill/improve-search
+    
+    Search improvement branch
+
+[33mcommit 5ad439b53c54317df9124ce74fac9b780cddffb1[m
+Merge: 1a26363 c4586e1
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 11:03:30 2019 -0400
+
+    Merge branch 'v0.2.6-release' into improve-search
+
+[33mcommit c4586e172594ce9064a7d61bbff1f513e1fd3f39[m
+Merge: 8dbe56f 15172af
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 10:55:28 2019 -0400
+
+    Merge pull request #179 from pmarsceill/content-footer
+    
+    Content footer
+
+[33mcommit 15172af270bfc3fa1f0e82334c1dcf5bb4ffb126[m
+Merge: f2cec11 8dbe56f
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 10:53:10 2019 -0400
+
+    Merge branch 'v0.2.6-release' into content-footer
+
+[33mcommit f2cec110ff1e635d38dcda548bfacd08e354b86a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 10:50:49 2019 -0400
+
+    Add footer content docs
+
+[33mcommit 1a2636350f05d321ad72eb5f866f1204053a0dfb[m
+Merge: 2256047 8dbe56f
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Aug 14 10:43:59 2019 -0400
+
+    Merge branch 'v0.2.6-release' into improve-search
+
+[33mcommit 225604723a4fa670a8fc47f7e02255502415c262[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 10:40:19 2019 -0400
+
+    Fix docs and custom scss
+
+[33mcommit fe41e189948a1ee1d8c6e3a3729f6dd354a18400[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Sat Aug 10 23:20:29 2019 +0200
+
+    Fix js and also bump out page content line height
+
+[33mcommit 3eadd49ee74a76dc3026e34ebba3c8ef58f71af7[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 10:08:01 2019 -0400
+
+    Fix new namespace on event
+
+[33mcommit b1072a3fcaa1dd8686d17cef04e6565e47e4b9c1[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Aug 14 10:07:45 2019 -0400
+
+    Bump line-height on content
+
+[33mcommit c227db4406093deeb033712cc4d94f75600f1119[m
+Author: Silvio Giebl <silvio.giebl@hivemq.com>
+Date:   Sat Jul 20 21:51:26 2019 +0200
+
+    Moved custom.js to includes
+
+[33mcommit 4a574a2ec29fe7440a70aba0c430cdaf38c9cfb7[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Mon May 20 09:53:02 2019 +0200
+
+    Fixed custom js
+
+[33mcommit 8e5b0f23e61b58ee4eb66bf535cf7ab0e75cef5f[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Aug 14 10:24:15 2019 +0000
+
+    Bump @primer/css from 12.3.1 to 12.6.0
+    
+    Bumps [@primer/css](https://github.com/primer/css) from 12.3.1 to 12.6.0.
+    - [Release notes](https://github.com/primer/css/releases)
+    - [Changelog](https://github.com/primer/css/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/css/compare/v12.3.1...v12.6.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 5867dc078f6ec0bc183c1690e7541e5a603c3d26[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 17:34:42 2019 -0400
+
+    Add rel path to title matches
+
+[33mcommit e37065423796ac17d883e8f07b3dce3557ebef60[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 17:34:28 2019 -0400
+
+    Add a lil more padding on last table row
+
+[33mcommit d0325e948e3081e5b24c3722f3e75cdf2331e465[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 17:24:36 2019 -0400
+
+    Fix up search results display
+
+[33mcommit 2b2ebf6033d6fa894928a972f91b32b64411e33c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 17:24:23 2019 -0400
+
+    Lint and docs
+
+[33mcommit 7fa630764041b9688f16aae61420128964fb8e83[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 17:23:35 2019 -0400
+
+    Header menu button and anchor links
+
+[33mcommit 9e45626337c89982c4cfec245a12b71b6e40be95[m
+Merge: 15f1faa da9c187
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 16:24:28 2019 -0400
+
+    Merge branch 'improve-search' of github.com:pmarsceill/just-the-docs into improve-search
+
+[33mcommit 15f1faae8a909532c68ddebfb3a0d2c78af24a3c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 16:23:38 2019 -0400
+
+    Anchor heading css
+
+[33mcommit 8d60dda67ea2a82fe39a309419e06c7d53229012[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 13 16:22:40 2019 -0400
+
+    Make heading anchor link icon
+
+[33mcommit da9c187acc80702b590e384225e01542ccaab060[m
+Merge: 008809e 14a3ff5
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 14:15:12 2019 -0400
+
+    Merge branch 'master' into improve-search
+
+[33mcommit 8dbe56fe1ffce3c940f9f405f393c37e4bbd7290[m
+Merge: 1bf2ed0 0108a9b
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 11:30:04 2019 -0400
+
+    Merge pull request #152 from yavorg/master
+    
+    Fixing some Rouge styles for better JavaScript readability
+
+[33mcommit 1bf2ed0cdea0f68c1cd172ad8eca3e2eb73e2d1e[m
+Merge: 30590fd 07982f6
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 11:24:13 2019 -0400
+
+    Merge pull request #159 from julienduchesne/optimize-nav-generation
+    
+    Optimized nav generation
+
+[33mcommit 30590fd6c9bc38541a6112e1010163e8cf82ba84[m
+Merge: 15a9b31 761245d
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 11:22:06 2019 -0400
+
+    Merge pull request #109 from daviddarnes/patch-1
+    
+    Make sure `baseurl` is appended to the logo href
+
+[33mcommit 15a9b310b3f8a7fdebb2266caa848dae0e135f50[m
+Merge: 4f5930d 044281d
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 11:13:20 2019 -0400
+
+    Merge pull request #139 from pmarsceill/fix-code-snip
+    
+    Fix jekyll highlight tag styles
+
+[33mcommit 4f5930dbbe9c5d09efb812aaf53b1043483713cd[m
+Merge: efbc5c2 3ad99af
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 11:12:35 2019 -0400
+
+    Merge pull request #155 from hallowf/update-analytics-to-gtag
+    
+    Replaced old script for analytics with gtag
+
+[33mcommit 3ad99afb02b794c300baddc1cfa15543de93ef66[m
+Merge: 2d1babc efbc5c2
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 11:12:15 2019 -0400
+
+    Merge branch 'v0.2.6-release' into update-analytics-to-gtag
+
+[33mcommit efbc5c2a19bd0b5184ca960f754d65247ddc3669[m
+Merge: 14a3ff5 aa0d8f1
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Aug 13 11:09:51 2019 -0400
+
+    Merge pull request #162 from nergmada/google-analytics-patch
+    
+    Modified the google analytics code to match the new tags used by GA
+
+[33mcommit 14a3ff5fc8ea91d7d58e1ea2269069b0dcb05ddf[m[33m ([m[1;33mtag: 0.2.6[m[33m)[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Aug 9 22:33:42 2019 -0400
+
+    Add publishing workflow (#172)
+    
+    Publish to RubyGems and GPR on release
+
+[33mcommit 529c7897394e5abcb287a61779b79c1122add892[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Aug 9 14:55:53 2019 -0400
+
+    upgrade-to-new-actions (#170)
+    
+    Added GH Actions CI and removed Travis.
+
+[33mcommit b89b683f90cc46e3f9e29dda021d50f435a75df3[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Aug 6 15:56:29 2019 -0400
+
+    Add content footer
+
+[33mcommit aa0d8f1d400b051c090b04b3e530c2848afb585c[m
+Author: Adam Green <adam.green@kcl.ac.uk>
+Date:   Wed Jul 24 09:35:13 2019 -0400
+
+    Modified the google analytics code to match the new tags used by GA
+
+[33mcommit b6bfd436b98f46b4a6fd3f5e92aef0204ba6bf38[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Jul 19 16:58:07 2019 +0000
+
+    [Security] Bump lodash from 4.17.11 to 4.17.15
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.11 to 4.17.15. **This update includes security fixes.**
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.11...4.17.15)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 07982f681ae5abdf6318b4f2f231e7ca925b4470[m
+Author: Julien Duchesne <jduchesne@coveo.com>
+Date:   Thu Jul 18 15:38:50 2019 -0400
+
+    Optimized nav generation
+    
+    - Trimmed whitespace between html elements
+      This reduced one of my files from 850KB to 115KB
+    - Do not sort the whole list of pages on every iteration
+      This made build 3x faster
+
+[33mcommit 2d1babc452115b4a46453922198beb8e2863d39f[m
+Author: hallowf <alexandre.cortegaca@gmail.com>
+Date:   Thu Jul 4 15:51:31 2019 +0100
+
+    Replaced old script for analytics with gtag
+
+[33mcommit eabe7b25852f04dcc2ca7324406bfa32ae7fc817[m
+Author: jacobherrington <jacobherringtondeveloper@gmail.com>
+Date:   Fri Jun 21 18:19:49 2019 -0500
+
+    Change button copy on theme preview
+    
+    This commit makes the dark mode preview feel a little more interactive
+    and it also pulls some duplicated code into one file so that people like
+    me aren't stumped when they are looking at the wrong page!
+
+[33mcommit 0108a9b2540abc2d90601b1d5f3a3afd0cd12876[m
+Author: Yavor Georgiev <yavor@fivequarters.io>
+Date:   Fri Jun 21 15:29:54 2019 -0700
+
+    Fixing some Rouge styles for better JavaScript readability
+
+[33mcommit 9682368eaf2dc5a7e4e36b0330507272d77c8930[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Jun 21 10:19:59 2019 +0000
+
+    Bump stylelint-config-primer from 7.0.0 to 7.0.1
+    
+    Bumps [stylelint-config-primer](https://github.com/primer/stylelint-config-primer) from 7.0.0 to 7.0.1.
+    - [Release notes](https://github.com/primer/stylelint-config-primer/releases)
+    - [Changelog](https://github.com/primer/stylelint-config-primer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/stylelint-config-primer/compare/v7.0.0...v7.0.1)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 761245d4876952fefd783c7ab73a03b4502a23c0[m
+Merge: 9fb4bcf 721484a
+Author: David Darnes <me@daviddarnes.com>
+Date:   Mon Jun 17 17:43:05 2019 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 4821abeec4b4abc68323225821148c7177e0a45e[m
+Author: dependabot-preview[bot] <dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Jun 7 15:06:32 2019 +0000
+
+    Bump stylelint from 10.0.1 to 10.1.0
+    
+    Bumps [stylelint](https://github.com/stylelint/stylelint) from 10.0.1 to 10.1.0.
+    - [Release notes](https://github.com/stylelint/stylelint/releases)
+    - [Changelog](https://github.com/stylelint/stylelint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/stylelint/stylelint/compare/10.0.1...10.1.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit c8a8ce331440e76ff21ae93d539c22d7e34f6ee1[m
+Author: Ben Goldhaber <Goldhaber.Ben@gmail.com>
+Date:   Tue Jun 4 18:02:56 2019 -0700
+
+    Fix trailing comma bug in search-data.json
+    
+    If you exclude the last page in the site.html_pages through exclude_true you end up violating the assumption in the for loop that the last page won't have a trailing comma. This breaks the json data that is served to the front end.
+    
+    I removed the forloop.last check and instead assign a temporary variable to check for the first non-excluded page, and then add the comma before the next non-excluded entry.
+
+[33mcommit 044281db383b635ee4a692da5ddecc3b4c8aaf86[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue May 28 23:06:14 2019 -0400
+
+    fix jekyll highlight tag styles
+
+[33mcommit 008809e00b02cdd1db706cd6bc1d5a851db811b2[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sun May 19 20:40:54 2019 +0200
+
+    Include custom js, added js namespace
+
+[33mcommit 96653f6d367bea0fe531e8bfe13b9713e5f83c28[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sun May 19 20:08:31 2019 +0200
+
+    Simplified search-data.json
+
+[33mcommit 94956403786552fcd383f32be366ab02015e9141[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sun May 19 17:21:20 2019 +0200
+
+    Improved search preview
+
+[33mcommit 447ba4f20ceb9ddb47d72aa5422d10107177974c[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sun May 19 02:41:40 2019 +0200
+
+    Added variables for background colors
+
+[33mcommit 48a4a379772678f7fd7da59e446df0c15852ad17[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sun May 19 02:41:18 2019 +0200
+
+    js fixes
+
+[33mcommit 6f225b0d28067c0957539756f58a5a81aea8b89b[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sat May 18 23:51:30 2019 +0200
+
+    Improved search navigation
+
+[33mcommit e64a6aa239b4181c083d376acb5628c52dfe45d6[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sat May 18 23:07:02 2019 +0200
+
+    Updated lunr.js, added search navigation and preview/highlighting
+
+[33mcommit e9f016ac0f691112e8e6b192ddfeb096581da6bf[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sun May 12 21:49:19 2019 +0200
+
+    Improved responsiveness of sidebar
+
+[33mcommit 8c603aac1e10f7cbc6e70e74465b1fbcdd74ca24[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sun May 12 14:12:00 2019 +0200
+
+    Improved layout, unified spacing/font-sizes/border-radius/box-shadow
+
+[33mcommit 0142d2874b44b2cf9dc5b8d74e4ff500381e0f88[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Fri May 10 05:08:57 2019 +0200
+
+    Enabled customization of html head
+
+[33mcommit 94f2aaf9648992ffcb72368cbef4e27ce92badbb[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sat May 4 23:18:56 2019 +0200
+
+    Added table wrappers, fixed anchor headings
+
+[33mcommit 03e2345833f92d6f3841db66bffd0f2ed8461bf2[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sat May 4 22:22:56 2019 +0200
+
+    Added anchor headings
+
+[33mcommit f4ee29d0c33eef84ffb91e27c36ea9f7c4a7c6d6[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sat May 4 22:20:36 2019 +0200
+
+    Fixed script tags
+
+[33mcommit b3f52fedad707ef820cafa5b775146f2ebddbabc[m
+Author: Silvio Giebl <silvio.giebl@dc-square.de>
+Date:   Sat May 4 21:59:33 2019 +0200
+
+    Added html compression
+
+[33mcommit 721484a26ecda0250dbbb3624330d84da78cbbfa[m
+Merge: 9a076b4 3d01578
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon May 13 17:31:22 2019 -0400
+
+    Merge pull request #132 from pmarsceill/v0.2.5-release
+    
+    v0.2.5 release branch
+
+[33mcommit 3d01578c7d175815863674e4ede07a4f18c3243a[m[33m ([m[1;33mtag: v0.2.5-release[m[33m, [m[1;33mtag: 3d01578[m[33m)[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon May 13 17:23:16 2019 -0400
+
+    Update main.workflow
+
+[33mcommit 9663d4cba332e4b874cbb6e78939c18b5ae45a3f[m[33m ([m[1;33mtag: v0.2.5[m[33m)[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon May 13 17:16:01 2019 -0400
+
+    try this
+
+[33mcommit 552bf46bc975f26e42ad19476e915db7dc2ba101[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 17:07:00 2019 -0400
+
+    not sure what happened here
+
+[33mcommit 6c5d550fa59c6fbd764b425f7c62dfec1afa9ccf[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 17:04:16 2019 -0400
+
+    update deps
+
+[33mcommit 0f2de675b6102f29bb511b96d98f326b9cc87de4[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 17:04:06 2019 -0400
+
+    wrong layout
+
+[33mcommit 38521bd845458d43ff76bc390137827ee49d6add[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 16:57:56 2019 -0400
+
+    Put that back, wont build on GH page without it
+
+[33mcommit a4da666d2a2e16d6a9422ceea41cad7a5b3ca8df[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 16:55:22 2019 -0400
+
+    Add new liting rule disables
+
+[33mcommit f1dcbec0a9aa907e92548420efd9a190647bee3f[m
+Merge: e6f6001 32401d0
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon May 13 16:44:48 2019 -0400
+
+    Merge pull request #123 from pmarsceill/dependabot/npm_and_yarn/stylelint-config-primer-7.0.0
+    
+    Bump stylelint-config-primer from 6.0.0 to 7.0.0
+
+[33mcommit e6f6001960473300beb7f4258d50d9c9dfb4a354[m
+Merge: 501bd01 d2b3d57
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon May 13 16:44:24 2019 -0400
+
+    Merge pull request #129 from pmarsceill/dependabot/npm_and_yarn/@primer/css-12.3.1
+    
+    Bump @primer/css from 12.2.3 to 12.3.1
+
+[33mcommit 501bd0169cb9d75e46d60bfcfe1647b758f45bf4[m
+Merge: f06cf59 0254d99
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 16:42:40 2019 -0400
+
+    Merge branch 'v0.2.5-release' of github.com:pmarsceill/just-the-docs into v0.2.5-release
+
+[33mcommit f06cf593fff6d310073558e174efb702f6f14a03[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 16:42:29 2019 -0400
+
+    bump versions
+
+[33mcommit 460e9ae236531a82cc0d113d5296d6f4d235346a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 16:40:28 2019 -0400
+
+    No title if SEO is enbaled
+
+[33mcommit 4d3375a8340c1e7a4eda82c4d4cc1e202aa23279[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 16:40:14 2019 -0400
+
+    Favicon file
+
+[33mcommit 3a3c4a83faebc87fdf6b058af019316c18e910a0[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon May 13 16:40:01 2019 -0400
+
+    Fix subpath to avoid double slash
+
+[33mcommit 0254d9961a03140239fb52771bdcdd66fcdefc97[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon May 13 16:37:01 2019 -0400
+
+    Update main.workflow
+
+[33mcommit d2b3d57eb9b1232c708831bc05bdacaed12da820[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Fri May 10 10:21:45 2019 +0000
+
+    Bump @primer/css from 12.2.3 to 12.3.1
+    
+    Bumps [@primer/css](https://github.com/primer/css) from 12.2.3 to 12.3.1.
+    - [Release notes](https://github.com/primer/css/releases)
+    - [Changelog](https://github.com/primer/css/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/css/compare/v12.2.3...v12.3.1)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit 32401d05a36700f3d52587b21d96640f65b44d9b[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Wed May 1 10:21:16 2019 +0000
+
+    Bump stylelint-config-primer from 6.0.0 to 7.0.0
+    
+    Bumps [stylelint-config-primer](https://github.com/primer/stylelint-config-primer) from 6.0.0 to 7.0.0.
+    - [Release notes](https://github.com/primer/stylelint-config-primer/releases)
+    - [Changelog](https://github.com/primer/stylelint-config-primer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/stylelint-config-primer/compare/v6.0.0...v7.0.0)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit 9a076b48acbe7bb87717e27012464bdd005950ae[m[33m ([m[1;33mtag: 0.2.5[m[33m, [m[1;33mtag: 0.2.4[m[33m)[m
+Merge: 4fb036e 2c789d4
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 18:17:36 2019 -0700
+
+    Merge pull request #122 from pmarsceill/v0.2.4-release
+    
+    v0.2.4 release branch
+
+[33mcommit 2c789d408cd5dda7cadc60c99046c3bbaefc165b[m
+Merge: f255c07 4fb036e
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 18:14:27 2019 -0700
+
+    Merge branch 'master' into v0.2.4-release
+
+[33mcommit 4fb036ebac8b106e4858562f2f3da5af31944fb4[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 18:14:13 2019 -0700
+
+    Update main.workflow
+
+[33mcommit f255c07c7f1940e51b1d0fe71c808b349f1f36d4[m[33m ([m[1;33mtag: v0.2.4[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Apr 30 18:00:56 2019 -0700
+
+    update for latest stylint config
+
+[33mcommit ce2d213dbecc097fcf7327c3f2b692882b6a7f53[m
+Merge: ca0af17 95b7601
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 17:41:34 2019 -0700
+
+    Merge pull request #105 from pmarsceill/dependabot/npm_and_yarn/stylelint-config-primer-6.0.0
+    
+    Bump stylelint-config-primer from 3.0.1 to 6.0.0
+
+[33mcommit 95b76010c2cd66a8ef0b7d1e37f96c3c6fbf2bae[m
+Merge: 0ec44bd ca0af17
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 17:40:42 2019 -0700
+
+    Merge branch 'v0.2.4-release' into dependabot/npm_and_yarn/stylelint-config-primer-6.0.0
+
+[33mcommit ca0af1795aef6c116c3d4552e64b7f9068ec9193[m
+Merge: f9e03e1 e356659
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 17:38:20 2019 -0700
+
+    Merge pull request #115 from pmarsceill/dependabot/npm_and_yarn/stylelint-10.0.1
+    
+    Bump stylelint from 9.10.1 to 10.0.1
+
+[33mcommit f9e03e124877d5b5da64d16354bf0567bdc7d13b[m
+Merge: c83bdf8 92fb6d1
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 17:35:22 2019 -0700
+
+    Merge pull request #95 from gebeto/master
+    
+    Add SEO and 'lang' param for `_config`
+
+[33mcommit c83bdf853e8d538d3cb573f7e7faa7572958271c[m
+Merge: af77e52 5291de4
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 17:32:53 2019 -0700
+
+    Merge pull request #97 from montchr/montchr-50-sass-custom-import-order
+    
+    Import custom Sass variable overrides before default variables are defined
+
+[33mcommit af77e527d0d5b74a64f59e60d35791dbcb8182ba[m
+Merge: 151691e 839cf91
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 17:30:33 2019 -0700
+
+    Merge pull request #102 from JoeNyland/patch-1
+    
+    Remove unnecessary console.log()
+
+[33mcommit 151691eb09dac9be85db0eda0a5579c0843581fc[m
+Merge: b44efbf 4de1bda
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 17:27:46 2019 -0700
+
+    Merge pull request #117 from gnarea/gh-pages-local
+    
+    Explain how to use theme locally with GitHub Pages
+
+[33mcommit 4de1bdaf650f70761e7a3bbe0a63498970ac32c0[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Apr 30 20:24:46 2019 -0400
+
+    Update index.md
+
+[33mcommit afaa3ab2253a80e476122bd0afe3af43a1619211[m
+Author: Gus Narea <gus@relaycorp.tech>
+Date:   Wed Apr 17 23:41:04 2019 +0100
+
+    Explain how to use theme locally with GitHub Pages
+
+[33mcommit e356659dbe46d5dc12a0ddcd693dbcbcf4d7e720[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Tue Apr 16 10:24:11 2019 +0000
+
+    Bump stylelint from 9.10.1 to 10.0.1
+    
+    Bumps [stylelint](https://github.com/stylelint/stylelint) from 9.10.1 to 10.0.1.
+    - [Release notes](https://github.com/stylelint/stylelint/releases)
+    - [Changelog](https://github.com/stylelint/stylelint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/stylelint/stylelint/compare/9.10.1...10.0.1)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit 9fb4bcfdc23e89c0779b37630101627f371d9c5c[m
+Author: David Darnes <me@daviddarnes.com>
+Date:   Wed Apr 3 10:32:05 2019 +0100
+
+    Make sure `baseurl` is appended to the logo href
+
+[33mcommit 0ec44bd4746503d2bdb16c2519f795728c63f651[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Tue Mar 19 10:33:34 2019 +0000
+
+    Bump stylelint-config-primer from 3.0.1 to 6.0.0
+    
+    Bumps [stylelint-config-primer](https://github.com/primer/stylelint-config-primer) from 3.0.1 to 6.0.0.
+    - [Release notes](https://github.com/primer/stylelint-config-primer/releases)
+    - [Changelog](https://github.com/primer/stylelint-config-primer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/stylelint-config-primer/commits/v6.0.0)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit 839cf914286b1fb71573f1abde4d963e8f5969a7[m
+Author: Joe Nyland <7666402+JoeNyland@users.noreply.github.com>
+Date:   Fri Mar 15 08:20:21 2019 +0000
+
+    Remove unnecessary console.log()
+
+[33mcommit 2328407405af74b88353b9c3fbdd8248a5305f05[m
+Author: Stefano Borini <stefano.borini@gmail.com>
+Date:   Sat Mar 9 18:02:35 2019 +0000
+
+    Removed indentation
+
+[33mcommit b82b1a86d35aeca7eb1becf2db56411a8c900a21[m
+Author: Stefano Borini <stefano.borini@gmail.com>
+Date:   Sat Mar 9 18:00:37 2019 +0000
+
+    Shorter version that I assume should work.
+
+[33mcommit c520591234c260d1b203a8ee5b2743a3aed11756[m
+Merge: 26766a5 0b0b2e8
+Author: Stefano Borini <stefanoborini@users.noreply.github.com>
+Date:   Sat Mar 9 17:50:28 2019 +0000
+
+    Merge pull request #2 from stefanoborini/adding-summary-for-toc-2
+    
+    Adding summary for toc - 2
+
+[33mcommit 0b0b2e85554d83ec9fd2cde770c9de1f00327072[m
+Author: Stefano Borini <stefano.borini@gmail.com>
+Date:   Sat Mar 9 17:45:05 2019 +0000
+
+    Separating the summary from the link
+
+[33mcommit 26766a59840af403a79437ec84f5cd5638b42405[m
+Merge: b44efbf eec213d
+Author: Stefano Borini <stefanoborini@users.noreply.github.com>
+Date:   Sat Mar 9 17:27:26 2019 +0000
+
+    Merge pull request #1 from stefanoborini/adding-summary-for-toc
+    
+    Adding summary for toc
+
+[33mcommit eec213daa1e66f94498aac3c8a46ddaf763e091d[m
+Author: Stefano Borini <stefano.borini@gmail.com>
+Date:   Sat Mar 9 17:19:41 2019 +0000
+
+    Renamed excerpt to summary
+
+[33mcommit c796485d927584940b6104e7e0e7c177154b01ec[m
+Author: Stefano Borini <stefano.borini@gmail.com>
+Date:   Sat Mar 9 17:18:28 2019 +0000
+
+    Adds the possibility to specify a brief summary of a child page
+
+[33mcommit 5291de45c598a8c5648cc852a9c1317a197c55fe[m
+Author: Chris Montgomery <chris@montchr.io>
+Date:   Sun Mar 3 23:01:10 2019 -0500
+
+    Import custom overrides Sass before variables are used
+
+[33mcommit 92fb6d1908bcdbae3c9e0f365be28639e32569ce[m
+Author: gebeto <slavik.nychkalo@gmail.com>
+Date:   Thu Feb 28 09:08:27 2019 +0200
+
+    add jekyll-seo-tag to dependency to fix bundle crash
+
+[33mcommit 8597aa4caca14d7620f5a4847dadfb108ab404fe[m
+Author: gebeto <slavik.nychkalo@gmail.com>
+Date:   Thu Feb 28 08:29:06 2019 +0200
+
+    bump version to 0.2.4
+
+[33mcommit 0bfd125087cf69aee7d3c4189352d5496c08f755[m
+Author: gebeto <slavik.nychkalo@gmail.com>
+Date:   Thu Feb 28 08:11:12 2019 +0200
+
+    add dynamic html 'lang' attribute
+
+[33mcommit 25b6455ed7e6b53a752238d2cc8204f257b9dc46[m
+Author: gebeto <slavik.nychkalo@gmail.com>
+Date:   Thu Feb 28 08:10:48 2019 +0200
+
+    add seo
+
+[33mcommit b44efbf1dae655b01f485b84853482401c00ffb1[m
+Merge: 20f2121 8aa5982
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Feb 13 15:42:18 2019 -0500
+
+    Merge pull request #89 from pmarsceill/github-action-for-release
+    
+    Add main.workflow
+
+[33mcommit 8aa5982cd59d5686ca438aa55d4984b52fcea449[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Feb 6 14:54:07 2019 -0500
+
+    Add main.workflow
+
+[33mcommit 20f21217ca78207090867e32a50640b4f89c889b[m
+Merge: c40eec1 96c053b
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 15:54:40 2019 -0800
+
+    Merge pull request #86 from pmarsceill/v0.2.3
+    
+    v0.2.3 Release Branch
+
+[33mcommit 96c053bb634871e7d876f62f34e2a706ae866ac4[m[33m ([m[1;33mtag: v0.2.3[m[33m)[m
+Merge: d9a5bd0 c40eec1
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 15:45:59 2019 -0800
+
+    Merge branch 'master' into v0.2.3
+
+[33mcommit d9a5bd0a19a80c90750d62fcf19230e536983cd4[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 17:43:14 2019 -0600
+
+    lint
+
+[33mcommit 0ac8ec23bfb87ac41f7b359ab3f2d087bf60ed7a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 17:38:36 2019 -0600
+
+    Support for nesting ul in ol and vice versa
+
+[33mcommit c40eec1c2fc4af58531f053a5dec2ce273f69374[m
+Merge: c70f012 de98c2b
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 15:06:32 2019 -0800
+
+    Merge pull request #87 from pmarsceill/feature-request
+    
+    Update issue templates
+
+[33mcommit de98c2b51bd5941f98a04cbae4c15380e0ec8214[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 15:06:18 2019 -0800
+
+    Update issue templates
+
+[33mcommit c70f012eee04837dae9e7c3ffe6eb36f5fd9a66a[m
+Merge: eaafeee b7913ec
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 15:05:00 2019 -0800
+
+    Merge pull request #76 from pmarsceill/pmarsceill-patch-1
+    
+    Add issue templates
+
+[33mcommit aee6d1fb8c3886428762acd78d7b460ea947dbc8[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 13:59:41 2019 -0800
+
+    Use analytics.js instead of tag manager
+
+[33mcommit f5d6cf62227fef9e226160e2d598b54e3c325528[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 13:59:20 2019 -0800
+
+    Add site url to config
+
+[33mcommit f3fc9d9dd34a3f36d5223506b2448254ec3e5c69[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 12:32:56 2019 -0800
+
+    Update copyright date
+
+[33mcommit a8c282ae5aea3c26986adecfc28c40f890300da1[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 12:32:33 2019 -0800
+
+    Add docs for GA tracking
+
+[33mcommit e12408d07bd394f057662fe2670c3157ea78ee75[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 12:32:04 2019 -0800
+
+    Add hook for GA tracking
+
+[33mcommit a44d3a865266cd9975d781c58803a3d3ec988fd6[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 11:59:34 2019 -0800
+
+    Bump version numbers and description
+
+[33mcommit ad867e37c0fdadad9615a8882fb2a84cfead4d17[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 11:52:31 2019 -0800
+
+    move js class top parent div to fix page offset
+
+[33mcommit 01b500b1b394513acb76f9261b0eb36c5f677498[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Feb 2 11:46:46 2019 -0800
+
+    Dont unesape this or it wont read the content var
+
+[33mcommit 84f8f003ac37122e0ff604b65de462302a0307fb[m
+Merge: ab20833 75f0ef5
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 11:35:25 2019 -0800
+
+    Merge pull request #73 from pmarsceill/dependabot/npm_and_yarn/stylelint-9.10.1
+    
+    Bump stylelint from 9.9.0 to 9.10.1
+
+[33mcommit ab20833d17d020525ef3a93ad667482db624888a[m
+Merge: b77d22c 04e81c7
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 11:33:23 2019 -0800
+
+    Merge pull request #77 from woernfl/patch-1
+    
+    Just fixing a typo in the layout example
+
+[33mcommit b77d22cf2e108c8481135fe2384a6eeff8437978[m
+Merge: 35d7864 5b8ff78
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 11:31:37 2019 -0800
+
+    Merge pull request #81 from ilivewithian/patch-1
+    
+    Bug: Can now show single search result.
+
+[33mcommit 35d786487460634d27e77b05c99b80791e60797b[m
+Merge: c9e4284 da07620
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 11:27:01 2019 -0800
+
+    Merge pull request #84 from novelistparty/master
+    
+    fix #80 - escape the single quotes in the string
+
+[33mcommit c9e4284754772925948bb4a4f3d9bc5f6e4401ee[m
+Merge: eaafeee d7b1adb
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Sat Feb 2 11:22:53 2019 -0800
+
+    Merge pull request #65 from stephenedmondson/master
+    
+    search-data path fix
+
+[33mcommit da0762007d403a5f67c766cb8a395ab7caa2d28e[m
+Author: John Boyle <novelistparty@users.noreply.github.com>
+Date:   Thu Jan 31 10:02:06 2019 -0800
+
+    escape the single quotes in the string
+
+[33mcommit 5b8ff78bb6ccc6ff5115c4a2d52f39c06b5a035e[m
+Author: Rob White <rob.j.white@gmail.com>
+Date:   Tue Jan 29 13:39:20 2019 +0000
+
+    Bug: Can now show single search result.
+
+[33mcommit 04e81c71585b8df116bc97192f10f93c98a138d7[m
+Author: Florian Woerner <florian.woerner@onmyown.io>
+Date:   Sat Jan 26 16:28:26 2019 +0100
+
+    Just fixing a typo in the layout example
+
+[33mcommit b7913ec5a56b8eabef94af5a9c36b523731675cc[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Jan 25 16:11:12 2019 -0500
+
+    Update bug_report.md
+
+[33mcommit 25250db5e066452f694de6173dc30f870f5dbff8[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Jan 25 16:08:27 2019 -0500
+
+    Add issue templates
+
+[33mcommit 75f0ef57e215b247b462967c11fe26090b7e4bed[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Wed Jan 23 19:07:26 2019 +0000
+
+    Bump stylelint from 9.9.0 to 9.10.1
+    
+    Bumps [stylelint](https://github.com/stylelint/stylelint) from 9.9.0 to 9.10.1.
+    - [Release notes](https://github.com/stylelint/stylelint/releases)
+    - [Changelog](https://github.com/stylelint/stylelint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/stylelint/stylelint/compare/9.9.0...9.10.1)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit eaafeee675d8b0d287a122007b599136ed43c698[m
+Merge: b0e1c64 10c0f95
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Jan 23 14:04:51 2019 -0500
+
+    Merge pull request #74 from pmarsceill/v0.2.2
+    
+    v0.2.2
+
+[33mcommit 10c0f95b4040ccb3f54324f08c7173695340d443[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Jan 23 13:56:56 2019 -0500
+
+    Update just-the-docs.gemspec
+
+[33mcommit 8da9b82d665317cb3aa6a2f651dc88f6764a3416[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Jan 23 13:56:15 2019 -0500
+
+    Update package.json
+
+[33mcommit b0e1c64a5aa2df2773e7ffe24fbd8d088620ce8b[m
+Merge: 309b238 e1d226f
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Jan 23 13:54:12 2019 -0500
+
+    v0.2.2 release
+    
+    v0.2.2 release branch
+
+[33mcommit e1d226f19245fe9132f3e863533a0c72f45165c1[m[33m ([m[1;33mtag: v0.2.2[m[33m)[m
+Merge: 2de780b 37d54f5
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Jan 23 13:51:26 2019 -0500
+
+    Merge pull request #69 from bmann/patch-1
+    
+    page layout also used out of the box by Jekyll
+
+[33mcommit 2de780bb4b79ac1c723186a43c30ba91e55f7537[m
+Merge: ce947ae 60c82cb
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Jan 23 13:19:08 2019 -0500
+
+    Merge pull request #70 from EricFromCanada/improve-search
+    
+    Improve search data generation
+
+[33mcommit 60c82cb518a25f43f7c5adbee2b81807115b779e[m
+Author: EricFromCanada <enk3@outlook.com>
+Date:   Wed Jan 16 00:31:30 2019 -0500
+
+    Allow for ampersand in title or URL
+    
+    Because `page.title` (and `page.url`) is already escaped and page titles served by lunrjs do not need escaping, ampersands need to be unescaped to display properly in search results.
+
+[33mcommit 9a4ea76957f2ffad6b969606ea828ddf927c15f8[m
+Author: EricFromCanada <enk3@outlook.com>
+Date:   Tue Jan 15 21:19:37 2019 -0500
+
+    Improve search content generator
+
+[33mcommit 793ea356c37b3c406bc1b3af35f390b3c08302a5[m
+Author: EricFromCanada <enk3@outlook.com>
+Date:   Tue Jan 15 20:48:00 2019 -0500
+
+    Use `unless` loop for comma
+    
+    and mention `search_exclude`
+
+[33mcommit 71ba32e131790e082b6a723005923936454b3448[m
+Author: EricFromCanada <enk3@outlook.com>
+Date:   Tue Jan 15 20:43:19 2019 -0500
+
+    Additional text fixes
+
+[33mcommit 37d54f5bf2a7baf8c0a2b1f333ffb6bd0c1feea2[m
+Author: Boris Mann <boris@bmannconsulting.com>
+Date:   Tue Jan 15 10:52:32 2019 -0800
+
+    page layout also used out of the box by Jekyll
+    
+    Suggesting page, since `about.md` uses it for new Jekyll installs as well.
+
+[33mcommit ce947ae54395bfa0025d4f8ab386de6437328753[m
+Merge: b3fb5eb 2218e6e
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Jan 15 10:49:04 2019 -0500
+
+    Merge pull request #67 from EricFromCanada/doc-cleanup
+    
+    Documentation cleanup
+
+[33mcommit 2218e6e56582427a28dcf9dc21f44cd429a3796e[m
+Author: EricFromCanada <enk3@outlook.com>
+Date:   Mon Jan 14 14:39:40 2019 -0500
+
+    Fix links and syntax
+    
+    For pages in utilities/, reorder `nav_order` to follow `parent`.
+
+[33mcommit ae5bcfe361054e53d21a44d7c0965640a821cf74[m
+Author: EricFromCanada <enk3@outlook.com>
+Date:   Mon Jan 14 14:32:41 2019 -0500
+
+    Fix grammar and capitalization
+
+[33mcommit ff49d02f83d3a07a08d3aa0dc0351f2442f5ac61[m
+Author: EricFromCanada <enk3@outlook.com>
+Date:   Mon Jan 14 14:18:09 2019 -0500
+
+    Make spacing consistent
+
+[33mcommit d7b1adb8c78fa9b46e21ecfaf0c2b00599958e45[m
+Author: Stephen Edmondson <stephen.edmondson@gmail.com>
+Date:   Fri Jan 11 12:41:00 2019 -0600
+
+    search-data path fix
+
+[33mcommit b3fb5ebd8774ff703cbd8b933f5ab9e2a632ceb8[m
+Merge: 79a8cda 2b0ff70
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Jan 7 10:44:05 2019 -0500
+
+    Merge pull request #61 from pmarsceill/dependabot/bundler/bundler-tw-2.0.1
+    
+    Update bundler requirement from ~> 1.17.1 to ~> 2.0.1
+
+[33mcommit 79a8cda356925c1b05433ee5d571ac170da4d24b[m
+Merge: ae3f570 e4dd350
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Jan 7 10:43:34 2019 -0500
+
+    Merge pull request #44 from pmarsceill/dependabot/npm_and_yarn/stylelint-config-primer-3.0.1
+    
+    Bump stylelint-config-primer from 3.0.0 to 3.0.1
+
+[33mcommit ae3f570370ea9025bccd2299d9375fb3038402ea[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jan 6 15:51:30 2019 -0500
+
+    Fix some styling bugs
+
+[33mcommit f17700afe3a397fcd517571cb6a2f59ff989de18[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jan 6 15:51:17 2019 -0500
+
+    Better search index
+
+[33mcommit 269271a8d739bbe9ca158c3f53b2ccb03dbf4f65[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jan 6 15:50:57 2019 -0500
+
+    Add a page description
+
+[33mcommit 09cc61c25f63c7c9509e6723c52a74c146dbd384[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jan 6 15:50:31 2019 -0500
+
+    Moar A11y updates
+
+[33mcommit 06c8acc06b9baa69d92430f4757b7e89703390b0[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jan 6 15:50:01 2019 -0500
+
+    Lol we forgot the body tag
+
+[33mcommit a3ae6ad74eac4910838a232b9f0a8ff4009ace95[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jan 6 15:49:26 2019 -0500
+
+    A11y updates
+
+[33mcommit f2640349990e5431e57e2c72f20da881468a189a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jan 6 15:48:58 2019 -0500
+
+    If page has a description use that for meta data
+
+[33mcommit 2b0ff701fab73b7eafc765c266b7086ffb29da8b[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Fri Jan 4 10:18:33 2019 +0000
+
+    Update bundler requirement from ~> 1.17.1 to ~> 2.0.1
+    
+    Updates the requirements on [bundler](https://github.com/bundler/bundler) to permit the latest version.
+    - [Release notes](https://github.com/bundler/bundler/releases)
+    - [Changelog](https://github.com/bundler/bundler/blob/v2.0.1/CHANGELOG.md)
+    - [Commits](https://github.com/bundler/bundler/commits/v2.0.1)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit 4a9b4fd5b1f75d7c4e26a91e457967c3371b22cc[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 15:29:06 2018 -0500
+
+    lint
+
+[33mcommit d5d1ddbd92c55abcd2e5c0eca0d244657b83078c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 15:27:25 2018 -0500
+
+    Docs update
+
+[33mcommit 39828f07758294d62e7e6909704c3f2a5b8692da[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 15:24:00 2018 -0500
+
+    A nicer 404
+
+[33mcommit 954e8941bb125801c2b140fd25b2e0889e14b715[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 15:23:33 2018 -0500
+
+    Accidental reversal
+
+[33mcommit 20970ca9e6105d83edc4d5dd1159975e3199657d[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 15:23:18 2018 -0500
+
+    Better code scrolling for touch
+
+[33mcommit eaf1247911cf438a9cffe1bd727f9b1450d81f08[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 15:22:51 2018 -0500
+
+    Auto focus main content for keyboard scrolling
+
+[33mcommit eb0a6c328faae05d2cdedd0124bb19671f4d6468[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 14:47:41 2018 -0500
+
+    Allow pages to be excluded from search
+
+[33mcommit ed33ab18ac7cf4c9248a6e1c4fed99b0791e3405[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 14:29:35 2018 -0500
+
+    Exclude package-lock.json from jekyll build
+
+[33mcommit 555dfae410e52276d724e96cd7578be65d4ec919[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Dec 16 14:27:44 2018 -0500
+
+    Make TOC on parent pages optional
+
+[33mcommit 309b238400e1b4062f9c3c3ce6d06b470f92ac54[m
+Merge: 80bbdb7 2caefa4
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Dec 13 11:16:27 2018 -0500
+
+    Merge pull request #51 from flut1/master
+    
+    Fix charset for list item content in scss
+
+[33mcommit 2caefa4e9e0b0fe6a3fc15c2d0dc04a085e6f1fd[m
+Author: Floris Bernard <floris.bernard@gmail.com>
+Date:   Wed Dec 12 14:33:02 2018 +0100
+
+    Fix charset for list item content in scss
+
+[33mcommit e4dd35083aed6859a95db73b00fc32f8e453c827[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Fri Nov 30 10:25:20 2018 +0000
+
+    Bump stylelint-config-primer from 3.0.0 to 3.0.1
+    
+    Bumps [stylelint-config-primer](https://github.com/primer/primer) from 3.0.0 to 3.0.1.
+    - [Release notes](https://github.com/primer/primer/releases)
+    - [Changelog](https://github.com/primer/primer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/primer/compare/v3.0.0...v3.0.1)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit 80bbdb7be83902149519aa7e24cc6c6243bdc9ed[m
+Merge: dc47cec c5a9be9
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Nov 29 11:43:28 2018 -0500
+
+    Merge pull request #43 from pmarsceill/v0.2.1
+    
+    v0.2.1 release
+
+[33mcommit c5a9be9298976e2fff01a76589c905090a0c3d4f[m[33m ([m[1;33mtag: v0.2.1[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 29 11:33:43 2018 -0500
+
+    Bump JTD version numbers
+
+[33mcommit 5b9cde1dc443507d50bb6e0b995114369b2d4912[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Wed Nov 28 20:48:54 2018 +0000
+
+    Bump stylelint-config-primer from 2.2.11 to 3.0.0
+    
+    Bumps [stylelint-config-primer](https://github.com/primer/primer) from 2.2.11 to 3.0.0.
+    - [Release notes](https://github.com/primer/primer/releases)
+    - [Changelog](https://github.com/primer/primer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/primer/primer/commits/v3.0.0)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit 1064d50f8c4661bf5034e440fd3ee019c760783d[m
+Merge: f6003ec b35b697
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 29 11:28:25 2018 -0500
+
+    Merge branch 'dependabot/npm_and_yarn/stylelint-9.9.0' into v0.2.1
+
+[33mcommit b35b697dc2cc0e2fa87f1ad9d02b6a7c2981000f[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Thu Nov 29 16:19:16 2018 +0000
+
+    Bump stylelint from 7.13.0 to 9.9.0
+    
+    Bumps [stylelint](https://github.com/stylelint/stylelint) from 7.13.0 to 9.9.0.
+    - [Release notes](https://github.com/stylelint/stylelint/releases)
+    - [Changelog](https://github.com/stylelint/stylelint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/stylelint/stylelint/compare/7.13.0...9.9.0)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit f6003ec47d3a46124e38135c897dbcc5df13f577[m
+Author: dependabot[bot] <support@dependabot.com>
+Date:   Wed Nov 28 20:49:13 2018 +0000
+
+    [Security] Bump lodash from 4.17.4 to 4.17.11
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.4 to 4.17.11. **This update includes security fixes.**
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Changelog](https://github.com/lodash/lodash/blob/master/CHANGELOG)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.4...4.17.11)
+    
+    Signed-off-by: dependabot[bot] <support@dependabot.com>
+
+[33mcommit dc47cec4aa537c0c46afee1d0d8a1dd0afa77691[m
+Merge: 2199047 6b213c2
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Nov 26 11:29:59 2018 -0500
+
+    Merge pull request #29 from folbert/aux-link-documentation-fix
+    
+    Indented the title for aux_link
+
+[33mcommit 6b213c2da01fe4de95e802ac212026f513ff0cc5[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Nov 26 11:26:44 2018 -0500
+
+    Additional ident
+
+[33mcommit 860207d13cd452fe216a25a2872317439b45aa3d[m
+Author: Björn Folbert <b@folbert.com>
+Date:   Sat Nov 24 00:21:57 2018 +0100
+
+    Indented the title for aux_link
+    
+    The indent is required for the aux links to work.
+
+[33mcommit 21990474d0db555129b20364c12b130190f0a19b[m
+Merge: fa40528 cd55ce0
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Nov 19 16:34:46 2018 -0500
+
+    Merge pull request #23 from pmarsceill/v0.2.0
+    
+    v0.2.0 release
+
+[33mcommit cd55ce008939903b87171cade995812e08d95bea[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Nov 19 16:33:25 2018 -0500
+
+    Bumb version numbers
+
+[33mcommit c20129c32c45bd8b04680250292ec6c0fb0e4155[m[33m ([m[1;33mtag: v0.2.0[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Nov 19 16:26:22 2018 -0500
+
+    update docs for nav / page strucutre
+
+[33mcommit dac6e4545185c262c4f1f5ec11b7ec4a5212f330[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Nov 19 13:50:54 2018 -0500
+
+    Update docs
+
+[33mcommit 3ecef3be5cd13d04540ae0700f9d12e4539a72b7[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Nov 19 13:37:49 2018 -0500
+
+    jk
+
+[33mcommit 74b468058a477612c76f4cbcde7b40a206ea200b[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Nov 19 13:29:17 2018 -0500
+
+    Better breadcrumb alignment
+
+[33mcommit 960d347f687aa75a6a0d6ec8ecb43d206da9be6d[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Nov 19 13:28:59 2018 -0500
+
+    Support 3 levels of pages
+
+[33mcommit 3573db5d34b48f752c36fdd7c781b7286ee9db02[m
+Merge: 559e210 dc29db5
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Nov 19 10:32:12 2018 -0500
+
+    Merge pull request #24 from pmarsceill/dark-mode
+    
+    Dark mode
+
+[33mcommit dc29db592f1f09d01b1dcaa6fc621ae3db32e015[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Nov 19 10:29:30 2018 -0500
+
+    Update bundler version
+
+[33mcommit 805eadb4bbcae080b9140f13aafed2d0c50867ba[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Nov 18 11:09:18 2018 -0500
+
+    exclude dark mode manifest
+
+[33mcommit f0bb38e1b8277477dd4e5fd72123e9e879b022cd[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Nov 18 11:07:45 2018 -0500
+
+    Clean up colors and docs
+
+[33mcommit b52f66a2eedd093d9fe7b8404d0abd53eb4f926a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Nov 18 11:06:59 2018 -0500
+
+    Turn off dark by default
+
+[33mcommit 100b7277b33813d5d84d009679e02ea67681c98a[m
+Merge: 28bafab 559e210
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Nov 17 16:25:58 2018 -0500
+
+    Merge branch 'v0.2.0' of github.com:pmarsceill/just-the-docs into dark-mode
+
+[33mcommit 28bafabd7243076c2a02d535a0a44c5845e70efd[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Nov 17 16:25:26 2018 -0500
+
+    lint
+
+[33mcommit 559e21050345b387d7aa257ff17065978406e003[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 15:04:31 2018 -0500
+
+    Lint
+
+[33mcommit 4814fbce640790d015400ce55671e6bbc74b0eb6[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 14:55:20 2018 -0500
+
+    Content cleanup
+
+[33mcommit 2568b05fe7b46c95b1daa50d46bc60a9418a1257[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 14:54:46 2018 -0500
+
+    Don't break links in body
+
+[33mcommit 7c24af074532e3e9b4a7e2536f905d442abe83d7[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 14:37:28 2018 -0500
+
+    Add remote-theme docs
+
+[33mcommit 410085dd28fd2d7254e1cdd8e64caea537a69494[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 14:37:00 2018 -0500
+
+    Content cleanup
+
+[33mcommit bfce0f57d3eaa6481ae3626c43b02ea2ed8302f8[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 14:36:26 2018 -0500
+
+    Fix bug on code snippets causing double padding.
+
+[33mcommit 379a97638778a9017e4c90daf2e91f7ef8c62e9f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 13:57:49 2018 -0500
+
+    Add docs for nav exclude
+
+[33mcommit 6540493df22ab05e49cdb97b9ea7935a4257fdc7[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 13:57:32 2018 -0500
+
+    Add condition for nav exclude
+
+[33mcommit 6ecde7eeec6251ba44c41fc2e1bae53cdeac005a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 13:41:26 2018 -0500
+
+    Remove this as it was taken out in 0.1.6
+
+[33mcommit 8f6f4b761a667670316fb3af52fc20d616c4ddcf[m
+Merge: ee4759c fa40528
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 12:40:35 2018 -0500
+
+    Merge branch 'master' of github.com:pmarsceill/just-the-docs into dark-mode
+
+[33mcommit fa40528acd2425f15e41759b94014a792403eabb[m
+Merge: d5ef35c 0a5edea
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Nov 16 12:01:17 2018 -0500
+
+    Merge pull request #20 from pmarsceill/v0.1.6
+    
+    v0.1.6 release
+
+[33mcommit 0a5edea9d88233d94f728988e03db18657e09214[m[33m ([m[1;33mtag: v0.1.6[m[33m)[m
+Merge: 4b8e051 32b708c
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Nov 16 11:54:02 2018 -0500
+
+    Merge pull request #19 from pmarsceill/task-lists
+    
+    Task lists
+
+[33mcommit 32b708cb58bcc2eaa780a97ba1b50d118b5fb623[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 11:49:29 2018 -0500
+
+    whitespace
+
+[33mcommit b98cac862087fd57c9de2275ee9f898f427c5f72[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 11:47:46 2018 -0500
+
+    Add new configuration docs
+
+[33mcommit c6ca6f61ab99a67e972c12e842ac949b786bbd2c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 11:47:30 2018 -0500
+
+    Update docs for search config
+
+[33mcommit e41c1701a5cf495f62475cc492c0e4cbeb463410[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 11:47:14 2018 -0500
+
+    Bump nav order for new docs
+
+[33mcommit d11e332dc692ba9c61ac0c0796a9c8e4e2431e51[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 11:46:43 2018 -0500
+
+    Create condition for no search and add config/css
+
+[33mcommit 45eea0efb69642a451d38157ab03a8cb6a5e9386[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 10:57:07 2018 -0500
+
+    Add docs for lists
+
+[33mcommit 3730de18eabe49841ec76e045c1bb901cc255e21[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 10:56:50 2018 -0500
+
+    Add support for task lists
+
+[33mcommit 4b8e051303b1ef98285d91adf805618428985fee[m
+Merge: d5ef35c 3418332
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Nov 16 10:34:41 2018 -0500
+
+    Merge pull request #18 from pmarsceill/pull-in-normalize
+    
+    Fix normalize dependency
+
+[33mcommit 3418332411d454129da8832528ac5f73b43d48c4[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 10:28:47 2018 -0500
+
+    Forgot the slash 😬
+
+[33mcommit bde21167f4f304a60478c3c3608fe1dd90711e7a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 10:25:45 2018 -0500
+
+    Move normalize folder to vendor
+
+[33mcommit 5ac39f75a17ef94b361b8d7d4fa7a4eb3c1fc0e5[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Nov 16 10:25:18 2018 -0500
+
+    move this to vendor so stylelint shuts up
+
+[33mcommit 1ef94683df51fc110a3de6a3f4642f3d246ac21a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 16:18:48 2018 -0500
+
+    package lock
+
+[33mcommit 35c98605d7192655db3306ced4f438517e018566[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 16:18:19 2018 -0500
+
+    Bump versions
+
+[33mcommit 11a4269d1c3cac6a38f36247209113fb89b42c00[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 16:18:07 2018 -0500
+
+    Ignore normalize.scss
+
+[33mcommit 2f7d0f18a5e93ad0bf7deaa83319321976ea1e85[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 16:17:52 2018 -0500
+
+    Remove node_modules files
+
+[33mcommit 8968860b4b2c058c28c9a2873908b95f9a1f4176[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 16:17:29 2018 -0500
+
+    Ignore node modules
+
+[33mcommit aa5a4e529c71d6de1f8287c0ccd4d8be756c31f2[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:59:23 2018 -0500
+
+    Linting rule
+
+[33mcommit a0251b32d19108ab94abf160cf0208d2de949cef[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:56:00 2018 -0500
+
+    update linting rules
+
+[33mcommit 8d144f153058f8e712b481238ad4efa0e685e642[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:51:10 2018 -0500
+
+    fix style bug
+
+[33mcommit af3e9f07c73a3c9e1897677b6d948d997398e2e9[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:49:41 2018 -0500
+
+    No longer need this build process
+
+[33mcommit aa4ec995cde5eea336c70443470df2bfa56a599c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:49:14 2018 -0500
+
+    Remove this as normalize is now in the _sass dir
+
+[33mcommit 657ce6b750ecfc132711dbe0d721e8e46e72046f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:35:46 2018 -0500
+
+    add-in-normalize
+
+[33mcommit ee4759c7724fcb71e2f48dfb821d4cac33babf6c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:13:16 2018 -0500
+
+    Rip out hard-coded color
+
+[33mcommit 3acf927eb75d2757a45f724c2e86a8d920f8dec4[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:13:02 2018 -0500
+
+    Add dark mode theme
+
+[33mcommit b7db5e73a336bad4c1696ae2fe40c52062b930ec[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:12:33 2018 -0500
+
+    Bump version and deps
+
+[33mcommit 9c70c7f0810b00a6f1d956ccd510c96413211f32[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Nov 15 15:12:12 2018 -0500
+
+    Convert colors to vars
+
+[33mcommit d5ef35c5a4ef4a772d49f6eba9e5bce2c886706d[m
+Merge: 94d640b aa9a68b
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Nov 15 14:53:25 2018 -0500
+
+    Merge pull request #14 from joesb/patch-1
+    
+    Search documentation - snippet is missing `relUrl`
+
+[33mcommit aa9a68b1bebd5dba43ef958aea201c132d075a6c[m
+Author: Joe Baker <joesb@users.noreply.github.com>
+Date:   Tue Nov 6 16:50:32 2018 +0000
+
+    Search documentation - snippet is missing relUrl
+    
+    The code snippet on the search documentation is missing the `relUrl` parameter in each search result, and the `url` parameter is not an absolute URL.
+    This updates to match the formatted output of `search.rake`
+
+[33mcommit 94d640b80e76cd9fa001485453c74fff44c1dad6[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Oct 26 11:31:38 2018 -0400
+
+    Update README.md
+
+[33mcommit f92fd09a12df46123a3c190e7bf1add8901c0de6[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Oct 26 11:27:56 2018 -0400
+
+    Update README.md
+
+[33mcommit d8a90f70c1658bc37f1cdca7117c0468af3ffe2b[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Oct 26 11:05:46 2018 -0400
+
+    Update README.md
+
+[33mcommit 11ee5e7762b1cc4607be4f2bf0aa668d33f69212[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Fri Oct 26 11:04:36 2018 -0400
+
+    Update README.md
+
+[33mcommit 74693a0b2a209370b35b255b984839f4da5e061b[m[33m ([m[1;33mtag: v0.1.5[m[33m)[m
+Merge: 89f9c5f 6400e79
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 12:43:05 2018 -0400
+
+    Merge pull request #13 from pmarsceill/add-ci
+    
+    Add CI for testing
+
+[33mcommit 6400e79e022961f3b3a2751f0de8f5c305e4941f[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 11:22:11 2018 -0400
+
+    Update README.md
+
+[33mcommit 6a6efba27ac37e8b202040363296151c839cbcea[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Oct 25 11:17:10 2018 -0400
+
+    fix linting / rules
+
+[33mcommit d554236ba30acb44d1c8c19973d83ed94a1e687d[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 11:00:40 2018 -0400
+
+    Update .travis.yml
+
+[33mcommit 6d14c454f1bbfa0c54e5e248cd5233eaffab1256[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 10:54:17 2018 -0400
+
+    Update package.json
+
+[33mcommit 9d51b4601c060ecf73bc9c60b00ee3a5bbf848e1[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 10:53:28 2018 -0400
+
+    Update .travis.yml
+
+[33mcommit 62fc067441b4e7e382155010d708d4a7902e5564[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 10:53:03 2018 -0400
+
+    Update .travis.yml
+
+[33mcommit ea61589b12768bc1403cbf37fd69fc05760d232f[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 10:48:35 2018 -0400
+
+    Add travis yaml
+
+[33mcommit 89f9c5f38c2d357b57f76df5c406392415264282[m
+Merge: 3a32d20 caf5311
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Thu Oct 25 10:41:21 2018 -0400
+
+    Merge pull request #12 from jakebresnehan/patch-1
+    
+    Update README.md
+
+[33mcommit caf5311feb377ae05fbc2899cf33d198c52f481a[m
+Author: Jake Bresnehan <jakebresnehan@gmail.com>
+Date:   Thu Oct 25 18:40:36 2018 +1100
+
+    Update README.md
+
+[33mcommit 3a32d20f189f475bc44a13fe315fceb59f9d71c8[m
+Merge: d558234 651ed92
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Oct 24 16:45:43 2018 -0400
+
+    Merge pull request #11 from pmarsceill/rake-mkdir
+    
+    rake search:init fails if dirs don't exist
+
+[33mcommit 651ed922b00e93f83c122fe1584eae3a44c08555[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 16:39:13 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 64ed5ef369ee6ed25bc495e233b72131b7d88312[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 16:39:13 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 82e1873460894077141e410c537055ad360ee4b3[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 16:39:03 2018 -0400
+
+    bump version number
+
+[33mcommit 46782d93522ecbe721ea4191b0530ccb8d278c76[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 16:34:11 2018 -0400
+
+    Rake fails when dirs dont exist
+
+[33mcommit d55823488544654c361a3413c2703d88dd0fe0bf[m
+Merge: 8bffcd0 b6ed364
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Oct 24 14:25:11 2018 -0400
+
+    Merge pull request #10 from pmarsceill/rake-runtime
+    
+    Rake runtime
+
+[33mcommit b6ed3643f1dede209be2f8201e2d5aa1847b57e0[m[33m ([m[1;33mtag: v0.1.4[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:23:00 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 6ebfb5c77ec5e393335b52f2e7432d4ea8995742[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:22:59 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 86402106e7756c5c3db91e162827aad313da7e9f[m
+Merge: 53b0934 8bffcd0
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:21:43 2018 -0400
+
+    Merge branch 'master' of github.com:pmarsceill/just-the-docs into rake-runtime
+
+[33mcommit 53b093474f792e27b716fd55900b7d156371a2cb[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:21:38 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit c8a93a9a3c7c4316796d6918e275008c729a469f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:21:38 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 8bffcd06cd28c6b88cd4fdf2c5cfa711afbcec9f[m
+Merge: 6c05ef8 dc0d4a0
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Oct 24 14:16:51 2018 -0400
+
+    Merge pull request #9 from daviddarnes/patch-1
+    
+    Improve presentation of Description Lists
+
+[33mcommit dc0d4a0c849744c9c3c01763a8621583489beafc[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Wed Oct 24 14:15:29 2018 -0400
+
+    White space
+
+[33mcommit 886654d86d9dcab5fb7035cd5962164d2daf353d[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:07:02 2018 -0400
+
+    Add these for a better default jekyll experience
+
+[33mcommit 4177f965dff0d7866593dc0b8379ba178bb522bc[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:06:41 2018 -0400
+
+    Content updates
+
+[33mcommit f97f5042841313c93529a2346163e0b035158f53[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:06:12 2018 -0400
+
+    Better layout for when nav is long and scrolls
+
+[33mcommit 45abf03b4835196a5e380f151aa482edff62e380[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:05:42 2018 -0400
+
+    Annoying bug that 404s on local dev
+
+[33mcommit debc7d3310f56c0946b9a796be2301e65b5a3f1a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:05:29 2018 -0400
+
+    Fix up search bar on mobile
+
+[33mcommit ea23134560ef2167698a9f10f5e4384265ee7663[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 14:03:50 2018 -0400
+
+    Fix path for home
+
+[33mcommit 2ad43933cfbea2eefdf19e579376c5c1c4e9c431[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 12:56:42 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 1afc26cc3346ce490ed34707a335abc661334268[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 12:56:41 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit b64368873c1be9e12b564734b01fc9a6af90d734[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Oct 24 12:56:33 2018 -0400
+
+    Make Rake a runtime dep
+
+[33mcommit 89a3e86ebf2da0b2ec739052af195f85fcc5f8da[m
+Author: David Darnes <me@daviddarnes.com>
+Date:   Wed Oct 24 13:52:27 2018 +0100
+
+    Remove whitespace
+
+[33mcommit 952a016807d6f594e46d8ddaf953428ab0efbd1d[m
+Author: David Darnes <me@daviddarnes.com>
+Date:   Wed Oct 24 13:50:07 2018 +0100
+
+    Improve presentation of Description Lists
+    
+    Thought the description list could benefit from some CSS Grid powers
+
+[33mcommit 6c05ef8b9d599bc103a2f5eab1832da4487444e8[m
+Merge: 6e534b6 3752c58
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 17:59:36 2018 -0400
+
+    Merge pull request #8 from pmarsceill/more-path-problems
+    
+    Fix breadcrumb path
+
+[33mcommit 3752c58af2eb89d69ac6a361191d3b633144a482[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 17:55:59 2018 -0400
+
+    Fix breadcrumb path
+
+[33mcommit 6e534b63c2f4b86075d0e7945023545e954f1a9e[m
+Merge: aa9e2ab ced66a0
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 17:11:40 2018 -0400
+
+    Merge pull request #7 from pmarsceill/bump-version
+    
+    Bump version
+
+[33mcommit ced66a005669666791e1acd9aaf13dbc09d6fb7a[m[33m ([m[1;33mtag: v0.1.3[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 17:08:27 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit ce3fd856dd9832ef3eed1b9f295f9fe40042f093[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 17:08:27 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 4df5736ca40de6bfdcf3352f7f17be320c37d1fb[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 17:08:22 2018 -0400
+
+    Bump version number
+
+[33mcommit aa9e2ab8e3310da396db3b8d0ccc7aa2018ff07d[m
+Merge: 1b71504 b38f986
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 17:04:57 2018 -0400
+
+    Merge pull request #6 from pmarsceill/paths-problems
+    
+    Fix moar paths
+
+[33mcommit b38f9863cd4c4f11747aa035580f43594549ac2e[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 17:03:43 2018 -0400
+
+    Update _buttons.scss
+
+[33mcommit ca06df377640836a0391fe4cd6948c2e33042709[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 17:01:21 2018 -0400
+
+    Button bg was no good in Chrome
+
+[33mcommit e9943f90c91723fb0e47edae9181a14e3bb12403[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 16:54:14 2018 -0400
+
+    Don't need slash only axl
+
+[33mcommit 3d4e1de008998438ce405f2eee5154c7d7a2ac88[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 16:53:01 2018 -0400
+
+    Breadcrumb needs baseurl
+
+[33mcommit bdfdf1bb42520cc5a10298b0df13f0f8fc35755a[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 16:48:48 2018 -0400
+
+    Don't need this slash
+
+[33mcommit bf0d7eaa5f2718cb0fa5bee1d735ee6bc294cf18[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 16:45:08 2018 -0400
+
+    Fix moar paths
+
+[33mcommit 1b715049eb57a1fbcd92078fdd794c5a4c4b87d8[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 16:29:08 2018 -0400
+
+    typo
+
+[33mcommit 049d1f50d775a8e4ca227ab61cc8643b58a88f49[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 15:08:56 2018 -0400
+
+    Update README.md
+
+[33mcommit 3af81c7f3621a2ab3cdb05eca2cf44d15c0e2017[m
+Merge: 778e142 97743c1
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 14:47:26 2018 -0400
+
+    Merge pull request #5 from pmarsceill/fix-title-px
+    
+    Fix title px
+
+[33mcommit 97743c1c18e628a7d7a52369242a5059cc94079d[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 14:24:42 2018 -0400
+
+    Fix link
+
+[33mcommit 7d4ce89e9bb051eb2065159d6a0579fb80211152[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 14:13:45 2018 -0400
+
+    fix alignment
+
+[33mcommit 778e142411456f1ce8b86a88357cc19241978ca6[m
+Merge: c1cacf2 c45297c
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 13:54:49 2018 -0400
+
+    Merge pull request #4 from pmarsceill/fix-title
+    
+    fix title align
+
+[33mcommit c45297c5cb0e9a1d1cb293f1578fdc0f1576cabf[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 13:54:01 2018 -0400
+
+    fix title align
+
+[33mcommit c1cacf277cf7f9e6addbb54a34d8949f89b8e764[m
+Merge: d603389 fc58bd0
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 13:21:57 2018 -0400
+
+    Merge pull request #3 from pmarsceill/v0.1.2
+    
+    Fix paths in docs
+
+[33mcommit fc58bd0c045db8e2d245c1cb0f22f7a9ba6c56e7[m[33m ([m[1;33mtag: v0.1.2[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 13:20:37 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit b5de18ec2d8a9c7fba95dbff9737a27aa5017fae[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 13:20:36 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 7ba3b3e5fd392480ffd3ea6d32dc1146a275bd1b[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 13:20:30 2018 -0400
+
+    bump version number
+
+[33mcommit 62c7ac4729ec750fe80a25b8a47492cc694961fe[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 13:09:23 2018 -0400
+
+    Add done after creating content
+
+[33mcommit 0611696c2dc38e53a640b8212ed896057fc33e06[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 12:56:46 2018 -0400
+
+    Fix pathing
+
+[33mcommit 25cd289df536cdacc17c0fc5aa3c9d10293e2773[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 12:51:11 2018 -0400
+
+    Fix pathing issues with gh-pages
+
+[33mcommit d60338910b4687f9197609fc840cb33835a22474[m
+Merge: 2aaff54 deb9a2d
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Tue Oct 23 11:46:47 2018 -0400
+
+    Merge pull request #2 from pmarsceill/v0.1.1
+    
+    V0.1.1
+
+[33mcommit deb9a2d945969b559cb533ba82314fbe71bc8121[m[33m ([m[1;33mtag: v0.1.1[m[33m)[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:42:58 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit ef1a4cea2ff3a2bff2c843c69be6431e859d9807[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:42:58 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 7a52ebf6a82dc54b9f4f926f1d5f52aecd5fe60f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:42:42 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 057ad9618d6bb68b32ffe3cece8e4a7d6680d7ca[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:42:42 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 86e63940f51b0c340c275cb1efa7b590133ddaf8[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:42:37 2018 -0400
+
+    bump gem version
+
+[33mcommit aa22a8aa9440627c13d69b3e5990f96e701cb301[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:41:40 2018 -0400
+
+    Make these buttons bigger, especially on mobile
+
+[33mcommit d3e231648f58ca7f592ea4ec71fab545d94d6abb[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:41:25 2018 -0400
+
+    Show / hide search with mobile nav
+
+[33mcommit 2d1305045ed29c394b35d89c00ec66aa4f026b62[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:41:06 2018 -0400
+
+    Typography utils
+
+[33mcommit 68169dd18ee80ce6f3904b0a1fe58c305559458c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:40:39 2018 -0400
+
+    Nav, footer, and search mobile cleanup
+
+[33mcommit dc182d19358f80e74325c7990bfbe84adcfae1bb[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:40:07 2018 -0400
+
+    Make labels not look like buttons
+
+[33mcommit 9434d248a34b3fdc6f5f7900b59d81355817f2e3[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:39:48 2018 -0400
+
+    Better type proportions
+
+[33mcommit d21259a02f099365e7556cef287b3f0d2c4e191b[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Tue Oct 23 11:39:30 2018 -0400
+
+    Tidy up nav and search on mobile
+
+[33mcommit 2aaff540a1deccde7effcd6756b4cb427bd1a626[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 17:17:46 2018 -0400
+
+    Fix assets
+
+[33mcommit bcd4e3b289373f9800dfff5e2186682960b080e4[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 13:33:56 2018 -0400
+
+    Update README.md
+
+[33mcommit d0cf56bb31457aaa42e37318ea726f9afa0e32e8[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 13:14:21 2018 -0400
+
+    Update index.md
+
+[33mcommit 09adcf7071d7691ec2a9208ce9092c483a9913ae[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 13:07:17 2018 -0400
+
+    Create CODE_OF_CONDUCT.md
+
+[33mcommit 53020ec51961031787778de4fe43d6972e4673a0[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 13:06:01 2018 -0400
+
+    Update README.md
+
+[33mcommit 9320945bce1fb11d82977b50a2bd9d1167af43e7[m
+Merge: 05efcb2 91fb549
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 13:03:07 2018 -0400
+
+    Merge pull request #1 from pmarsceill/tweaks-before-oss
+    
+    Tweaks before oss
+
+[33mcommit 91fb5499e03a4acdea593670754b1cce43ba8477[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 13:02:25 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 661b23fef6b3b2ca307bbcf852b6d276e6d73c12[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 13:02:24 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit e3b2ec068dd4e3867850e1bdb8f18ff9c6d38b49[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 13:02:06 2018 -0400
+
+    gemspec
+
+[33mcommit 05efcb28948011a7ded49bb6a34897767bc0da3d[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 12:34:00 2018 -0400
+
+    Update README.md
+
+[33mcommit 139562cce7f340dcec0fb93b3634c386fdb1bdbb[m
+Merge: 684dbcb c452806
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 12:23:41 2018 -0400
+
+    Merge branch 'master' of github.com:pmarsceill/just-the-docs into tweaks-before-oss
+
+[33mcommit 684dbcbc907a61f84f37df31c611e677b4afeaeb[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 12:23:07 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit a549b1e31bd901ce31f152d173d132c265346f01[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 12:23:07 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 1a41af4759e92ddde7b7513e5e60464985e91d6f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 12:23:01 2018 -0400
+
+    Dont compile these
+
+[33mcommit 4001dbd60540bfd762b017857e13df88ddcdb5b6[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 12:02:08 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit c90bcc13be1c35c3a8cb166419cdd04c4eb06e28[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 12:02:07 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit c535c2f6f4029568b6db875a283eda77a45a9e00[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 11:55:43 2018 -0400
+
+    remove rakefile
+
+[33mcommit c817a4ea669e1975607b3cbb94316e685f224823[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 11:52:20 2018 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 76361c69410680ee98a93abbef85adc824cabc00[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 11:52:19 2018 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 49eda95c198ba84c6eb07c8989a86d5ffa82dfc8[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Oct 22 11:52:13 2018 -0400
+
+    fix mobile nav
+
+[33mcommit c452806e7029e21ddb4feb6fed3aae4ff8d0a5c2[m
+Author: Patrick Marsceill <pmarsceill@users.noreply.github.com>
+Date:   Mon Oct 22 11:40:58 2018 -0400
+
+    Update README.md
+
+[33mcommit be0d00cb2a1c42f3deb7b9b0310196639b847a4a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Wed Nov 8 11:23:05 2017 -0500
+
+    getting this on GH
+
+[33mcommit bdd5d105e1f6b9e18ed0dacf79658f26269425b7[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 18:45:38 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 4b0e33b86d20c660a1fea455f5665d8a71518bb5[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 18:45:37 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit b1073290c48cfdd462baa164acb0d267bec8e023[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 18:45:25 2017 -0400
+
+    remove that
+
+[33mcommit 6465579b2e22bfc578f23790d4c5e11c7ab4a82c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 18:23:26 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit aa5403bc90e33d334ac60c79d5deff06ebb08ca8[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 18:23:25 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit de40adfcac35dabc24e4af09109c62dfa3f281c6[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 18:23:20 2017 -0400
+
+    try this
+
+[33mcommit b145c9123aced7680cc5c50d2f99d9ce3c67c732[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 14:24:37 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit f36115358e7c5c5ecf413010956c099ec433fdf4[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 14:24:36 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit ee3b66c86dde01555118ff493ac1f174ae4cf652[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 14:24:30 2017 -0400
+
+    I dont think i need you
+
+[33mcommit f875a66be6759fd20f0cd04f39c88677e6f4952a[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 14:24:18 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 69a9927748cf827e219b78689348266b548f4393[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Mon Jun 12 14:24:16 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 40b17cb86ac4481d851c8be3582843e5af7d70d4[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:25:30 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit c09115a2060c7a4123987acc2bfdec5744e8dc4f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:25:29 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 3929112fbbc4a68d7f8eef6c15d42391234c8aa3[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:25:19 2017 -0400
+
+    It was you the entire time
+
+[33mcommit b78421694f047fda16a37eb3f27303d1516b9b1c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:23:36 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 98b4ef9144f43e818b082e28fe8e3e0d9ef1858e[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:23:36 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit db538653e5f0a2f9046777498b678471ee501911[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:23:22 2017 -0400
+
+    moar quotes more problems
+
+[33mcommit 512fcea8123631184c0abb6eab61538cbdfc436e[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:21:56 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 9c8174597a866eb1d0c88ef635074fc2c310b2fb[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:21:55 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 6bade2357318d1b7307fbd04d567c3edad8dab6c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:21:38 2017 -0400
+
+    this instead
+
+[33mcommit 096e1ac3ac9145f0162c32ee0865a910957c4006[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:19:20 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 91734505c7acc8d7e3781c6cb4cc5759230289c5[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:19:19 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit dbd91523f7360e9f2d499085a080c32d6ef59625[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:19:13 2017 -0400
+
+    lets try to pull this into a var
+
+[33mcommit 7ecfe0d27e9c0d823f4c033b515f136485e3991c[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:10:02 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 934e9362a1562761551be546696b15aa868c2af3[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:10:02 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 6432128769543d76e4b895340c46f071634bf719[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 11:09:55 2017 -0400
+
+    escape the quotes better
+
+[33mcommit 4d0853ac808830900463e7c5e88182c1d2806a94[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:58:55 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 4879e55891d83078e47b97e233a23c4e2c2b6df5[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:58:54 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 87337768ccea67c0df4222088ffa18c6d4a52de2[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:58:35 2017 -0400
+
+    whitespace
+
+[33mcommit 2b2747a5ea6b6e96c67e580ebd984752ad454494[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:50:40 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 622f1621e8ace73608817e13feeade30bc6514e1[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:50:38 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 8acc767de9c19381c9cf878e7eb4e7c951407720[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:38:00 2017 -0400
+
+    Add the Rakefile to the gemspec
+
+[33mcommit 50503046d202626bed8c89f3531fa6ca071d7a10[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:23:13 2017 -0400
+
+    typo
+
+[33mcommit 5aa92a08d3bb64e4108e1268d73fe2a2115b7839[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:22:29 2017 -0400
+
+    add exec to gemspec
+
+[33mcommit c8c658290f939217af71a8ecd997e1cf9e8bd12f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:16:17 2017 -0400
+
+    Add bin to gemfile
+
+[33mcommit 9cefaa2eff44ff2434aba221a35053607a6a6eb2[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:15:28 2017 -0400
+
+    exclude some stuff
+
+[33mcommit 42c283fb3ba7906c2c8d214dead0f62b54d26b76[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 10:15:15 2017 -0400
+
+    Add binary
+
+[33mcommit 89fe4de7b50ed16381bfa913d67daf695c6551f7[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 09:46:09 2017 -0400
+
+    this needs quotes
+
+[33mcommit c5aa0583cb8381fdd2fbf10ce2eba978d122a401[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Jun 9 09:43:20 2017 -0400
+
+    Clean up rake file
+
+[33mcommit 3ee6887c513b5b34c0cc84a5bd2f35219710c49b[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Jun 8 14:24:29 2017 -0400
+
+    Add search namespace
+
+[33mcommit 146b9238cc77bb789a1197146721cf602560dbed[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Jun 8 14:22:12 2017 -0400
+
+    Ignore lib in jekyll build
+
+[33mcommit f4a3592fa4d000f5a9b37a613f3588217a243fc1[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Jun 8 14:19:34 2017 -0400
+
+    Fix escapes"
+
+[33mcommit 56fa70775d1ca2d61e4d0b0adae8ba319515eb30[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Jun 8 09:47:24 2017 -0400
+
+    Escape this
+
+[33mcommit 48da3b109e51753ad4b19fb13bac069800cf74ac[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Jun 8 09:43:51 2017 -0400
+
+    RIP this
+
+[33mcommit 80198acbc99e633741fdeabe05a9c748b5ce869d[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Jun 8 09:43:44 2017 -0400
+
+    Update gemspec
+
+[33mcommit f0bebce3b49b6f40db4a1c4bee2b2dcc989d8526[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Jun 8 09:43:33 2017 -0400
+
+    fix rake task
+
+[33mcommit 937c23772139b0011bba8d32290e128a8b5e2565[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jun 4 17:54:54 2017 -0400
+
+    Add rakefile
+
+[33mcommit 76d8f0c50cbff7fa5da19e98a6ab4e808c902472[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jun 4 17:50:01 2017 -0400
+
+    I forget
+
+[33mcommit b06e4198df7c888bcc6637508eff76307ad52a17[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Jun 4 17:49:20 2017 -0400
+
+    Add the rake tasks for search init
+
+[33mcommit 16ec5c0257a83f3177863b89f0e0c0bca2256474[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:22:06 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit e0660d66422ea28c1149304dfa35f2ba862e98fd[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:22:06 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit eea12a12b294f380bde093450af59e38d32e0274[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:21:35 2017 -0400
+
+    Add search data more explicitly
+
+[33mcommit 37cd54198a4d19876ea9ff55730954bdd5ba4007[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:20:29 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 9d7d9e1b2845a1a2e55e28119b3b86b0de6ba5fc[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:20:29 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit f8d7f1d69c001e4c51e7b57f7ad0286eda99a304[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:20:24 2017 -0400
+
+    add search data to the gem;
+
+[33mcommit 5febc89a32d0b3a5f6bebeb839436ffd325e3d25[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:17:30 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 0b845022e830fe105de5765242ef6f7f2c6cb145[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:17:29 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit a795fc25d9e61f34519002896b61fc6b843dfe50[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:17:24 2017 -0400
+
+    Add a tight lh
+
+[33mcommit 438a4741a61042664b6823f5dd40a8452c63ebdb[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:09:57 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 6f8e106061f0721f2b4b57acebbf2532aa91f4be[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:09:56 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 0161addc80d059fafbb32925af642a8dbf7a3dc5[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Apr 9 16:09:24 2017 -0400
+
+    fix build script
+
+[33mcommit 125f0dcd83cf66aa546132ba1d7b470ad4423f61[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Apr 8 18:54:44 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 9f13bc46254fc82fb9f373bb7a2bba4b8c793480[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Apr 8 18:54:43 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 167e7cddddee25d1cc768edef096548f5a1e152e[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Apr 8 18:54:39 2017 -0400
+
+    remove test script for now
+
+[33mcommit b3f2eca3d6217712533dffef8e763109e995984f[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Apr 8 18:54:03 2017 -0400
+
+    Just the Docs build packaging cleanup
+
+[33mcommit 56955afac86c4643e422e7d0f6dc01c1314a2042[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Apr 8 18:54:02 2017 -0400
+
+    Just the Docs build packaging
+
+[33mcommit 642f1f8e1537bf5d546a42e7b12a2fa8fd97ef72[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Apr 8 18:53:58 2017 -0400
+
+    add build script
+
+[33mcommit f7da9a9dd980c1e9cd62c85b8bf3434e6b98b249[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sat Apr 8 18:51:14 2017 -0400
+
+    final shit for release
+
+[33mcommit e5813977585e4c759173b39c5b572ed5c99c5894[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Sun Mar 26 21:09:19 2017 -0400
+
+    Initial commit
+
+[33mcommit 594385ae7bd94db98bf47d20670e4556c9a996f2[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Fri Mar 24 09:47:37 2017 -0400
+
+    initial commit
+
+[33mcommit b7b0d0d7bf09fcf0bd92e6e1098c37d5168727af[m
+Author: Patrick Marsceill <patrick.marsceill@gmail.com>
+Date:   Thu Mar 9 13:16:08 2017 -0500
+
+    Initial commit
