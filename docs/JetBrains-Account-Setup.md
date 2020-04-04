@@ -55,7 +55,7 @@ Clicking on the confirmation link will redirect you to this page.
 <br/><br/>
 Enter in your information to complete your JetBrains account setup.
 
-![CLion Account Setup](https://cdn.discordapp.com/attachments/498622698050813962/695048750149795850/unknown.png "CLion Accountpage alt text")
+![CLion Account Setup](https://cdn.discordapp.com/attachments/498622698050813962/695813579433312346/unknown.png "CLion Accountpage alt text")
 
 <br/>
 ### **6.** Complete Your Account Setup pt.1
