@@ -5,6 +5,8 @@ nav_order: 99
 ---
 # Glossary
 <hr>
+<b>Operation System:</b> In basic terms, your computer!
+<br/><br/>
 <b>Compiler:</b> A term used when a computer converts a code into a readable language that the computer can understand.
 <br/><br/>
 <b>Integrated Development Environment (IDE):</b> A software application that provides tools to run, execute, and compile a code or a program.
