@@ -49,7 +49,7 @@ If you are interested in coding, and wish to start off by downloading the right 
 <hr>
 
 ## Why Use CLion Over Other Programming IDES?
-CLion offers an abundance of helpful features and tips that will help you become a strong coding developer.
+CLion offers an abundance of useful features and tips that will help you become a strong coding developer.
 <br/><br/>
 This includes:
 - a debugger
