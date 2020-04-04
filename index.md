@@ -21,7 +21,7 @@ This manual is for any users, beginner or experienced, who wish to begin coding 
 
 ---
 
-### What is CLion?
+## What is CLion?
 
 CLion is an IDE program created by [JetBrains](https://www.jetbrains.com/). CLion allows users to code in both C and C++ computer languages, for this document we will guide you towards using this IDE to code in C. JetBrains offers the use of CLions with a 30-day free trial, and a $199.99 fee for the first year of purchase, so make use of your free trial while it lasts!
 
@@ -31,7 +31,7 @@ To use CLion, you will need to install another program called [Cygwin](https://w
 - make
 <hr>
 
-### Prerequisites
+## Prerequisites
 To start following the instructions in this document, you will need: 
 
 **Note:** This guide was not made specifically for Mac users, as both the creators of this document are Windows users.
@@ -42,13 +42,13 @@ To start following the instructions in this document, you will need:
 - that's all!
 <hr>
 
-### Is This Guide For You?
+## Is This Guide For You?
 This document was made for any user who wishes to code in C, both experienced and inexperienced.
 <br/><br/>
 If you are interested in coding, and wish to start off by downloading the right programming IDE, then this document is for you!
 <hr>
 
-### Why Use CLion Over Other Programming IDES?
+## Why Use CLion Over Other Programming IDES?
 CLion offers an abundance of helpful features and tips that will help you become a strong coding developer.
 <br/><br/>
 This includes:
