@@ -31,24 +31,20 @@ First, you will be setting up the directory and download source
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 <br/>
 
-2. Run _setup-x86.exe_<br/>
+2. Run _setup-x86.exe_<br/>  
   ![Cygwin Download Link](https://cdn.discordapp.com/attachments/498622698050813962/695036150854713416/unknown.png "Download2")
 
 ## Running the Cygwin Setup
 1. Setup Cygwin pt.1<br/>  
   If you get a security warning, it is safe to ignore it and run the program. Click on ``Next >``  
-
   ![Cygwin firstPage](https://cdn.discordapp.com/attachments/694977588405469265/694983080238252053/unknown.png "Setup 1")
   <br/>
-
 2. Setup Cygwin pt.2<br/>  
   Select the ``Install from Internet`` download source, and click on ``Next >``  
   ![Cygwin secondPage](https://cdn.discordapp.com/attachments/498622698050813962/695036893087137902/unknown.png "Setup 2")
   <br/>
-
 3. Setup Cygwin pt.3  
   Keep all selected defaults and click on ``Next >``  
-
   ![Cygwin thirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694983315295305878/unknown.png "Setup 3")
   <br/>
 
