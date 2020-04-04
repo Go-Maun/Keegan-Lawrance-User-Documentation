@@ -25,13 +25,13 @@ This section will help you download Cygwin to install three specific packages fo
 
 
 First, you will be setting up the directory and download source 
-**1.** Go to [Cygwin's Website](https://cygwin.com/install.html)<br/>  
+1. Go to [Cygwin's Website](https://cygwin.com/install.html)<br/>  
   Depending on your computer, you will want to either download the 1. - 64-bit version, or the 2. - 32-bit version.<br/>  
   **NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 <br/>
 
-**2.** Run _setup-x86.exe_<br/>  
+2. Run _setup-x86.exe_<br/>  
   ![Cygwin Download Link](https://cdn.discordapp.com/attachments/498622698050813962/695036150854713416/unknown.png "Download2")
 
 ## Running the Cygwin Setup
@@ -53,7 +53,7 @@ First, you will be setting up the directory and download source
 4. Setup Cygwin pt.4<br/>  
   Change the _Local Package Directory_ to ``C:\cygwin64\downloads`` if it is not already set to that as default and click on ``Next >``<br/>  
   ![Cygwin fourthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984033549156403/unknown.png "Setup 4") 
-  <br/>
+  <br/>  
   **NOTE:** If an error message pops up, it is safe to create the new directory by clicking ``Yes``<br/>  
   ![Cygwin fourthPageAddition](https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
   <br/>
@@ -119,38 +119,24 @@ Follow along with the same steps from [gcc-g++](https://go-maun.github.io/Keegan
 ## Downloading the Packages
 Once you have selected ``gcc-g++``, ``gdb``, and ``make`` you can continue
 
-1. Downloading Packages pt.1
-
-
-  Now that the packages have been selected, click on ``Next >``
-
+1. Downloading Packages pt.1<br/>  
+  Now that the packages have been selected, click on ``Next >``<br/>  
   ![Cygwin package download](https://cdn.discordapp.com/attachments/498622698050813962/695045219090956368/unknown.png "package download")
 <br/>
 
-
-2. Downloading Packages pt.2
-
-
-  These are the packages that will be installed along with ``gcc-g++``, ``gdb``, and ``make``. Click on ``Next >``
-
+2. Downloading Packages pt.2<br/>  
+  These are the packages that will be installed along with ``gcc-g++``, ``gdb``, and ``make``. Click on ``Next >``<br/>  
   ![Cygwin package download2](https://cdn.discordapp.com/attachments/694977588405469265/694987045621202995/unknown.png "package download 2")
 <br/>
 
-3. Downloading Packages pt.3
-
-  The packages will begin to download. 
-
-  **Note:** This process may take some time depending on how close you are to the Mirror Site you selected.
-
+3. Downloading Packages pt.3<br/>  
+  The packages will begin to download.<br/>  
+  **Note:** This process may take some time depending on how close you are to the Mirror Site you selected.<br/>  
   ![Cygwin package download3](https://cdn.discordapp.com/attachments/694977588405469265/694987084036833341/unknown.png "package download 3")
 <br/>
 
-
-4. Downloading Packages pt.4
-
-
-  Now that the packages have finished downloading, you can choose whether or not to add the Cygwin Terminal to your Desktop and/or Start Menu. Clicking on ``finish`` will complete this process
-
+4. Downloading Packages pt.4<br/>  
+  Now that the packages have finished downloading, you can choose whether or not to add the Cygwin Terminal to your Desktop and/or Start Menu. Clicking on ``finish`` will complete this process<br/>  
   ![Cygwin package download4](https://cdn.discordapp.com/attachments/694977588405469265/694987469409615952/unknown.png "package download 4")
 <br/>
 
