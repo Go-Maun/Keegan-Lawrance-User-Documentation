@@ -69,4 +69,4 @@ The problem should look something like this.
 <br/><br/>
 It is safe to allow the IDE to fix the issue. Not fixing it should not cause any major complications with the IDE, so it is also fine to leave it alone.
 <br/><br/>
-If you wish to know more about the reasoning behind this message, [read the support article about it here.](https://cdn.discordapp.com/attachments/498622698050813962/695924569088983101/unknown.png)
+If you wish to know more about the reasoning behind this message, [read the support article about it here.](https://intellij-support.jetbrains.com/hc/en-us/articles/360006298560-Antivirus-Impact-on-Build-Speed)
