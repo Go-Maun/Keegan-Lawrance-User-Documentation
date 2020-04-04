@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installing Cygwin
+title: Configuration
 nav_order: 3
 ---
 
