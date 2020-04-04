@@ -5,7 +5,7 @@ nav_order: 99
 ---
 # Glossary
 <hr>
-<b>Operating System:</b> In basic terms, your computer!
+<b>Operating System:</b> A software that supports a computer's basic functions. The two main operating systems are Windows and Mac. For this document, we will be focusing on the Windows installation. In easier terms, your computer.
 <br/><br/>
 <b>Compiler:</b> A term used when a computer converts a code into a readable language that the computer can understand.
 <br/><br/>
