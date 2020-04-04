@@ -11,6 +11,8 @@ nav_order: 99
 <br/><br/>
 <b>Integrated Development Environment (IDE):</b> A software application that provides tools to run, execute, and compile a code or a program.
 <br/><br/>
+<b>Open Source Tools:</b> A built-in tool that was made for a specific purpose and is open for the public to freely use.
+<br/><br/>
 <b>gcc-g++:</b> A compiler collection for the languages C and C++.
 <br/><br/>
 <b>gdb:</b> A debugger for the CLion IDE. This is used to help check your code for any errors.
