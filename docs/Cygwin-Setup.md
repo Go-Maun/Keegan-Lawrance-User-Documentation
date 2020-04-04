@@ -4,6 +4,13 @@ title: Installing Cygwin
 nav_order: 10
 ---
 
+# Installing Cygwin
+{: .no_toc}
+
+To effectively use CLion, you will need to download some components supplied by [Cygwin.](https://www.cygwin.com/)
+<br/><br/>
+This section will help you download Cygwin to install three specific packages for CLion.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
