@@ -5,14 +5,13 @@ nav_order: 11
 ---
 
 # Creating a Clion Account
-{: .no_toc }
 
-
-This section of the document will guide you on how to create a JetBrains account to use the CLion IDE.
-{: .fs-6 .fw-300 }
+To use the CLion IDE, you must first create an account on the JetBrains website. 
 
 ---
 ## Creating Your JetBrains Account
+This section will help you create your account so that you can use CLion.
+
 ### **1.** Go to the JetBrains Site
 {: .no_toc }
 Visit the JetBrains [CLion homepage here](https://www.jetbrains.com/clion/). You should be greeted with a page displayed below.
@@ -71,6 +70,9 @@ Make sure to double check these two boxes at the bottom before signing up.
 {: .no_toc }
 After filling in your information, click the Submit button at the bottom of the screen. 
 <br/><br/>
-You will be redirected to another page and display this window for you. This means that you have successfully set-up your JetBrains account!
+You will be redirected to another page. This means that you have successfully set-up your JetBrains account!
 
 ![CLion Successful Account](https://cdn.discordapp.com/attachments/498622698050813962/695025702109446246/unknown.png "CLion account")
+
+<br/><br/>
+Your next steps is to [Set up your CLion IDE.](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Installing-CLion/)
