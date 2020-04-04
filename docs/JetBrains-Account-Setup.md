@@ -75,4 +75,4 @@ You will be redirected to another page. This means that you have successfully se
 ![CLion Successful Account](https://cdn.discordapp.com/attachments/498622698050813962/695025702109446246/unknown.png "CLion account")
 
 <br/><br/>
-Your next steps is to [Set up your CLion IDE.](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Installing-CLion/)
+Your next steps is to [set up your CLion IDE.](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Installing-CLion/)
