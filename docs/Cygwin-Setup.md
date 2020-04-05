@@ -69,7 +69,7 @@ First, you will be setting up the directory and download source
 6. Search for the closest [Mirror Site](https://cygwin.com/mirrors.html)<br/> 
   <br/> <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** A Mirror Site is a website that contains the files that you will need to set up Cygwin. You will be using one of these sites as your download source, so choosing a website that is close to your area will help speed up the process. However, it doesn't necessarily matter which Mirror Site you choose.
   <br/><br/>
-  When your preferred download source is found , select it in the scroll window. click on ``Next >``<br/>  
+  When your preferred download source is found, select it in the scroll window and proceed to click on ``Next >``<br/>  
 ![Cygwin SixthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984840172404806/unknown.png "Setup 6")
 <br/><br/>  
 
