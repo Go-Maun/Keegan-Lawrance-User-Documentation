@@ -23,15 +23,14 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 
 1. Go to the CLion website<br/>  
-  Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/).<br/>  
-  Click on the ``Download`` button displayed on the top right to go to the download page.  
+  Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/). Click on the ``Download`` button displayed on the top right to go to the download page.  
   ![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
 <br/>
 
 
 2. Download the Setup<br.>  
   Click on the ``Download`` button on the middle of the screen.<br/>  
-  On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.<br/>
+  On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.  
   ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
 <br/>
 
@@ -44,25 +43,18 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 
 ## Running the Setup file
-### **1.** Run the Setup pt.1
-{: .no_toc }
-When you open the setup file, this window below will show up. Click ``Next >``
-
-![CLion FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694991483794751650/unknown.png "First Page")
-
+1. The window below will show up when you open the setup file<br/>  
+  Click ``Next >``<br/>  
+  ![CLion FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694991483794751650/unknown.png "First Page")
 <br/>
 
-### **2.** Run the Setup pt.2
-{: .no_toc }
-The next page displays the location of where CLion will be downloaded on your computer. 
-<br/><br/>
-If you wish to change the destination of where you wish to download the files, click on the ``Browse`` button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.
-<br/><br/>
-Click ``Next >``
 
-![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
-
+2. The next page displays the location of where CLion will be downloaded on your computer<br/>   
+  If you wish to change the destination of where it will download the files, click on the ``Browse`` button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.<br/>  
+  Click ``Next >``<br/>
+  ![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
 <br/>
+
 
 ### **3.** Run the Setup pt.3
 {: .no_toc }
