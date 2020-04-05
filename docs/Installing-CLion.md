@@ -77,7 +77,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 5. Finish the Installation<br/>  
   You will need to restart your computer to finish the installation of CLion.<br/>  
-  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/>**WARNING:** Clicking finish will forcibly restart your computer.<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/>**WARNING:** Clicking finish while having ``Reboot now`` checked will forcibly restart your computer.<br/>  
   If you do not wish to restart your computer yet, click the ``I want to manually reboot later`` option before clicking finish.<br/>  
   ![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 <br/>
