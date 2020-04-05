@@ -21,122 +21,96 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 ## Downloading the Setup .exe file
 
-
 1. Go to the CLion website<br/>  
-  Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/). Click on the ``Download`` button displayed on the top right to go to the download page.  
+  Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/). Click on the ``Download`` button displayed on the top right to go to the download page.<br/>  
   ![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
 <br/>
 
 
 2. Download the Setup<br/>  
   Click on the ``Download`` button on the middle of the screen.<br/>  
-  On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.  
+  On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.<br/>  
   ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
 <br/>
 
 
 3. Open the Setup<br/>  
   After clicking on the download button, you will be redirected to the page displayed below, and you will start downloading the CLion setup.<br/>  
-  When the setup is done, run the program by clicking on the downloaded file.  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** This was downloaded in a Google Chrome browser. If your browser is different, the file may appear in a different location.<br/>  
+  When the setup is done, run the program by clicking on the downloaded file.<br/>  
   ![CLion RunningDotExe](https://cdn.discordapp.com/attachments/498622698050813962/695028299470209064/unknown.png ".exe")
 <br/>
 
 
 ## Running the Setup file
-1. The window below will show up when you open the setup file<br/>  
-  Click ``Next >``<br/>  
+
+1. Starting the Setup<br/>  
+  The window below will show up when you open the setup file. Click ``Next >``<br/>  
   ![CLion FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694991483794751650/unknown.png "First Page")
 <br/>
 
 
-2. The next page displays the location of where CLion will be downloaded on your computer<br/>   
-  If you wish to change the destination of where it will download the files, click on the ``Browse`` button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.<br/>  
+2. Choosing Install Location<br/>   
+  The next window displays the location of where CLion will be downloaded on your computer. If you would like to change the destination of where it will download the files, click on the ``Browse`` button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.<br/>  
   Click ``Next >``<br/>
   ![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
 <br/>
 
 
-### **3.** Run the Setup pt.3
-{: .no_toc }
-The next window will display a number of boxes to be checked.
-<br/><br/>
-The boxes to be checked are:
-  - [x] 64-bit launcher _(32-bit, depending on downloaded version)_
-- [x] Add launchers dir to the PATH
-- [x] Add "Open Folder as Project"
-- [x] .c
-- [x] .h
-
-After you have checked these boxes, click ``Next >``
- 
-![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
-
+3. Choosing Installation Options<br/>  
+  The next window will display a number of boxes to be checked. The boxes to be checked are:  
+  - [x] 64-bit launcher _(32-bit, depending on downloaded version)_  
+  - [x] Add launchers dir to the PATH  
+  - [x] Add "Open Folder as Project"  
+  - [x] .c  
+  - [x] .h<br/>  
+  After you have checked these boxes, click ``Next >``<br/>  
+   ![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
 <br/>
 
-### **4.** Run the Setup pt.4
-{: .no_toc }
-This next window allows you to choose a start menu folder for the program's shortcuts.
-<br/><br/>
-You can leave this as default and click ``Next >``
 
-![CLion ForthPage](https://cdn.discordapp.com/attachments/498622698050813962/695551842888712201/unknown.png "Forth Page")
-
+4. Choosing Start Menu Location<br/>  
+  This next window allows you to choose a start menu folder for the program's shortcuts. If you would like, you can change the folder location. Click ``Next >``<br/>  
+  ![CLion ForthPage](https://cdn.discordapp.com/attachments/498622698050813962/695551842888712201/unknown.png "Forth Page")
 <br/>
 
-### **5.** Run the Setup pt.4
-{: .no_toc }
-You will need to restart your computer to finish the installation of CLion.
-<br/>
-<p style='color:red'><b>WARNING</b> </p>Clicking finish will forcibly restart your computer.
-<br/><br/>
-If you do not wish to restart yet, click the ``I want to manually reboot later`` option before clicking finish. 
 
-![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
-
+5. Finishing the Installation<br/>  
+  You will need to restart your computer to finish the installation of CLion.<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/>**WARNING:** Clicking finish will forcibly restart your computer.<br/>  
+  If you do not wish to restart your computer yet, click the ``I want to manually reboot later`` option before clicking finish.<br/>  
+  ![CLion FifthPage](https://cdn.discordapp.com/attachments/694977588405469265/694992190035722300/unknown.png "Fifth Page")
 <br/>
+
 
 ## Run CLion For The First Time
-This section of the page will help you set up your CLion IDE.
 
-### **1.** Open the CLion program
-{: .no_toc }
-You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.
-<br/><br/>
-As a new user, you will not have any settings to import, so click the ``Do not import settings`` option and click ``OK``
-
-![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
-
+1. Open the CLion program<br/>  
+  You should have the CLion shortcut on your desktop after restarting your computer. Open it and you will see this initial page.<br/>  
+  As a new user, you will not have any settings to import, so click the ``Do not import settings`` option and click ``OK``<br/>  
+  ![IDE FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694992613002051614/unknown.png "IDE First Page")
 <br/>
 
-### **2.** Set up your customization
-{: .no_toc }
-This window will pop-up afterwards. This is for your personal customization. 
-<br/><br/>
-If you want a dark-themed IDE, choose ``Darkula``. If you want a light-themed IDE, choose ``Light``. 
-<br/><br/>
-Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window. 
 
-![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
-
+2. Set up your customization<br/>  
+  This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose ``Darkula``. If you want a light-themed IDE, choose ``Light``.<br/>  
+  Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.  
+  ![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
 <br/>
 
-### **3.** Activate Your Free Trial Account pt.1
-{: .no_toc }
-To activate your free trial account, click on the ``Evaluate for free`` button on the top of the window.
 
-![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
-
+3. Activate Your Free Trial Account pt.1<br/>  
+  To activate your free trial account, click on the ``Evaluate for free`` button on the top of the window.  
+  ![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
 <br/>
 
-### **4.** Activate Your Free Trial Account pt.2
-{: .no_toc }
-Check mark the two boxes displayed on the window and enter your email address.
-<br/><br/>
-The ``Evaluate`` button should then highlight and indicate you to click it. After clicking the button, click ``Continue`` 
 
-![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
-
+4. Activate Your Free Trial Account pt.2<br/>  
+  Check mark the two boxes displayed on the window and enter your email address.<br/>  
+  The ``Evaluate`` button should then highlight and indicate you to click it. After clicking the button, click ``Continue``  
+  ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
 <br/>
+
 
 ### **5.** Sign Into Your JetBrains Account
 {: .no_toc }
