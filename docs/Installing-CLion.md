@@ -164,3 +164,7 @@ This part of the section will show you how to compile and run the default "Hello
 4. Execute and Run the Code <br/>  
   A box should show up on the bottom of the IDE. If it shows: "Hello, World!", then your program works!<br/>  
   ![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
+  
+<hr>
+## Conclusion
+You have now completed all of the steps required to utilise CLion! For any questions, please refer to the [troubleshooting section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/search/) of this document. Otherwise, 
