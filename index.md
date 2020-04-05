@@ -70,6 +70,6 @@ This document will use the following typographic conventions.
 | Intractable Field | ``Message Blocks`` | ``Submit``, ``Next >`` |
 | Executable File | _Italics_ | _gcc-g++_, _gdb_, _make_ |
 
-<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/> <p style="color:red"><b>Note:</b></p> This is the note icon to indicate to be aware of the following instruction.
+<p style="color:red"><img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/><b>Note:</b></p> This is the note icon to indicate to be aware of the following instruction.
 <br/><br/>
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/> **Warning:** This is the warning icon to indicate to be cautious of the following instruction.
