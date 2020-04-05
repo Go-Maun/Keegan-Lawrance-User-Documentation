@@ -19,7 +19,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 ---
 
-## Downloading the Setup .exe file
+## Download the Setup .exe file
 
 1. Go to the CLion website<br/>  
   Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/). Click on the ``Download`` button displayed on the top right to go to the download page.<br/>  
@@ -42,22 +42,22 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 <br/>
 
 
-## Running the Setup file
+## Run the Setup file
 
-1. Starting the Setup<br/>  
+1. Start the Setup<br/>  
   The window below will show up when you open the setup file. Click ``Next >``<br/>  
   ![CLion FirstPage](https://cdn.discordapp.com/attachments/694977588405469265/694991483794751650/unknown.png "First Page")
 <br/>
 
 
-2. Choosing Install Location<br/>   
+2. Choose Install Location<br/>   
   The next window displays the location of where CLion will be downloaded on your computer. If you would like to change the destination of where it will download the files, click on the ``Browse`` button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.<br/>  
   Click ``Next >``<br/>  
   ![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
 <br/>
 
 
-3. Choosing Installation Options<br/>  
+3. Choose Installation Options<br/>  
   The next window will display a number of boxes to be checked. The boxes to be checked are:  
   ✅ 64-bit launcher  _(32-bit, depending on downloaded version)_  
   ✅ Add launchers dir to the PATH  
@@ -69,13 +69,13 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 <br/>
 
 
-4. Choosing Start Menu Location<br/>  
+4. Choose Start Menu Location<br/>  
   This next window allows you to choose a start menu folder for the program's shortcuts. If you would like, you can change the folder location. Click ``Next >``<br/>  
   ![CLion ForthPage](https://cdn.discordapp.com/attachments/498622698050813962/695551842888712201/unknown.png "Forth Page")
 <br/>
 
 
-5. Finishing the Installation<br/>  
+5. Finish the Installation<br/>  
   You will need to restart your computer to finish the installation of CLion.<br/>  
   <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/>**WARNING:** Clicking finish will forcibly restart your computer.<br/>  
   If you do not wish to restart your computer yet, click the ``I want to manually reboot later`` option before clicking finish.<br/>  
@@ -155,7 +155,7 @@ This part of the section will show you how to compile and run the default "Hello
 <br/>
 
 
-3. Compiling Code<br/>  
+3. Compile Your Code<br/>  
   Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE.<br/>  
   ![HelloWorld3](https://cdn.discordapp.com/attachments/498622698050813962/695052272958439435/unknown.png "helloworld 3")
 <br/>
