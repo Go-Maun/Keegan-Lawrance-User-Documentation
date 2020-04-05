@@ -52,5 +52,6 @@ This section will help you create your account so that you can use CLion.
   You will be redirected to another page. This means that you have successfully set-up your JetBrains account!<br/>  
   ![CLion Successful Account](https://cdn.discordapp.com/attachments/498622698050813962/695025702109446246/unknown.png "CLion account")
 
+<hr>
 ## Conclusion
 Your final steps are to [set up your CLion IDE.](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Installing-CLion/)
