@@ -63,8 +63,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
   - [x] Add launchers dir to the PATH  
   - [x] Add "Open Folder as Project"  
   - [x] .c  
-  - [x] .h   
-  
+  - [x] .h  
   After you have checked these boxes, click ``Next >``<br/>  
   
    ![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
@@ -96,30 +95,28 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 2. Set up your customization<br/>  
   This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose ``Darkula``. If you want a light-themed IDE, choose ``Light``.<br/>  
-  Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.  
+  Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.<br/>  
   ![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
 <br/>
 
 
 3. Activate Your Free Trial Account pt.1<br/>  
-  To activate your free trial account, click on the ``Evaluate for free`` button on the top of the window.  
+  To activate your free trial account, click on the ``Evaluate for free`` button on the top of the window.<br/>  
   ![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
 <br/>
 
 
 4. Activate Your Free Trial Account pt.2<br/>  
   Check mark the two boxes displayed on the window and enter your email address.<br/>  
-  The ``Evaluate`` button should then highlight and indicate you to click it. After clicking the button, click ``Continue``  
+  The ``Evaluate`` button should then highlight and indicate you to click it. After clicking the button, click ``Continue``<br/>  
   ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
 <br/>
 
 
 5. Sign Into Your JetBrains Account<br/>  
-You should be redirected to this window. Enter in your email and password to sign in. 
-<br/><br/>
-Once you have entered in your information, click ``Continue`` on the bottom right of the window.
-
-![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
+  You should be redirected to this window. Enter in your email and password to sign in.<br/>  
+  Once you have entered in your information, click ``Continue`` on the bottom right of the window.<br/>  
+  ![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
 <br/>
 
 
@@ -134,7 +131,7 @@ Once you have entered in your information, click ``Continue`` on the bottom righ
 
 7. Welcome to CLion!<br/>  
   After you finish setting up your CLion, you should see this window.<br/>  
-  You now have access to CLion and it's features!  
+  You now have access to CLion and it's features!<br/>  
   ![IDE 6thPage](https://cdn.discordapp.com/attachments/694977588405469265/694995496720269363/unknown.png "IDE 6th page")
 <br/>
 
@@ -147,7 +144,7 @@ This part of the section will show you how to compile and run the default "Hello
 1. Create Your First Program<br/>  
   Click on the ``New Project`` button on the front page, and this window will pop up.<br/>  
   Navigate to the ``C Executable`` section on the left side of the window and change language standard to ``C99``.<br/>  
-  Click on the ``Create`` button on the bottom right.  
+  Click on the ``Create`` button on the bottom right.<br/>  
   ![HelloWorld](https://cdn.discordapp.com/attachments/498622698050813962/695050703609135114/unknown.png "helloworld 1")
 <br/>
 
@@ -160,11 +157,11 @@ This part of the section will show you how to compile and run the default "Hello
 
 
 3. Compiling Code<br/>  
-  Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE.  
+  Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE.<br/>  
   ![HelloWorld3](https://cdn.discordapp.com/attachments/498622698050813962/695052272958439435/unknown.png "helloworld 3")
 <br/>
 
 
 4. Execute and Run the Code <br/>  
-  A box should show up on the bottom of the IDE. If it shows: "Hello, World!", then your program works!  
+  A box should show up on the bottom of the IDE. If it shows: "Hello, World!", then your program works!<br/>  
   ![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
