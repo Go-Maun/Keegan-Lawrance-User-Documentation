@@ -39,7 +39,7 @@ To start following the instructions in this document, you will need:
 - an internet connection to download the setups, and
 - that's all!
 <br/><br/>
-**Note:** This guide was not made specifically for Mac users, as both the creators of this document are Windows users.
+<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/> **Note:** This guide was not made specifically for Mac users, as both the creators of this document are Windows users.
 <hr>
 
 ## Is This Guide For You?
