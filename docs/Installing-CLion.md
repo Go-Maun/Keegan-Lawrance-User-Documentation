@@ -70,7 +70,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 
 4. Choose Start Menu Location<br/>  
-  This next window allows you to choose a start menu folder for the program's shortcuts. If you would like, you can change the folder location. Click ``Next >``<br/>  
+  This next window allows you to choose a start menu folder for the program's shortcuts. If you would like, you can change the folder location. Click ``Install``<br/>  
   ![CLion ForthPage](https://cdn.discordapp.com/attachments/498622698050813962/695551842888712201/unknown.png "Forth Page")
 <br/>
 
@@ -92,34 +92,47 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 <br/>
 
 
-2. Set up your customization<br/>  
+2. Accept the JetBrains User Agreement<br/>
+  If this is your first time using JetBrains, this window will pop up. It is simply the terms of service for using the JetBrains CLion IDE. Check the box at the bottom of the screen and click ``Continue``<br/>
+  ![ToS](https://cdn.discordapp.com/attachments/619382734984577042/696457460575371334/image.png "ToS")
+ 
+ 
+3. Send or Don't Send Usage Statistics
+  This window discusses about sending your usage data to JetBrains. We recommend clicking ``Send Usage Statistics`` as it helps the company improve their products. However, it is safe to click ``Don't send`` as well.<br/>
+  ![DataSharing](https://cdn.discordapp.com/attachments/619382734984577042/696458023974993930/image_1.png "DataSharing")
+ 
+ 
+4. Set up your customization<br/>  
   This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose ``Darcula``. If you want a light-themed IDE, choose ``Light``.<br/>  
   Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.<br/>
   ![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
 <br/>
 
 
-3. Activate Your Free Trial Account pt.1<br/>  
+5. Activate Your Free Trial Account<br/>  
   To activate your free trial account, click on the ``Evaluate for free`` button on the top of the window.<br/>  
   ![IDE 22Page](https://cdn.discordapp.com/attachments/498622698050813962/695056162843918336/unknown.png "IDE 22")
 <br/>
 
 
-4. Activate Your Free Trial Account pt.2<br/>  
-  Check mark the two boxes displayed on the window and enter your email address.<br/>  
-  The ``Evaluate`` button should then highlight and indicate you to click it. After clicking the button, click ``Continue``<br/>  
+6. Validate Your Free Trial Account<br/>  
+  Click the Evaluate button to verify your account. If the evaluation was successful, you will be able to click ``Continue``
+  <br/><br/>
+  If you wish to receive email about JetBrains products, then check the two boxes on the window, and put in your email. <br/>
+    <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you do wish to receive emails from JetBrains, then you must check mark both boxes in order to click ``Evaluate`` to continue.<br/>  
+
   ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
 <br/>
 
 
-5. Sign Into Your JetBrains Account<br/>  
+7. Sign Into Your JetBrains Account<br/>  
   You should be redirected to this window. Enter in your email and password to sign in.<br/>  
   Once you have entered in your information, click ``Continue`` on the bottom right of the window.<br/>  
   ![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
 <br/>
 
 
-6. Import Cygwin Into The IDE<br/>  
+8. Import Cygwin Into The IDE<br/>  
   CLion should automatically detect your Cygwin and connect to it.<br/>  
   You can tell that you have Cygwin connected if the Debugger section shows _Cygwin GDB_.<br/>  
   If it does not, click the triple dot ``...`` button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.<br/>  
@@ -128,43 +141,13 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 <br/>
 
 
-7. Welcome to CLion!<br/>  
+9. Welcome to CLion!<br/>  
   After you finish setting up your CLion, you should see this window.<br/>  
   You now have access to CLion and it's features!<br/>  
   ![IDE 6thPage](https://cdn.discordapp.com/attachments/694977588405469265/694995496720269363/unknown.png "IDE 6th page")
 <br/>
 
-
-## Creating Your First C Program!
-You have succesfully set up your CLion IDE!
-
-This part of the section will show you how to compile and run the default "Hello, World!" file.
-
-1. Create Your First Program<br/>  
-  Click on the ``New Project`` button on the front page, and this window will pop up.<br/>  
-  Navigate to the ``C Executable`` section on the left side of the window and change language standard to ``C99``.<br/>  
-  Click on the ``Create`` button on the bottom right.<br/>  
-  ![HelloWorld](https://cdn.discordapp.com/attachments/498622698050813962/695050703609135114/unknown.png "helloworld 1")
-<br/>
-
-
-2. Tip of the Day<br/>  
-  This is what you will see after creating your file C file. <br/>  
-  A "Tip of the Day" will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.<br/>  
-  ![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
-<br/>
-
-
-3. Compile Your Code<br/>  
-  Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE.<br/>  
-  ![HelloWorld3](https://cdn.discordapp.com/attachments/498622698050813962/695052272958439435/unknown.png "helloworld 3")
-<br/>
-
-
-4. Execute and Run the Code <br/>  
-  A box should show up on the bottom of the IDE. If it shows: "Hello, World!", then your program works!<br/>  
-  ![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
-  
 <hr>
 ## Conclusion
-You have now completed all of the steps required to utilise CLion! For any questions, please refer to the [troubleshooting section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/search/) of this document. Otherwise, we recommend referring to [this document on how to use the CLion IDE.](https://amirashvins.github.io/how-to-use-CLion/)
+You have now completed all of the steps required to utilise CLion! For any questions, please refer to the [troubleshooting section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/search/) of this document. <br/><br/>
+To learn how to use CLion, refer to [this document.](https://amirashvins.github.io/how-to-use-CLion/)
