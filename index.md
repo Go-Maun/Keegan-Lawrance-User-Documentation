@@ -26,20 +26,20 @@ This manual is for any users, beginner or experienced, who wish to begin coding 
 CLion is an IDE program created by [JetBrains](https://www.jetbrains.com/). CLion allows users to code in both C and C++ computer languages, for this document we will guide you towards using this IDE to code in C. JetBrains offers the use of CLions with a 30-day free trial.
 
 To use CLion, you will need to install another program called [Cygwin](https://www.cygwin.com/). Cygwin contains large collections of open source tools that will allow you to effectively code in the CLion IDE. For the use of CLion, we will be using Cygwin to download and use:
-- _gcc-g++_
-- _gdb_
-- _make_
+- [_gcc-g++_](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/index-test/)
+- [_gdb_](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/index-test/)
+- [_make_](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/index-test/)
 <hr>
 
 ## Prerequisites
 To start following the instructions in this document, you will need: 
 
-**Note:** This guide was not made specifically for Mac users, as both the creators of this document are Windows users.
-
 - access to a computer
 - any version of Windows (preferrably version 10)
 - an internet connection to download the setups, and
 - that's all!
+<br/><br/>
+**Note:** This guide was not made specifically for Mac users, as both the creators of this document are Windows users.
 <hr>
 
 ## Is This Guide For You?
@@ -74,3 +74,9 @@ This document will use the following typographic conventions.
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**Note:** This is the note icon to indicate to be aware of the following instruction.
 <br/><br/>
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/> **Warning:** This is the warning icon to indicate to be cautious of the following instruction.
+
+<hr>
+
+## Conclusion
+If you are wanting to learn how to code in C, the first step is to find a good IDE.
+<br/><br/>To get started, [click here to begin your first step!](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/)
