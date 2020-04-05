@@ -27,8 +27,8 @@ This section will help you download Cygwin to install three specific packages fo
 First, you will be setting up the directory and download source 
 1. Go to [Cygwin's Website](https://cygwin.com/install.html)<br/>  
   Depending on your computer, you will want to either download  
-  1. 64-bit version
-  2. 32-bit version<br/>  
+    1. 64-bit version
+    2. 32-bit version<br/>  
   **NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 <br/><br/>
@@ -52,11 +52,11 @@ First, you will be setting up the directory and download source
   ![Cygwin thirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694983315295305878/unknown.png "Setup 3")
   <br/><br/>  
   
-4. Change the _Local Package Directory_ to ``C:\cygwin64\downloads``<br/>  
+4. Change the ``Local Package Directory`` to _``C:\cygwin64\downloads``_<br/>  
    Click on ``Next >``<br/>  
   ![Cygwin fourthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984033549156403/unknown.png "Setup 4") 
   <br/>  
-  **NOTE:** If an error message pops up, it is safe to create the new directory by clicking ``Yes``<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If an error message pops up, it is safe to create the new directory by clicking ``Yes``<br/>  
   ![Cygwin fourthPageAddition](https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
   <br/><br/>  
   
@@ -98,14 +98,14 @@ These proceeding steps will cover what packages to choose, and how to choose the
   ![Cygwin Package5](https://cdn.discordapp.com/attachments/498622698050813962/695041637331501126/unknown.png "Package 5")
   <br/><br/>  
 
-### Selecting ``gdb``
+### Selecting _gdb_
 Follow along with the same steps from [gcc-g++](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/#selecting-gcc-g), searching instead for _gdb_
 
 ![Cygwin gdb](https://cdn.discordapp.com/attachments/498622698050813962/695043794910838894/unknown.png "gdb 1")
 <br/><br/>
 
 
-### Selecting ``make``
+### Selecting _make_
 Follow along with the same steps from [gcc-g++](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/#selecting-gcc-g), searching instead for _make_
 
 ![Cygwin make](https://cdn.discordapp.com/attachments/498622698050813962/695044666927743026/unknown.png "make")
@@ -114,7 +114,7 @@ Follow along with the same steps from [gcc-g++](https://go-maun.github.io/Keegan
 
 
 ## Downloading the Packages
-Once you have selected ``gcc-g++``, ``gdb``, and ``make`` you can continue
+Once you have selected _gcc-g++_, _gdb_, and _make_ you can continue
 
 1. Click on ``Next >``<br/>  
   ![Cygwin package download](https://cdn.discordapp.com/attachments/498622698050813962/695045219090956368/unknown.png "package download")
