@@ -16,14 +16,14 @@ This section will help you create your account so that you can use CLion.
   Visit the JetBrains [CLion homepage here](https://www.jetbrains.com/clion/). You should be greeted with a page displayed below.  
   Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695542876016476160/unknown.png" alt="drawing" width="25"/> icon at the top right of the website to redirect to the sign-up page.<br/>  
   ![CLion Home Page](https://cdn.discordapp.com/attachments/498622698050813962/695022168819499038/unknown.png "CLion HomePage alt text")
-
 <br/>
+
 2. Enter Your Email<br/>  
   On the bottom-right of the page, you will see a section to create your JetBrains account.<br/>  
   Put in your email and click the ``Sign Up`` button.<br/>
   ![CLion SignUp Page](https://cdn.discordapp.com/attachments/498622698050813962/695022993683775498/unknown.png "CLion SignUp alt text")
-
 <br/>
+
 3. Sign Up Successful<br/>  
   After clicking the Sign-Up button, you should be redirected to another page with this message displayed.<br/>  
   This means that you have successfully created your account.  
