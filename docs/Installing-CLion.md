@@ -22,35 +22,26 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 ## Downloading the Setup .exe file
 
 
-### **1.** Go to the CLion website
-{: .no_toc }
-Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/).
-<br/><br/>
-Click on the ``Download`` button displayed on the top right to go to the download page.
-
-![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
-
+1. Go to the CLion website<br/>  
+  Redirect to the [JetBrains CLion homepage by clicking here](https://www.jetbrains.com/clion/).<br/>  
+  Click on the ``Download`` button displayed on the top right to go to the download page.  
+  ![CLion HomePage](https://cdn.discordapp.com/attachments/498622698050813962/695025139766525952/unknown.png "HomePage")
 <br/>
 
-### **2.** Download the Setup
-{: .no_toc }
-Click on the ``Download`` button on the middle of the screen. 
-<br/><br/>
-On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.
 
-![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
-
+2. Download the Setup<br.>  
+  Click on the ``Download`` button on the middle of the screen.<br/>  
+  On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.<br/>
+  ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
 <br/>
 
-### **3.** Open the Setup
-{: .no_toc }
-After clicking on the download button, you will be redirected to the page displayed below, and you will start downloading the CLion setup.
-<br/><br/>
-When the setup is done, run the program by clicking on the downloaded file.
 
-![CLion RunningDotExe](https://cdn.discordapp.com/attachments/498622698050813962/695028299470209064/unknown.png ".exe")
-
+3. Open the Setup<br/>  
+  After clicking on the download button, you will be redirected to the page displayed below, and you will start downloading the CLion setup.<br/>  
+  When the setup is done, run the program by clicking on the downloaded file.  
+  ![CLion RunningDotExe](https://cdn.discordapp.com/attachments/498622698050813962/695028299470209064/unknown.png ".exe")
 <br/>
+
 
 ## Running the Setup file
 ### **1.** Run the Setup pt.1
@@ -78,7 +69,7 @@ Click ``Next >``
 The next window will display a number of boxes to be checked.
 <br/><br/>
 The boxes to be checked are:
-- [x] 64-bit launcher _(32-bit, depending on downloaded version)_
+  - [x] 64-bit launcher _(32-bit, depending on downloaded version)_
 - [x] Add launchers dir to the PATH
 - [x] Add "Open Folder as Project"
 - [x] .c
