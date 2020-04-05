@@ -31,7 +31,7 @@ First, you will be setting up the directory and download source
     2. 32-bit version<br/>
     
 <br/>
-  >> <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
+  > <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
   
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/619382734984577042/696151746770239518/unknown.png "Download")
 <br/><br/>
