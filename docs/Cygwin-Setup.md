@@ -35,7 +35,6 @@ First, you will be setting up the directory and download source
 
 2. Run the file you downloaded<br/>  
   If you get a security warning, it is safe to ignore it and run the program.<br/>  
-  
   <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** This was downloaded in a Google Chrome browser. If your browser is different, the file may appear in a different location.<br/>  
   ![Cygwin Download Link](https://cdn.discordapp.com/attachments/498622698050813962/695036150854713416/unknown.png "Download2")
 
@@ -58,15 +57,9 @@ First, you will be setting up the directory and download source
    Click on ``Next >``<br/>  
   ![Cygwin fourthPage](https://cdn.discordapp.com/attachments/694977588405469265/694984033549156403/unknown.png "Setup 4") 
   <br/>  
-  
-  
-<div style="background-color:rgba(0,255,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
-<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>
-<b>NOTE:</b> If an error message pops up, it is safe to create the new directory by clicking Yes<br/>  
-</div>
-<br/>
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If an error message pops up, it is safe to create the new directory by clicking ``Yes``<br/>  
   ![Cygwin fourthPageAddition](https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
-  <br/><br/>  
+  <br/>
   
 5. Select ``Direct Connection``<br/>  
   Click on ``Next >``<br/>  
