@@ -58,7 +58,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 
 3. Choosing Installation Options<br/>  
-  The next window will display a number of boxes to be checked. The boxes to be checked are:<br/>
+  The next window will display a number of boxes to be checked. The boxes to be checked are:  
   - [x] 64-bit launcher _(32-bit, depending on downloaded version)_  
   - [x] Add launchers dir to the PATH  
   - [x] Add "Open Folder as Project"  
