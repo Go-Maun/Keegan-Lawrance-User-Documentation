@@ -20,7 +20,7 @@ This section will help you download Cygwin to install three specific packages fo
 {:toc}
 
 <div style="background-color:rgba(0,255,0,0.3); text-align:center; vertical-align: middle; padding:40px 0;">
-<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
+<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/><b>NOTE:</b> If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
 </div>
 
 ---
