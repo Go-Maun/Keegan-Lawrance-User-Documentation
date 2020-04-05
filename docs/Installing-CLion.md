@@ -94,8 +94,8 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 
 2. Set up your customization<br/>  
-  This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose ``Darkula``. If you want a light-themed IDE, choose ``Light``.<br/>  
-  Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.<br/>  
+  This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose ``Darcula``. If you want a light-themed IDE, choose ``Light``.<br/>  
+  Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.<br/>
   ![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
 <br/>
 
