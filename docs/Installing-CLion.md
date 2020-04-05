@@ -93,19 +93,19 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 
 2. Accept the JetBrains User Agreement<br/><br/>
-  If this is your first time using JetBrains, this window will pop up. It is simply the terms of service for using the JetBrains CLion IDE. Check the box at the bottom of the screen and click ``Continue``<br/>
+  If this is your first time using JetBrains, this window will pop up. It is simply the terms of service for using the JetBrains CLion IDE. Check the box at the bottom of the screen and click ``Continue``<br/>  
   ![ToS](https://cdn.discordapp.com/attachments/619382734984577042/696457460575371334/image.png "ToS")
  
  
 3. Send or Don't Send Usage Statistics<br/><br/>
   This window discusses about sending your usage data to JetBrains. <br/><br/>
-  We recommend clicking ``Send Usage Statistics`` as it helps the company improve their products. However, it is safe to click ``Don't send`` as well.<br/>
+  We recommend clicking ``Send Usage Statistics`` as it helps the company improve their products. However, it is safe to click ``Don't send`` as well.<br/>  
   ![DataSharing](https://cdn.discordapp.com/attachments/619382734984577042/696458023974993930/image_1.png "DataSharing")
  
  
 4. Set up your customization<br/>  
   This window will pop-up afterwards. This is for your personal customization. If you want a dark-themed IDE, choose ``Darcula``. If you want a light-themed IDE, choose ``Light``.<br/>  
-  Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.<br/>
+  Afterwards, click on the ``Skip Remaining and Set Defaults`` button on the bottom left side of the window.<br/>  
   ![IDE SecondPage](https://camo.githubusercontent.com/a78232fd2a715e4a36374aeba9d51b1b291b7137/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3439383632323639383035303831333936322f3639353035343736303839333631323038332f756e6b6e6f776e2e706e67 "IDE Second Page")
 <br/>
 
@@ -120,7 +120,6 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
   Click the Evaluate button to verify your account. If the evaluation was successful, you will be able to click ``Continue``
   <br/><br/>
     <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you do wish to receive emails from JetBrains, then you must check mark both boxes and enter your email in order to click ``Evaluate`` to continue.<br/>  
-
   ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
 <br/>
 
