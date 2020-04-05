@@ -92,13 +92,14 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 <br/>
 
 
-2. Accept the JetBrains User Agreement<br/>
+2. Accept the JetBrains User Agreement<br/><br/>
   If this is your first time using JetBrains, this window will pop up. It is simply the terms of service for using the JetBrains CLion IDE. Check the box at the bottom of the screen and click ``Continue``<br/>
   ![ToS](https://cdn.discordapp.com/attachments/619382734984577042/696457460575371334/image.png "ToS")
  
  
-3. Send or Don't Send Usage Statistics
-  This window discusses about sending your usage data to JetBrains. We recommend clicking ``Send Usage Statistics`` as it helps the company improve their products. However, it is safe to click ``Don't send`` as well.<br/>
+3. Send or Don't Send Usage Statistics<br/><br/>
+  This window discusses about sending your usage data to JetBrains. <br/><br/>
+  We recommend clicking ``Send Usage Statistics`` as it helps the company improve their products. However, it is safe to click ``Don't send`` as well.<br/>
   ![DataSharing](https://cdn.discordapp.com/attachments/619382734984577042/696458023974993930/image_1.png "DataSharing")
  
  
@@ -118,7 +119,6 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 6. Validate Your Free Trial Account<br/>  
   Click the Evaluate button to verify your account. If the evaluation was successful, you will be able to click ``Continue``
   <br/><br/>
-  If you wish to receive email about JetBrains products, then check the two boxes on the window, and put in your email. <br/>
     <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you do wish to receive emails from JetBrains, then you must check mark both boxes in order to click ``Evaluate`` to continue.<br/>  
 
   ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
