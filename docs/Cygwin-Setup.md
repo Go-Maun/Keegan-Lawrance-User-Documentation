@@ -29,7 +29,7 @@ First, you will be setting up the directory and download source
   Depending on your computer, you will want to either download:
     1. 64-bit version
     2. 32-bit version<br/>  
-  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are unsure which version to download, refer to the [troubleshooting section](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/search/#how-do-i-check-if-im-using-a-64-bit-or-a-32-bit-version-of-windows) to help figure out your operating systems version.<br/>  
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/619382734984577042/696151746770239518/unknown.png "Download")
 <br/>  
 
