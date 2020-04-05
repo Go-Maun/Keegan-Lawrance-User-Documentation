@@ -29,12 +29,13 @@ First, you will be setting up the directory and download source
   Depending on your computer, you will want to either download  
     1. 64-bit version
     2. 32-bit version<br/>  
-  **NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/498622698050813962/695756069078564934/unknown.png "Download")
 <br/><br/>
 
 2. Run the file you downloaded<br/>  
   If you get a security warning, it is safe to ignore it and run the program.<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**Note:** This was downloaded in a Google Chrome browser. If your browser is different, the file may appear in a different location.
   ![Cygwin Download Link](https://cdn.discordapp.com/attachments/498622698050813962/695036150854713416/unknown.png "Download2")
 
 ## Running the Cygwin Setup
@@ -86,7 +87,9 @@ These proceeding steps will cover what packages to choose, and how to choose the
   <br/><br/>  
 
 4. Search the ``Devel`` drop-down list<br/>  
-  The package name must **EXACTLY** match _gcc-g++_. Click on the small arrow under the ``New`` collumn.<br/>  
+  The package name must match _gcc-g++_.<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/>**Warning:** The package name must exactly match _gcc-g++_, otherwise you will be downloading the wrong package.<br/>  
+  Click on the small arrow under the ``New`` collumn.<br/>  
   ![Cygwin Package3](https://cdn.discordapp.com/attachments/498622698050813962/695040472485330984/unknown.png "Package 3")
   <br/><br/>  
 
@@ -125,7 +128,7 @@ Once you have selected _gcc-g++_, _gdb_, and _make_ you can continue
 <br/><br/>  
 
 3. Download the packages<br/>  
-  **Note:** This process may take some time depending on how close you are to the Mirror Site you selected.<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**Note:** This process may take some time depending on how close you are to the Mirror Site you selected.<br/>  
   ![Cygwin package download3](https://cdn.discordapp.com/attachments/694977588405469265/694987084036833341/unknown.png "package download 3")
 <br/><br/>  
 
