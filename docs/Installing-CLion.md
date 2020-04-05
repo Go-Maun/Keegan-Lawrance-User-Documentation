@@ -28,7 +28,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 <br/>
 
 
-2. Download the Setup<br.>  
+2. Download the Setup<br/>  
   Click on the ``Download`` button on the middle of the screen.<br/>  
   On the right side of that button, you have an option to download a _.exe_ or a _.zip_ file. For the sake of simplicity and these instructions, you will be using the _.exe_ to install CLion.  
   ![CLion DownloadPage](https://cdn.discordapp.com/attachments/498622698050813962/695026972195028992/unknown.png "DownloadPage")
