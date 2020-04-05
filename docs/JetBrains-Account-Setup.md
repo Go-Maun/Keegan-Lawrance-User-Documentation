@@ -33,7 +33,7 @@ This section will help you create your account so that you can use CLion.
 4. Check Your Email<br/>  
   Check the email address that you signed up with.<br/>  
   Click on the confirmation email sent by JetBrains to activate your account.<br/>  
-  Once the email has finished loading, click the ``Confirm your account`` hyperlink to verify your email.
+  Once the email has finished loading, click the ``Confirm your account`` hyperlink to verify your email.  
   ![CLion Email](https://cdn.discordapp.com/attachments/694977588405469265/694990599753039973/unknown.png "Clion email alt text")
 <br/>
 
