@@ -75,11 +75,9 @@ First, you will be setting up the directory and download source
   
 <div style="background-color:rgba(0,255,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>
-<b>NOTE:</b> If an error message pops up, it is safe to create the new directory by clicking ``Yes``<br/>  
-</br>
+<b>NOTE:</b> If an error message pops up, it is safe to create the new directory by clicking Yes<br/>  
 </div>
-<br/><br/>
-
+<br/>
   ![Cygwin fourthPageAddition](https://cdn.discordapp.com/attachments/694977588405469265/694984075378819083/unknown.png "Setup 4.5")
   <br/><br/>  
   
@@ -110,12 +108,11 @@ These proceeding steps will cover what packages to choose, and how to choose the
 
 4. Search the ``Devel`` drop-down list<br/>  
   The package name must match _gcc-g++_.<br/>  
-<div style="background-color:rgb(255, 204, 102); text-align:center; vertical-align: middle; padding:10px 0;">
+<div style="background-color:rgb(255, 51, 0); text-align:center; vertical-align: middle; padding:10px 0;">
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>
   <b>WARNING:</b> The package name must exactly match <i>gcc-g++</i><br/>  
 </div>
-<br/><br/>
-
+<br/>
   ![Cygwin Package3](https://cdn.discordapp.com/attachments/498622698050813962/695040472485330984/unknown.png "Package 3")
   <br/><br/>  
 
@@ -156,7 +153,7 @@ Once you have selected _gcc-g++_, _gdb_, and _make_ you can continue
 3. Download the packages<br/>  
 <div style="background-color:rgba(0,255,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>
-<b>NOTE:</b> This process may take some time depending on hoow close you are to the mirror site you selected.<br/>  
+<b>NOTE:</b> This process may take some time depending on how close you are to the mirror site you selected.<br/>  
 </div>
 <br/><br/>
   ![Cygwin package download3](https://cdn.discordapp.com/attachments/694977588405469265/694987084036833341/unknown.png "package download 3")
@@ -166,6 +163,6 @@ Once you have selected _gcc-g++_, _gdb_, and _make_ you can continue
   Now that the packages have finished downloading, you can choose whether or not to add the Cygwin Terminal to your Desktop and/or Start Menu. Clicking on ``Finish`` will complete this process<br/>  
   ![Cygwin package download4](https://cdn.discordapp.com/attachments/694977588405469265/694987469409615952/unknown.png "package download 4")
 <br/><br/>  
-
+<hr>
 ## Conclusion
 You have now sucessfully downloaded Cygwin onto your computer. Your next steps are in [Creating a CLion Account](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/JetBrains-Account-Setup/).
