@@ -21,6 +21,11 @@ This section will help you download Cygwin to install three specific packages fo
 
 ---
 
+<div style="background-color:rgba(255, 0, 0, 1); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">TESTING</a>
+</div>
+
+
 ## Installing The Cygwin Setup
 
 
