@@ -9,6 +9,8 @@ nav_order: 99
 <br/><br/>
 <b>64-bit launcher or 32-bit launcher:</b> Shown in the CLion setup window, it is a simple shortcut that you can put on your desktop to easy access to the program.
 <br/><br/>
+<b>C:</b> A programming language mainly focused on a procedural coding structure. More information on C can be found [here.](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
+<br/><br/>
 <b>Compiler:</b> A term used when a computer converts a code into a readable language that the computer can understand.
 <br/><br/>
 <b>gcc-g++:</b> A compiler collection for the languages C and C++.
