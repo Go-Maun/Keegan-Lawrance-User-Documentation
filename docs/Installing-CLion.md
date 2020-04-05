@@ -119,7 +119,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 6. Validate Your Free Trial Account<br/>  
   Click the Evaluate button to verify your account. If the evaluation was successful, you will be able to click ``Continue``
   <br/><br/>
-    <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you do wish to receive emails from JetBrains, then you must check mark both boxes in order to click ``Evaluate`` to continue.<br/>  
+    <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you do wish to receive emails from JetBrains, then you must check mark both boxes and enter your email in order to click ``Evaluate`` to continue.<br/>  
 
   ![IDE ThirdPage](https://cdn.discordapp.com/attachments/498622698050813962/695031517067346071/unknown.png "IDE Third Page")
 <br/>
