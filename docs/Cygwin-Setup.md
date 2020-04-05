@@ -92,7 +92,7 @@ These proceeding steps will cover what packages to choose, and how to choose the
   ![Cygwin Package3](https://cdn.discordapp.com/attachments/498622698050813962/695040472485330984/unknown.png "Package 3")
   <br/><br/>  
 
-5. Select the highest numbered version on the drop-down menu<br/>  
+5. Select the highest numbered non-test number version on the drop-down menu<br/>  
   ![Cygwin Package4](https://cdn.discordapp.com/attachments/498622698050813962/695041017744851014/unknown.png "Package 4")
   <br/><br/>  
 
@@ -101,6 +101,10 @@ These proceeding steps will cover what packages to choose, and how to choose the
   <br/><br/>  
 
 ### Selecting _gdb_
+
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** It is safe to clear the search for _gcc-g++_ as long as you have the ``Src?`` box checked for it. This applies to _gdb_ and _make_ as well.<br/>  
+  
+  
 Follow along with the same steps from [gcc-g++](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Cygwin-Setup/#selecting-gcc-g), searching instead for _gdb_
 
 ![Cygwin gdb](https://cdn.discordapp.com/attachments/498622698050813962/695043794910838894/unknown.png "gdb 1")
