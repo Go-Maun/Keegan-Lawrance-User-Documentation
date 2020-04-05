@@ -64,6 +64,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
   - [x] Add "Open Folder as Project"  
   - [x] .c  
   - [x] .h   
+  
   After you have checked these boxes, click ``Next >``<br/>  
   
    ![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
@@ -119,70 +120,51 @@ You should be redirected to this window. Enter in your email and password to sig
 Once you have entered in your information, click ``Continue`` on the bottom right of the window.
 
 ![IDE SixthPage](https://cdn.discordapp.com/attachments/498622698050813962/695030756728242276/unknown.png "IDE Fourth Page")
-
 <br/>
 
-### **6.** Import Cygwin Into The IDE
-{: .no_toc }
-CLion should automatically detect your Cygwin and connect to it.
-<br/><br/>
-You can tell that you have Cygwin connected if the Debugger section shows _Cygwin GDB_.
-<br/><br/>
-If it does not, click the triple dot ``...`` button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.
-<br/><br/>
-Click on ``Start using CLion`` on the bottom right on the window.
 
-![IDE 5thPage](https://cdn.discordapp.com/attachments/498622698050813962/695049719889657896/unknown.png "IDE 5th page")
-
+6. Import Cygwin Into The IDE<br/>  
+  CLion should automatically detect your Cygwin and connect to it.<br/>  
+  You can tell that you have Cygwin connected if the Debugger section shows _Cygwin GDB_.<br/>  
+  If it does not, click the triple dot ``...`` button on the right side of the Debugger section and navigate to the folder where you installed *gdb.exe*. The address to that *.exe* should be exactly as displayed on the image below.<br/>  
+  Click on ``Start using CLion`` on the bottom right on the window.<br/>  
+  ![IDE 5thPage](https://cdn.discordapp.com/attachments/498622698050813962/695049719889657896/unknown.png "IDE 5th page")
 <br/>
 
-### **7.** Welcome to CLion!
-{: .no_toc }
-After you finish setting up your CLion, you should see this window.
-<br/><br/>
-You now have access to CLion and it's features!
 
-![IDE 6thPage](https://cdn.discordapp.com/attachments/694977588405469265/694995496720269363/unknown.png "IDE 6th page")
-
+7. Welcome to CLion!<br/>  
+  After you finish setting up your CLion, you should see this window.<br/>  
+  You now have access to CLion and it's features!  
+  ![IDE 6thPage](https://cdn.discordapp.com/attachments/694977588405469265/694995496720269363/unknown.png "IDE 6th page")
 <br/>
+
 
 ## Creating Your First C Program!
 You have succesfully set up your CLion IDE!
 
 This part of the section will show you how to compile and run the default "Hello, World!" file.
 
-### **1.** Create Your First Program
-{: .no_toc }
-Click on the ``New Project`` button on the front page, and this window will pop up.
-<br/><br/>
-Navigate to the ``C Executable`` section on the left side of the window and change language standard to ``C99``.
-<br/><br/>
-Click on the ``Create`` button on the bottom right.
-
-![HelloWorld](https://cdn.discordapp.com/attachments/498622698050813962/695050703609135114/unknown.png "helloworld 1")
-
+1. Create Your First Program<br/>  
+  Click on the ``New Project`` button on the front page, and this window will pop up.<br/>  
+  Navigate to the ``C Executable`` section on the left side of the window and change language standard to ``C99``.<br/>  
+  Click on the ``Create`` button on the bottom right.  
+  ![HelloWorld](https://cdn.discordapp.com/attachments/498622698050813962/695050703609135114/unknown.png "helloworld 1")
 <br/>
 
-### **2.** Execute and Run a Code pt.1
-{: .no_toc }
-This is what you will see after creating your file C file. 
-<br/><br/>
-A "Tip of the Day" will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.
 
-![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
-
+2. Tip of the Day<br/>  
+  This is what you will see after creating your file C file. <br/>  
+  A "Tip of the Day" will show up. If you wish to read about what the IDE has to offer, feel free to read through all of the tips. Otherwise, click ``Close``.<br/>  
+  ![HelloWorld2](https://cdn.discordapp.com/attachments/498622698050813962/695051257370509312/unknown.png "helloworld 2")
 <br/>
 
-### **3.** Execute and Run a Code pt.2
-{: .no_toc }
-Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE. 
 
-![HelloWorld3](https://cdn.discordapp.com/attachments/498622698050813962/695052272958439435/unknown.png "helloworld 3")
-
+3. Compiling Code<br/>  
+  Click on the <img src="https://cdn.discordapp.com/attachments/498622698050813962/695559765367193660/unknown.png" alt="playIcon" width="20"/> icon on the top right of the IDE.  
+  ![HelloWorld3](https://cdn.discordapp.com/attachments/498622698050813962/695052272958439435/unknown.png "helloworld 3")
 <br/>
 
-### **4.** Execute and Run the Code pt.3
-{: .no_toc }
-A box should show up on the bottom of the IDE. If it shows: "Hello, World!", then your program works!
 
-![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
+4. Execute and Run the Code <br/>  
+  A box should show up on the bottom of the IDE. If it shows: "Hello, World!", then your program works!  
+  ![HelloWorld4](https://cdn.discordapp.com/attachments/498622698050813962/695052779940478986/unknown.png "helloworld 4")
