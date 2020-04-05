@@ -69,7 +69,7 @@ This document will use the following typographic conventions.
 | Convention | Typeface | Examples |
 | ---------- | -------- | -------- |
 | Intractable Field | ``Message Blocks`` | ``Submit``, ``Next >`` |
-| Executable File | _Italics_ | _gcc-g++_, _gdb_, _make_ |
+| File Name | _Italics_ | _gcc-g++_, _gdb_, _make_ |
 
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**Note:** This is the note icon to indicate to be aware of the following instruction.
 <br/><br/>
