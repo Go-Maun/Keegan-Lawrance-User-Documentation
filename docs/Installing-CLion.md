@@ -66,6 +66,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
   - [x] .h  
   <br/>  
   After you have checked these boxes, click ``Next >``<br/>  
+  
    ![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
 <br/>
 
@@ -113,8 +114,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 <br/>
 
 
-### **5.** Sign Into Your JetBrains Account
-{: .no_toc }
+5. Sign Into Your JetBrains Account<br/>  
 You should be redirected to this window. Enter in your email and password to sign in. 
 <br/><br/>
 Once you have entered in your information, click ``Continue`` on the bottom right of the window.
