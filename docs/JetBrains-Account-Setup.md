@@ -26,14 +26,14 @@ This section will help you create your account so that you can use CLion.
 
 3. Sign Up Successful<br/>  
   After clicking the Sign-Up button, you should be redirected to another page with this message displayed.<br/>  
-  This means that you have successfully created your account.  
+  This means that you have successfully created your account.<br/>  
   ![CLion Successful SignUp Page](https://cdn.discordapp.com/attachments/619382734984577042/695023479334109264/unknown.png "CLion Confirmation Signup alt text")
 <br/>
 
 4. Check Your Email<br/>  
   Check the email address that you signed up with.<br/>  
   Click on the confirmation email sent by JetBrains to activate your account.<br/>  
-  Once the email has finished loading, click the ``Confirm your account`` hyperlink to verify your email.  
+  Once the email has finished loading, click the ``Confirm your account`` hyperlink to verify your email.<br/>  
   ![CLion Email](https://cdn.discordapp.com/attachments/694977588405469265/694990599753039973/unknown.png "Clion email alt text")
 <br/>
 
