@@ -26,10 +26,11 @@ This section will help you download Cygwin to install three specific packages fo
 
 First, you will be setting up the directory and download source 
 1. Go to [Cygwin's Website](https://cygwin.com/install.html)<br/>  
-  Depending on your computer, you will want to either download  
+  Depending on your computer, you will want to either download:
     1. 64-bit version
     2. 32-bit version<br/>  
-  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
+  > <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
+  
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/619382734984577042/696151746770239518/unknown.png "Download")
 <br/><br/>
 
