@@ -152,7 +152,7 @@ Once you have selected _gcc-g++_, _gdb_, and _make_ you can continue
 
 3. Download the packages<br/>  
 <div style="background-color:rgba(0,255,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
-<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>
+<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="note" width="50"/>
 <b>NOTE:</b> This process may take some time depending on how close you are to the mirror site you selected.<br/>  
 </div>
 <br/><br/>
