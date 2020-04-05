@@ -64,7 +64,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
   - [x] Add "Open Folder as Project"  
   - [x] .c  
   - [x] .h  
-  After you have checked these boxes, click ``Next >``<br/>  
+  After you have checked these boxes, click ``Next >``  
   
   ![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
 <br/>
