@@ -52,7 +52,7 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
 
 2. Choosing Install Location<br/>   
   The next window displays the location of where CLion will be downloaded on your computer. If you would like to change the destination of where it will download the files, click on the ``Browse`` button to locate the folder you wish to have it saved to. Otherwise, it is fine to leave it as default.<br/>  
-  Click ``Next >``<br/>
+  Click ``Next >``<br/>  
   ![CLion SecondPage](https://cdn.discordapp.com/attachments/694977588405469265/694991527985938542/unknown.png "Second Page")
 <br/>
 
@@ -63,7 +63,8 @@ CLion is the IDE that Cygwin will be using to compile the C language. We are usi
   - [x] Add launchers dir to the PATH  
   - [x] Add "Open Folder as Project"  
   - [x] .c  
-  - [x] .h<br/>  
+  - [x] .h
+  <br/>  
   After you have checked these boxes, click ``Next >``<br/>  
    ![CLion ThirdPage](https://cdn.discordapp.com/attachments/694977588405469265/694991864788418600/unknown.png "Third Page")
 <br/>
