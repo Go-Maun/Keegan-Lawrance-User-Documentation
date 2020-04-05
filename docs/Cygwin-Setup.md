@@ -31,19 +31,12 @@ First, you will be setting up the directory and download source
     2. 32-bit version<br/>  
   <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/619382734984577042/696151746770239518/unknown.png "Download")
-<br/>
-<br/>
+<br/>  
 
 2. Run the file you downloaded<br/>  
   If you get a security warning, it is safe to ignore it and run the program.<br/>  
   
-<div style="background-color:rgba(0,255,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
-<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>
-<b>NOTE:</b> This was downloaded in a Google Chrome browser. If your browser is different, the file may appear in a different location.
-<br/>
-</div>
-<br/>
-<br/>
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** This was downloaded in a Google Chrome browser. If your browser is different, the file may appear in a different location.<br/>  
   ![Cygwin Download Link](https://cdn.discordapp.com/attachments/498622698050813962/695036150854713416/unknown.png "Download2")
 
 ## Running the Cygwin Setup
