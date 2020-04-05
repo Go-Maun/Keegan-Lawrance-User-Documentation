@@ -19,12 +19,11 @@ This section will help you download Cygwin to install three specific packages fo
 1. TOC
 {:toc}
 
----
-
 <div style="background-color:rgba(255, 0, 0, 1); text-align:center; vertical-align: middle; padding:40px 0;">
-TESTING
+<img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
 </div>
 
+---
 
 ## Installing The Cygwin Setup
 
@@ -35,6 +34,7 @@ First, you will be setting up the directory and download source
     1. 64-bit version
     2. 32-bit version<br/>  
 <br/>
+
 <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144246062841937/download.png" alt="note" width="50"/>**NOTE:** If you are not certain of which version is compatible with your computer, it will be safer to download the 32-bit version.<br/>  
   
   ![Cygwin Download Page](https://cdn.discordapp.com/attachments/619382734984577042/696151746770239518/unknown.png "Download")
