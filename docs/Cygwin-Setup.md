@@ -88,7 +88,7 @@ These proceeding steps will cover what packages to choose, and how to choose the
 
 4. Search the ``Devel`` drop-down list<br/>  
   The package name must match _gcc-g++_.<br/>  
-  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/>**WARNING:** The package name must exactly match _gcc-g++_<br/>  
+  <img src="https://cdn.discordapp.com/attachments/498622698050813962/696144248512446525/warning.png" alt="warning" width="50"/>**WARNING:** The package name must exactly match _gcc-g++_. This applies to _gdb_ and _make_ in the next steps as well.<br/>  
   ![Cygwin Package3](https://cdn.discordapp.com/attachments/498622698050813962/695040472485330984/unknown.png "Package 3")
   <br/><br/>  
 
