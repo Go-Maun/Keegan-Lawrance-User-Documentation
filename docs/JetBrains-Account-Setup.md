@@ -53,4 +53,4 @@ This section will help you create your account so that you can use CLion.
   ![CLion Successful Account](https://cdn.discordapp.com/attachments/498622698050813962/695025702109446246/unknown.png "CLion account")
 
 ## Conclusion
-Your next steps is to [set up your CLion IDE.](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Installing-CLion/)
+Your final steps are to [set up your CLion IDE.](https://go-maun.github.io/Keegan-Lawrance-User-Documentation/docs/Installing-CLion/)
